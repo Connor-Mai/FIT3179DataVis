@@ -1,0 +1,64 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 500,
+    "title": "Commericial Flight Connections between Australian Airports from 2014 July-December",
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/main/aus_states.topojson",
+          "format": {"type": "topojson", "feature": "STE_2016_AUST"}
+        },
+        "mark": {"type": "geoshape", "fill": "#c0c0c0", "stroke": "white"}
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/e20563e41e5a6b5270d8d90f0b49a2980e513995/major-airports-aus.csv"
+        },
+        "mark": {"type": "circle"},
+        "encoding": {
+          "longitude": {"field": "longitude_deg", "type": "quantitative"},
+          "latitude": {"field": "latitude_deg", "type": "quantitative"},
+          "size": {"value": 50},
+          "color": {"value": "black"},
+          "tooltip": [
+            {"field": "name", "type": "nominal", "title":"Name"},
+            {"field": "iata_code", "type": "nominal","title":"Code"}
+          ]
+        }
+      },
+      
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/main/domestic-transit-2014.csv"
+        },
+        "transform": [
+            {"lookup": "City1",
+                "from": {
+                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/e20563e41e5a6b5270d8d90f0b49a2980e513995/major-airports-aus.csv"
+                },
+            "key": "iata_code",
+            "fields": ["longitude_deg","latitude_deg"]}
+            },
+            {"lookup": "City2",
+                "from": {
+                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/e20563e41e5a6b5270d8d90f0b49a2980e513995/major-airports-aus.csv"
+                },
+            "key": "iata_code",
+            "fields": ["longitude_deg","latitude_deg"]}
+            }
+        ],
+        "mark": {"type": "line"},
+        "encoding": {
+          "longitude": {"field": "longitude_deg", "type": "quantitative"},
+          "latitude": {"field": "latitude_deg", "type": "quantitative"},
+          "color": { "field": "Aircraft_Trips", "type": "quantitative", "scale": {"scheme": "reds"} },
+          "tooltip": [
+            {"field": "City Pair Route", "type": "nominal", "title":"Route"},
+            {"field": "Aircraft_Trips", "type": "quantitative","title":"No. of Trips"}
+          ]
+        }
+      }
+
+    ]
+  }
