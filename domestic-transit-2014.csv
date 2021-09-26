@@ -125,12 +125,6 @@ BNE,HTI,2014,9,"12,997",94,81.2,888,"16,002", ,Brisbane - Hamilton Island
 BNE,HTI,2014,10,"12,915",86,86,888,"15,016", ,Brisbane - Hamilton Island
 BNE,HTI,2014,11,"9,392",65,87.2,888,"10,774", ,Brisbane - Hamilton Island
 BNE,HTI,2014,12,"11,628",96,87.4,888,"13,304", ,Brisbane - Hamilton Island
-BNE,ISA,2014,7,"13,644",170,56.9,"1,573","23,996",,Brisbane - Mount Isa
-BNE,ISA,2014,8,"12,948",164,55.6,"1,573","23,268", ,Brisbane - Mount Isa
-BNE,ISA,2014,9,"12,587",163,54.8,"1,573","22,960", ,Brisbane - Mount Isa
-BNE,ISA,2014,10,"12,883",170,52.7,"1,573","24,440", ,Brisbane - Mount Isa
-BNE,ISA,2014,11,"10,994",156,48.8,"1,573","22,520", ,Brisbane - Mount Isa
-BNE,ISA,2014,12,"11,460",158,52.1,"1,573","21,980", ,Brisbane - Mount Isa
 BNE,MEL,2014,7,"295,385","2,157",81.9,"1,381","360,546",,Brisbane - Melbourne
 BNE,MEL,2014,8,"277,998","2,094",79.7,"1,381","348,822", ,Brisbane - Melbourne
 BNE,MEL,2014,9,"281,565","2,061",81.6,"1,381","345,066", ,Brisbane - Melbourne
@@ -365,12 +359,6 @@ PQQ,SYD,2014,9,"15,265",390,68.8,321,"22,202", ,Port Macquarie - Sydney
 PQQ,SYD,2014,10,"17,143",406,73.9,321,"23,200", ,Port Macquarie - Sydney
 PQQ,SYD,2014,11,"16,198",375,73.7,321,"21,971", ,Port Macquarie - Sydney
 PQQ,SYD,2014,12,"17,060",398,72.4,321,"23,572", ,Port Macquarie - Sydney
-QNA,SYD,2014,7,"27,904",267,73.1,612,"38,190",,Ballina - Sydney
-QNA,SYD,2014,8,"23,877",240,73.7,612,"32,407", ,Ballina - Sydney
-QNA,SYD,2014,9,"29,099",267,76.6,612,"37,990", ,Ballina - Sydney
-QNA,SYD,2014,10,"28,475",261,80.5,612,"35,356", ,Ballina - Sydney
-QNA,SYD,2014,11,"26,277",230,82.4,612,"31,908", ,Ballina - Sydney
-QNA,SYD,2014,12,"29,521",256,76.4,612,"38,654", ,Ballina - Sydney
 SYD,TSV,2014,7,"17,020",120,85.7,"1,690","19,868",,Sydney - Townsville
 SYD,TSV,2014,8,"15,743",116,83.2,"1,690","18,914", ,Sydney - Townsville
 SYD,TSV,2014,9,"16,274",118,84,"1,690","19,380", ,Sydney - Townsville
