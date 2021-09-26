@@ -1,4 +1,4 @@
-City Pair Route,,Year,Month,Revenue Passengers,Aircraft Trips,Rev Pax,Distance,Seats,,City Pair Route
+City1,City2,Year,Month,Revenue Passengers,Aircraft_Trips,Rev Pax,Distance,Seats,,City Pair Route
 ABX,SYD,2014,7,"19,747",589,65.8,452,"30,007",,Albury - Sydney
 ABX,SYD,2014,8,"21,085",573,69.2,452,"30,477", ,Albury - Sydney
 ABX,SYD,2014,9,"20,138",536,67.5,452,"29,840", ,Albury - Sydney
