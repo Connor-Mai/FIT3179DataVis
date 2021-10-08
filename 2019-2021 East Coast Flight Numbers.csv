@@ -29,21 +29,21 @@ Date,Route,Flights
 2021-04-01,Brisbane - Canberra,410
 2021-05-01,Brisbane - Canberra,512
 2021-06-01,Brisbane - Canberra,498
-2019-01-01,Brisbane - Melbourne,"2,216"
-2019-02-01,Brisbane - Melbourne,"1,956"
-2019-03-01,Brisbane - Melbourne,"2,133"
-2019-04-01,Brisbane - Melbourne,"2,137"
-2019-05-01,Brisbane - Melbourne,"2,017"
-2019-06-01,Brisbane - Melbourne,"1,991"
-2019-07-01,Brisbane - Melbourne,"2,259"
-2019-08-01,Brisbane - Melbourne,"2,108"
-2019-09-01,Brisbane - Melbourne,"2,111"
-2019-10-01,Brisbane - Melbourne,"2,211"
-2019-11-01,Brisbane - Melbourne,"2,077"
-2019-12-01,Brisbane - Melbourne,"2,205"
-2020-01-01,Brisbane - Melbourne,"2,132"
-2020-02-01,Brisbane - Melbourne,"1,891"
-2020-03-01,Brisbane - Melbourne,"1,663"
+2019-01-01,Brisbane - Melbourne,2216
+2019-02-01,Brisbane - Melbourne,1956
+2019-03-01,Brisbane - Melbourne,2133
+2019-04-01,Brisbane - Melbourne,2137
+2019-05-01,Brisbane - Melbourne,2017
+2019-06-01,Brisbane - Melbourne,1991
+2019-07-01,Brisbane - Melbourne,2259
+2019-08-01,Brisbane - Melbourne,2108
+2019-09-01,Brisbane - Melbourne,2111
+2019-10-01,Brisbane - Melbourne,2211
+2019-11-01,Brisbane - Melbourne,2077
+2019-12-01,Brisbane - Melbourne,2205
+2020-01-01,Brisbane - Melbourne,2132
+2020-02-01,Brisbane - Melbourne,1891
+2020-03-01,Brisbane - Melbourne,1663
 2020-04-01,Brisbane - Melbourne,257
 2020-05-01,Brisbane - Melbourne,267
 2020-06-01,Brisbane - Melbourne,355
@@ -52,28 +52,28 @@ Date,Route,Flights
 2020-09-01,Brisbane - Melbourne,182
 2020-10-01,Brisbane - Melbourne,174
 2020-11-01,Brisbane - Melbourne,220
-2020-12-01,Brisbane - Melbourne,"1,138"
+2020-12-01,Brisbane - Melbourne,1138
 2021-01-01,Brisbane - Melbourne,972
 2021-02-01,Brisbane - Melbourne,622
-2021-03-01,Brisbane - Melbourne,"1,096"
-2021-04-01,Brisbane - Melbourne,"1,268"
-2021-05-01,Brisbane - Melbourne,"1,456"
+2021-03-01,Brisbane - Melbourne,1096
+2021-04-01,Brisbane - Melbourne,1268
+2021-05-01,Brisbane - Melbourne,1456
 2021-06-01,Brisbane - Melbourne,698
-2019-01-01,Brisbane - Sydney,"2,749"
-2019-02-01,Brisbane - Sydney,"2,717"
-2019-03-01,Brisbane - Sydney,"3,008"
-2019-04-01,Brisbane - Sydney,"2,965"
-2019-05-01,Brisbane - Sydney,"3,074"
-2019-06-01,Brisbane - Sydney,"2,834"
-2019-07-01,Brisbane - Sydney,"3,163"
-2019-08-01,Brisbane - Sydney,"2,972"
-2019-09-01,Brisbane - Sydney,"2,954"
-2019-10-01,Brisbane - Sydney,"3,107"
-2019-11-01,Brisbane - Sydney,"2,894"
-2019-12-01,Brisbane - Sydney,"2,878"
-2020-01-01,Brisbane - Sydney,"2,689"
-2020-02-01,Brisbane - Sydney,"2,596"
-2020-03-01,Brisbane - Sydney,"2,252"
+2019-01-01,Brisbane - Sydney,2749
+2019-02-01,Brisbane - Sydney,2717
+2019-03-01,Brisbane - Sydney,3008
+2019-04-01,Brisbane - Sydney,2965
+2019-05-01,Brisbane - Sydney,3074
+2019-06-01,Brisbane - Sydney,2834
+2019-07-01,Brisbane - Sydney,3163
+2019-08-01,Brisbane - Sydney,2972
+2019-09-01,Brisbane - Sydney,2954
+2019-10-01,Brisbane - Sydney,3107
+2019-11-01,Brisbane - Sydney,2894
+2019-12-01,Brisbane - Sydney,2878
+2020-01-01,Brisbane - Sydney,2689
+2020-02-01,Brisbane - Sydney,2596
+2020-03-01,Brisbane - Sydney,2252
 2020-04-01,Brisbane - Sydney,424
 2020-05-01,Brisbane - Sydney,353
 2020-06-01,Brisbane - Sydney,489
@@ -82,13 +82,13 @@ Date,Route,Flights
 2020-09-01,Brisbane - Sydney,362
 2020-10-01,Brisbane - Sydney,311
 2020-11-01,Brisbane - Sydney,471
-2020-12-01,Brisbane - Sydney,"1,301"
+2020-12-01,Brisbane - Sydney,1301
 2021-01-01,Brisbane - Sydney,496
-2021-02-01,Brisbane - Sydney,"1,230"
-2021-03-01,Brisbane - Sydney,"1,909"
-2021-04-01,Brisbane - Sydney,"1,729"
-2021-05-01,Brisbane - Sydney,"2,004"
-2021-06-01,Brisbane - Sydney,"1,861"
+2021-02-01,Brisbane - Sydney,1230
+2021-03-01,Brisbane - Sydney,1909
+2021-04-01,Brisbane - Sydney,1729
+2021-05-01,Brisbane - Sydney,2004
+2021-06-01,Brisbane - Sydney,1861
 2019-01-01,Canberra - Melbourne,799
 2019-02-01,Canberra - Melbourne,877
 2019-03-01,Canberra - Melbourne,952
@@ -150,20 +150,20 @@ Date,Route,Flights
 2021-05-01,Canberra - Gold Coast,123
 2021-06-01,Canberra - Gold Coast,119
 2019-01-01,Canberra - Sydney,933
-2019-02-01,Canberra - Sydney,"1,345"
-2019-03-01,Canberra - Sydney,"1,466"
-2019-04-01,Canberra - Sydney,"1,335"
-2019-05-01,Canberra - Sydney,"1,427"
-2019-06-01,Canberra - Sydney,"1,350"
-2019-07-01,Canberra - Sydney,"1,473"
-2019-08-01,Canberra - Sydney,"1,434"
-2019-09-01,Canberra - Sydney,"1,431"
-2019-10-01,Canberra - Sydney,"1,493"
-2019-11-01,Canberra - Sydney,"1,427"
-2019-12-01,Canberra - Sydney,"1,178"
+2019-02-01,Canberra - Sydney,1345
+2019-03-01,Canberra - Sydney,1466
+2019-04-01,Canberra - Sydney,1335
+2019-05-01,Canberra - Sydney,1427
+2019-06-01,Canberra - Sydney,1350
+2019-07-01,Canberra - Sydney,1473
+2019-08-01,Canberra - Sydney,1434
+2019-09-01,Canberra - Sydney,1431
+2019-10-01,Canberra - Sydney,1493
+2019-11-01,Canberra - Sydney,1427
+2019-12-01,Canberra - Sydney,1178
 2020-01-01,Canberra - Sydney,914
-2020-02-01,Canberra - Sydney,"1,298"
-2020-03-01,Canberra - Sydney,"1,071"
+2020-02-01,Canberra - Sydney,1298
+2020-03-01,Canberra - Sydney,1071
 2020-04-01,Canberra - Sydney,
 2020-05-01,Canberra - Sydney,
 2020-06-01,Canberra - Sydney,
@@ -179,19 +179,19 @@ Date,Route,Flights
 2021-04-01,Canberra - Sydney,544
 2021-05-01,Canberra - Sydney,961
 2021-06-01,Canberra - Sydney,833
-2019-01-01,Gold Coast - Melbourne,"1,236"
+2019-01-01,Gold Coast - Melbourne,1236
 2019-02-01,Gold Coast - Melbourne,846
 2019-03-01,Gold Coast - Melbourne,941
-2019-04-01,Gold Coast - Melbourne,"1,125"
+2019-04-01,Gold Coast - Melbourne,1125
 2019-05-01,Gold Coast - Melbourne,955
 2019-06-01,Gold Coast - Melbourne,963
-2019-07-01,Gold Coast - Melbourne,"1,125"
-2019-08-01,Gold Coast - Melbourne,"1,024"
-2019-09-01,Gold Coast - Melbourne,"1,058"
-2019-10-01,Gold Coast - Melbourne,"1,131"
-2019-11-01,Gold Coast - Melbourne,"1,005"
-2019-12-01,Gold Coast - Melbourne,"1,188"
-2020-01-01,Gold Coast - Melbourne,"1,123"
+2019-07-01,Gold Coast - Melbourne,1125
+2019-08-01,Gold Coast - Melbourne,1024
+2019-09-01,Gold Coast - Melbourne,1058
+2019-10-01,Gold Coast - Melbourne,1131
+2019-11-01,Gold Coast - Melbourne,1005
+2019-12-01,Gold Coast - Melbourne,1188
+2020-01-01,Gold Coast - Melbourne,1123
 2020-02-01,Gold Coast - Melbourne,862
 2020-03-01,Gold Coast - Melbourne,754
 2020-04-01,Gold Coast - Melbourne,
@@ -206,24 +206,24 @@ Date,Route,Flights
 2021-01-01,Gold Coast - Melbourne,865
 2021-02-01,Gold Coast - Melbourne,409
 2021-03-01,Gold Coast - Melbourne,689
-2021-04-01,Gold Coast - Melbourne,"1,146"
-2021-05-01,Gold Coast - Melbourne,"1,093"
+2021-04-01,Gold Coast - Melbourne,1146
+2021-05-01,Gold Coast - Melbourne,1093
 2021-06-01,Gold Coast - Melbourne,519
-2019-01-01,Melbourne - Sydney,"4,892"
-2019-02-01,Melbourne - Sydney,"4,850"
-2019-03-01,Melbourne - Sydney,"5,296"
-2019-04-01,Melbourne - Sydney,"4,938"
-2019-05-01,Melbourne - Sydney,"5,218"
-2019-06-01,Melbourne - Sydney,"4,811"
-2019-07-01,Melbourne - Sydney,"5,136"
-2019-08-01,Melbourne - Sydney,"5,048"
-2019-09-01,Melbourne - Sydney,"4,976"
-2019-10-01,Melbourne - Sydney,"5,397"
-2019-11-01,Melbourne - Sydney,"5,005"
-2019-12-01,Melbourne - Sydney,"4,857"
-2020-01-01,Melbourne - Sydney,"4,869"
-2020-02-01,Melbourne - Sydney,"4,677"
-2020-03-01,Melbourne - Sydney,"3,726"
+2019-01-01,Melbourne - Sydney,4892
+2019-02-01,Melbourne - Sydney,4850
+2019-03-01,Melbourne - Sydney,5296
+2019-04-01,Melbourne - Sydney,4938
+2019-05-01,Melbourne - Sydney,5218
+2019-06-01,Melbourne - Sydney,4811
+2019-07-01,Melbourne - Sydney,5136
+2019-08-01,Melbourne - Sydney,5048
+2019-09-01,Melbourne - Sydney,4976
+2019-10-01,Melbourne - Sydney,5397
+2019-11-01,Melbourne - Sydney,5005
+2019-12-01,Melbourne - Sydney,4857
+2020-01-01,Melbourne - Sydney,4869
+2020-02-01,Melbourne - Sydney,4677
+2020-03-01,Melbourne - Sydney,3726
 2020-04-01,Melbourne - Sydney,439
 2020-05-01,Melbourne - Sydney,377
 2020-06-01,Melbourne - Sydney,707
@@ -232,28 +232,28 @@ Date,Route,Flights
 2020-09-01,Melbourne - Sydney,362
 2020-10-01,Melbourne - Sydney,366
 2020-11-01,Melbourne - Sydney,729
-2020-12-01,Melbourne - Sydney,"1,910"
+2020-12-01,Melbourne - Sydney,1910
 2021-01-01,Melbourne - Sydney,633
-2021-02-01,Melbourne - Sydney,"1,436"
-2021-03-01,Melbourne - Sydney,"3,276"
-2021-04-01,Melbourne - Sydney,"3,777"
-2021-05-01,Melbourne - Sydney,"3,613"
-2021-06-01,Melbourne - Sydney,"1,204"
-2019-01-01,Gold Coast - Sydney,"1,609"
-2019-02-01,Gold Coast - Sydney,"1,262"
-2019-03-01,Gold Coast - Sydney,"1,408"
-2019-04-01,Gold Coast - Sydney,"1,578"
-2019-05-01,Gold Coast - Sydney,"1,478"
-2019-06-01,Gold Coast - Sydney,"1,440"
-2019-07-01,Gold Coast - Sydney,"1,587"
-2019-08-01,Gold Coast - Sydney,"1,463"
-2019-09-01,Gold Coast - Sydney,"1,528"
-2019-10-01,Gold Coast - Sydney,"1,591"
-2019-11-01,Gold Coast - Sydney,"1,456"
-2019-12-01,Gold Coast - Sydney,"1,570"
-2020-01-01,Gold Coast - Sydney,"1,696"
-2020-02-01,Gold Coast - Sydney,"1,329"
-2020-03-01,Gold Coast - Sydney,"1,066"
+2021-02-01,Melbourne - Sydney,1436
+2021-03-01,Melbourne - Sydney,3276
+2021-04-01,Melbourne - Sydney,3777
+2021-05-01,Melbourne - Sydney,3613
+2021-06-01,Melbourne - Sydney,1204
+2019-01-01,Gold Coast - Sydney,1609
+2019-02-01,Gold Coast - Sydney,1262
+2019-03-01,Gold Coast - Sydney,1408
+2019-04-01,Gold Coast - Sydney,1578
+2019-05-01,Gold Coast - Sydney,1478
+2019-06-01,Gold Coast - Sydney,1440
+2019-07-01,Gold Coast - Sydney,1587
+2019-08-01,Gold Coast - Sydney,1463
+2019-09-01,Gold Coast - Sydney,1528
+2019-10-01,Gold Coast - Sydney,1591
+2019-11-01,Gold Coast - Sydney,1456
+2019-12-01,Gold Coast - Sydney,1570
+2020-01-01,Gold Coast - Sydney,1696
+2020-02-01,Gold Coast - Sydney,1329
+2020-03-01,Gold Coast - Sydney,1066
 2020-04-01,Gold Coast - Sydney,44
 2020-05-01,Gold Coast - Sydney,
 2020-06-01,Gold Coast - Sydney,44
@@ -266,6 +266,6 @@ Date,Route,Flights
 2021-01-01,Gold Coast - Sydney,
 2021-02-01,Gold Coast - Sydney,482
 2021-03-01,Gold Coast - Sydney,880
-2021-04-01,Gold Coast - Sydney,"1,446"
-2021-05-01,Gold Coast - Sydney,"1,266"
-2021-06-01,Gold Coast - Sydney,"1,134"
+2021-04-01,Gold Coast - Sydney,1446
+2021-05-01,Gold Coast - Sydney,1266
+2021-06-01,Gold Coast - Sydney,1134
