@@ -1,0 +1,271 @@
+Date,Route,Flights
+1/01/2019,Brisbane - Canberra,527
+1/02/2019,Brisbane - Canberra,476
+1/03/2019,Brisbane - Canberra,523
+1/04/2019,Brisbane - Canberra,534
+1/05/2019,Brisbane - Canberra,554
+1/06/2019,Brisbane - Canberra,528
+1/07/2019,Brisbane - Canberra,574
+1/08/2019,Brisbane - Canberra,566
+1/09/2019,Brisbane - Canberra,558
+1/10/2019,Brisbane - Canberra,575
+1/11/2019,Brisbane - Canberra,529
+1/12/2019,Brisbane - Canberra,558
+1/01/2020,Brisbane - Canberra,530
+1/02/2020,Brisbane - Canberra,492
+1/03/2020,Brisbane - Canberra,422
+1/04/2020,Brisbane - Canberra,
+1/05/2020,Brisbane - Canberra,
+1/06/2020,Brisbane - Canberra,78
+1/07/2020,Brisbane - Canberra,134
+1/08/2020,Brisbane - Canberra,110
+1/09/2020,Brisbane - Canberra,79
+1/10/2020,Brisbane - Canberra,215
+1/11/2020,Brisbane - Canberra,303
+1/12/2020,Brisbane - Canberra,382
+1/01/2021,Brisbane - Canberra,384
+1/02/2021,Brisbane - Canberra,413
+1/03/2021,Brisbane - Canberra,478
+1/04/2021,Brisbane - Canberra,410
+1/05/2021,Brisbane - Canberra,512
+1/06/2021,Brisbane - Canberra,498
+1/01/2019,Brisbane - Melbourne,"2,216"
+1/02/2019,Brisbane - Melbourne,"1,956"
+1/03/2019,Brisbane - Melbourne,"2,133"
+1/04/2019,Brisbane - Melbourne,"2,137"
+1/05/2019,Brisbane - Melbourne,"2,017"
+1/06/2019,Brisbane - Melbourne,"1,991"
+1/07/2019,Brisbane - Melbourne,"2,259"
+1/08/2019,Brisbane - Melbourne,"2,108"
+1/09/2019,Brisbane - Melbourne,"2,111"
+1/10/2019,Brisbane - Melbourne,"2,211"
+1/11/2019,Brisbane - Melbourne,"2,077"
+1/12/2019,Brisbane - Melbourne,"2,205"
+1/01/2020,Brisbane - Melbourne,"2,132"
+1/02/2020,Brisbane - Melbourne,"1,891"
+1/03/2020,Brisbane - Melbourne,"1,663"
+1/04/2020,Brisbane - Melbourne,257
+1/05/2020,Brisbane - Melbourne,267
+1/06/2020,Brisbane - Melbourne,355
+1/07/2020,Brisbane - Melbourne,232
+1/08/2020,Brisbane - Melbourne,138
+1/09/2020,Brisbane - Melbourne,182
+1/10/2020,Brisbane - Melbourne,174
+1/11/2020,Brisbane - Melbourne,220
+1/12/2020,Brisbane - Melbourne,"1,138"
+1/01/2021,Brisbane - Melbourne,972
+1/02/2021,Brisbane - Melbourne,622
+1/03/2021,Brisbane - Melbourne,"1,096"
+1/04/2021,Brisbane - Melbourne,"1,268"
+1/05/2021,Brisbane - Melbourne,"1,456"
+1/06/2021,Brisbane - Melbourne,698
+1/01/2019,Brisbane - Sydney,"2,749"
+1/02/2019,Brisbane - Sydney,"2,717"
+1/03/2019,Brisbane - Sydney,"3,008"
+1/04/2019,Brisbane - Sydney,"2,965"
+1/05/2019,Brisbane - Sydney,"3,074"
+1/06/2019,Brisbane - Sydney,"2,834"
+1/07/2019,Brisbane - Sydney,"3,163"
+1/08/2019,Brisbane - Sydney,"2,972"
+1/09/2019,Brisbane - Sydney,"2,954"
+1/10/2019,Brisbane - Sydney,"3,107"
+1/11/2019,Brisbane - Sydney,"2,894"
+1/12/2019,Brisbane - Sydney,"2,878"
+1/01/2020,Brisbane - Sydney,"2,689"
+1/02/2020,Brisbane - Sydney,"2,596"
+1/03/2020,Brisbane - Sydney,"2,252"
+1/04/2020,Brisbane - Sydney,424
+1/05/2020,Brisbane - Sydney,353
+1/06/2020,Brisbane - Sydney,489
+1/07/2020,Brisbane - Sydney,939
+1/08/2020,Brisbane - Sydney,421
+1/09/2020,Brisbane - Sydney,362
+1/10/2020,Brisbane - Sydney,311
+1/11/2020,Brisbane - Sydney,471
+1/12/2020,Brisbane - Sydney,"1,301"
+1/01/2021,Brisbane - Sydney,496
+1/02/2021,Brisbane - Sydney,"1,230"
+1/03/2021,Brisbane - Sydney,"1,909"
+1/04/2021,Brisbane - Sydney,"1,729"
+1/05/2021,Brisbane - Sydney,"2,004"
+1/06/2021,Brisbane - Sydney,"1,861"
+1/01/2019,Canberra - Melbourne,799
+1/02/2019,Canberra - Melbourne,877
+1/03/2019,Canberra - Melbourne,952
+1/04/2019,Canberra - Melbourne,909
+1/05/2019,Canberra - Melbourne,973
+1/06/2019,Canberra - Melbourne,898
+1/07/2019,Canberra - Melbourne,963
+1/08/2019,Canberra - Melbourne,971
+1/09/2019,Canberra - Melbourne,949
+1/10/2019,Canberra - Melbourne,977
+1/11/2019,Canberra - Melbourne,936
+1/12/2019,Canberra - Melbourne,852
+1/01/2020,Canberra - Melbourne,699
+1/02/2020,Canberra - Melbourne,900
+1/03/2020,Canberra - Melbourne,764
+1/04/2020,Canberra - Melbourne,98
+1/05/2020,Canberra - Melbourne,70
+1/06/2020,Canberra - Melbourne,117
+1/07/2020,Canberra - Melbourne,90
+1/08/2020,Canberra - Melbourne,
+1/09/2020,Canberra - Melbourne,
+1/10/2020,Canberra - Melbourne,
+1/11/2020,Canberra - Melbourne,
+1/12/2020,Canberra - Melbourne,303
+1/01/2021,Canberra - Melbourne,345
+1/02/2021,Canberra - Melbourne,350
+1/03/2021,Canberra - Melbourne,390
+1/04/2021,Canberra - Melbourne,495
+1/05/2021,Canberra - Melbourne,601
+1/06/2021,Canberra - Melbourne,300
+1/01/2019,Canberra - Gold Coast,
+1/02/2019,Canberra - Gold Coast,
+1/03/2019,Canberra - Gold Coast,
+1/04/2019,Canberra - Gold Coast,
+1/05/2019,Canberra - Gold Coast,
+1/06/2019,Canberra - Gold Coast,
+1/07/2019,Canberra - Gold Coast,
+1/08/2019,Canberra - Gold Coast,
+1/09/2019,Canberra - Gold Coast,
+1/10/2019,Canberra - Gold Coast,
+1/11/2019,Canberra - Gold Coast,
+1/12/2019,Canberra - Gold Coast,
+1/01/2020,Canberra - Gold Coast,
+1/02/2020,Canberra - Gold Coast,
+1/03/2020,Canberra - Gold Coast,
+1/04/2020,Canberra - Gold Coast,
+1/05/2020,Canberra - Gold Coast,
+1/06/2020,Canberra - Gold Coast,
+1/07/2020,Canberra - Gold Coast,
+1/08/2020,Canberra - Gold Coast,
+1/09/2020,Canberra - Gold Coast,
+1/10/2020,Canberra - Gold Coast,
+1/11/2020,Canberra - Gold Coast,
+1/12/2020,Canberra - Gold Coast,
+1/01/2021,Canberra - Gold Coast,
+1/02/2021,Canberra - Gold Coast,
+1/03/2021,Canberra - Gold Coast,
+1/04/2021,Canberra - Gold Coast,124
+1/05/2021,Canberra - Gold Coast,123
+1/06/2021,Canberra - Gold Coast,119
+1/01/2019,Canberra - Sydney,933
+1/02/2019,Canberra - Sydney,"1,345"
+1/03/2019,Canberra - Sydney,"1,466"
+1/04/2019,Canberra - Sydney,"1,335"
+1/05/2019,Canberra - Sydney,"1,427"
+1/06/2019,Canberra - Sydney,"1,350"
+1/07/2019,Canberra - Sydney,"1,473"
+1/08/2019,Canberra - Sydney,"1,434"
+1/09/2019,Canberra - Sydney,"1,431"
+1/10/2019,Canberra - Sydney,"1,493"
+1/11/2019,Canberra - Sydney,"1,427"
+1/12/2019,Canberra - Sydney,"1,178"
+1/01/2020,Canberra - Sydney,914
+1/02/2020,Canberra - Sydney,"1,298"
+1/03/2020,Canberra - Sydney,"1,071"
+1/04/2020,Canberra - Sydney,
+1/05/2020,Canberra - Sydney,
+1/06/2020,Canberra - Sydney,
+1/07/2020,Canberra - Sydney,
+1/08/2020,Canberra - Sydney,
+1/09/2020,Canberra - Sydney,
+1/10/2020,Canberra - Sydney,
+1/11/2020,Canberra - Sydney,
+1/12/2020,Canberra - Sydney,
+1/01/2021,Canberra - Sydney,
+1/02/2021,Canberra - Sydney,393
+1/03/2021,Canberra - Sydney,426
+1/04/2021,Canberra - Sydney,544
+1/05/2021,Canberra - Sydney,961
+1/06/2021,Canberra - Sydney,833
+1/01/2019,Gold Coast - Melbourne,"1,236"
+1/02/2019,Gold Coast - Melbourne,846
+1/03/2019,Gold Coast - Melbourne,941
+1/04/2019,Gold Coast - Melbourne,"1,125"
+1/05/2019,Gold Coast - Melbourne,955
+1/06/2019,Gold Coast - Melbourne,963
+1/07/2019,Gold Coast - Melbourne,"1,125"
+1/08/2019,Gold Coast - Melbourne,"1,024"
+1/09/2019,Gold Coast - Melbourne,"1,058"
+1/10/2019,Gold Coast - Melbourne,"1,131"
+1/11/2019,Gold Coast - Melbourne,"1,005"
+1/12/2019,Gold Coast - Melbourne,"1,188"
+1/01/2020,Gold Coast - Melbourne,"1,123"
+1/02/2020,Gold Coast - Melbourne,862
+1/03/2020,Gold Coast - Melbourne,754
+1/04/2020,Gold Coast - Melbourne,
+1/05/2020,Gold Coast - Melbourne,
+1/06/2020,Gold Coast - Melbourne,
+1/07/2020,Gold Coast - Melbourne,
+1/08/2020,Gold Coast - Melbourne,
+1/09/2020,Gold Coast - Melbourne,
+1/10/2020,Gold Coast - Melbourne,
+1/11/2020,Gold Coast - Melbourne,
+1/12/2020,Gold Coast - Melbourne,504
+1/01/2021,Gold Coast - Melbourne,865
+1/02/2021,Gold Coast - Melbourne,409
+1/03/2021,Gold Coast - Melbourne,689
+1/04/2021,Gold Coast - Melbourne,"1,146"
+1/05/2021,Gold Coast - Melbourne,"1,093"
+1/06/2021,Gold Coast - Melbourne,519
+1/01/2019,Melbourne - Sydney,"4,892"
+1/02/2019,Melbourne - Sydney,"4,850"
+1/03/2019,Melbourne - Sydney,"5,296"
+1/04/2019,Melbourne - Sydney,"4,938"
+1/05/2019,Melbourne - Sydney,"5,218"
+1/06/2019,Melbourne - Sydney,"4,811"
+1/07/2019,Melbourne - Sydney,"5,136"
+1/08/2019,Melbourne - Sydney,"5,048"
+1/09/2019,Melbourne - Sydney,"4,976"
+1/10/2019,Melbourne - Sydney,"5,397"
+1/11/2019,Melbourne - Sydney,"5,005"
+1/12/2019,Melbourne - Sydney,"4,857"
+1/01/2020,Melbourne - Sydney,"4,869"
+1/02/2020,Melbourne - Sydney,"4,677"
+1/03/2020,Melbourne - Sydney,"3,726"
+1/04/2020,Melbourne - Sydney,439
+1/05/2020,Melbourne - Sydney,377
+1/06/2020,Melbourne - Sydney,707
+1/07/2020,Melbourne - Sydney,596
+1/08/2020,Melbourne - Sydney,292
+1/09/2020,Melbourne - Sydney,362
+1/10/2020,Melbourne - Sydney,366
+1/11/2020,Melbourne - Sydney,729
+1/12/2020,Melbourne - Sydney,"1,910"
+1/01/2021,Melbourne - Sydney,633
+1/02/2021,Melbourne - Sydney,"1,436"
+1/03/2021,Melbourne - Sydney,"3,276"
+1/04/2021,Melbourne - Sydney,"3,777"
+1/05/2021,Melbourne - Sydney,"3,613"
+1/06/2021,Melbourne - Sydney,"1,204"
+1/01/2019,Gold Coast - Sydney,"1,609"
+1/02/2019,Gold Coast - Sydney,"1,262"
+1/03/2019,Gold Coast - Sydney,"1,408"
+1/04/2019,Gold Coast - Sydney,"1,578"
+1/05/2019,Gold Coast - Sydney,"1,478"
+1/06/2019,Gold Coast - Sydney,"1,440"
+1/07/2019,Gold Coast - Sydney,"1,587"
+1/08/2019,Gold Coast - Sydney,"1,463"
+1/09/2019,Gold Coast - Sydney,"1,528"
+1/10/2019,Gold Coast - Sydney,"1,591"
+1/11/2019,Gold Coast - Sydney,"1,456"
+1/12/2019,Gold Coast - Sydney,"1,570"
+1/01/2020,Gold Coast - Sydney,"1,696"
+1/02/2020,Gold Coast - Sydney,"1,329"
+1/03/2020,Gold Coast - Sydney,"1,066"
+1/04/2020,Gold Coast - Sydney,44
+1/05/2020,Gold Coast - Sydney,
+1/06/2020,Gold Coast - Sydney,44
+1/07/2020,Gold Coast - Sydney,248
+1/08/2020,Gold Coast - Sydney,36
+1/09/2020,Gold Coast - Sydney,
+1/10/2020,Gold Coast - Sydney,
+1/11/2020,Gold Coast - Sydney,
+1/12/2020,Gold Coast - Sydney,484
+1/01/2021,Gold Coast - Sydney,
+1/02/2021,Gold Coast - Sydney,482
+1/03/2021,Gold Coast - Sydney,880
+1/04/2021,Gold Coast - Sydney,"1,446"
+1/05/2021,Gold Coast - Sydney,"1,266"
+1/06/2021,Gold Coast - Sydney,"1,134"
