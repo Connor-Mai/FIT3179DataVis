@@ -1,0 +1,64 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "title": "Number of Flights between East Coast Cities from 2019 to mid-2021",
+  "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Week-10-Homework/2019-2021%20East%20Coast%20Flight%20Numbers.csv"},
+  "layer": [
+    {
+        "selection": {
+          "route_highlight": { 
+            "type": "multi", 
+            "fields": ["Route"], 
+            "bind": "legend" 
+            } 
+          },
+        "mark": { 
+          "type": "line", "point": true},
+  
+        "encoding": {
+          "x":{"timeUnit":"yearmonth","field":"Date","title":"Date"},
+          "y": {"aggregate":"mean","field": "Flights", "type": "quantitative", "title":"Number of Flights"},
+          "color": {"field": "Route", "type": "nominal"},
+          "opacity": { 
+            "condition": {"selection": "route_highlight", "value": 1}, 
+              "value": 0.2 },
+          "tooltip": [
+            {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
+            {"field": "Route", "type": "nominal", "title":"Route"},
+            {"field": "Flights", "type": "nominal","title":"Number of Flights"},
+            {"field": "Passengers", "type": "nominal","title":"Passengers"}
+          ]
+        }
+    },
+    {
+
+      "encoding": {
+        "x":{ "aggregate": "max", "timeUnit":"yearmonth","field":"Date"},
+        "y": {"aggregate": {"argmax": "Date"}, "field": "Flights","type": "quantitative"},
+        "color": {"field": "Route", "type": "nominal"},
+        "opacity": { "condition": {"selection": "route_highlight", "value": 1}, "value": 0.2 }
+      },
+      "layer":[
+          {"mark": {"type": "text","align": "left","baseline": "middle", "dx":20,"fontSize": 11.5,"fontStyle": "italic"},
+          "encoding":{"text": {"field": "Route", "type": "nominal"}}}
+        
+        ],
+
+
+        "tooltip": [
+          {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
+          {"field": "Route", "type": "nominal", "title":"Route"},
+          {"field": "Flights", "type": "nominal","title":"Number of Flights"},
+          {"field": "Passengers", "type": "nominal","title":"Passengers"}
+        ]
+      }
+    
+  ]
+}
+      
+      
+      
+      
+
+  
