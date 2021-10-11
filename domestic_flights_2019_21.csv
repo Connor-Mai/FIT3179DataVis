@@ -1,0 +1,2123 @@
+Stop_1,Stop_2,Year,Month,Distance,Seats,,City Pair Route
+ABX,SYD,2019,1,452,"22,933",,Albury - Sydney
+ABX,SYD,2019,2,452,"24,735",,Albury - Sydney
+ABX,SYD,2019,3,452,"29,026",,Albury - Sydney
+ABX,SYD,2019,4,452,"27,213",,Albury - Sydney
+ABX,SYD,2019,5,452,"29,204",,Albury - Sydney
+ABX,SYD,2019,6,452,"26,187",,Albury - Sydney
+ABX,SYD,2019,7,452,"29,416",,Albury - Sydney
+ABX,SYD,2019,8,452,"28,523",,Albury - Sydney
+ABX,SYD,2019,9,452,"27,780",,Albury - Sydney
+ABX,SYD,2019,10,452,"29,040",,Albury - Sydney
+ABX,SYD,2019,11,452,"28,195",,Albury - Sydney
+ABX,SYD,2019,12,452,"25,347",,Albury - Sydney
+ABX,SYD,2020,1,452,"18,523",,Albury - Sydney
+ABX,SYD,2020,2,452,"24,245",,Albury - Sydney
+ABX,SYD,2020,3,452,"23,069",,Albury - Sydney
+ABX,SYD,2020,4,452,"1,942",,Albury - Sydney
+ABX,SYD,2020,5,452,"1,756",,Albury - Sydney
+ABX,SYD,2020,6,452,,,Albury - Sydney
+ABX,SYD,2020,7,452,,,Albury - Sydney
+ABX,SYD,2020,8,452,,,Albury - Sydney
+ABX,SYD,2020,9,452,,,Albury - Sydney
+ABX,SYD,2020,10,452,,,Albury - Sydney
+ABX,SYD,2020,11,452,,,Albury - Sydney
+ABX,SYD,2020,12,452,,,Albury - Sydney
+ABX,SYD,2021,1,452,,,Albury - Sydney
+ABX,SYD,2021,2,452,,,Albury - Sydney
+ABX,SYD,2021,3,452,"16,974",,Albury - Sydney
+ABX,SYD,2021,4,452,"19,310",,Albury - Sydney
+ABX,SYD,2021,5,452,"19,540",,Albury - Sydney
+ABX,SYD,2021,6,452,"18,264",,Albury - Sydney
+ADL,ASP,2019,1,"1,316","15,448",,Adelaide - Alice Springs
+ADL,ASP,2019,2,"1,316","14,308",,Adelaide - Alice Springs
+ADL,ASP,2019,3,"1,316","16,275",,Adelaide - Alice Springs
+ADL,ASP,2019,4,"1,316","17,994",,Adelaide - Alice Springs
+ADL,ASP,2019,5,"1,316","17,361",,Adelaide - Alice Springs
+ADL,ASP,2019,6,"1,316","16,329",,Adelaide - Alice Springs
+ADL,ASP,2019,7,"1,316","17,808",,Adelaide - Alice Springs
+ADL,ASP,2019,8,"1,316","16,940",,Adelaide - Alice Springs
+ADL,ASP,2019,9,"1,316","16,496",,Adelaide - Alice Springs
+ADL,ASP,2019,10,"1,316","16,930",,Adelaide - Alice Springs
+ADL,ASP,2019,11,"1,316","14,376",,Adelaide - Alice Springs
+ADL,ASP,2019,12,"1,316","14,684",,Adelaide - Alice Springs
+ADL,ASP,2020,1,"1,316","13,933",,Adelaide - Alice Springs
+ADL,ASP,2020,2,"1,316","14,888",,Adelaide - Alice Springs
+ADL,ASP,2020,3,"1,316","15,493",,Adelaide - Alice Springs
+ADL,ASP,2020,4,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,5,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,6,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,7,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,8,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,9,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,10,"1,316","15,137",,Adelaide - Alice Springs
+ADL,ASP,2020,11,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2020,12,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2021,1,"1,316","15,295",,Adelaide - Alice Springs
+ADL,ASP,2021,2,"1,316",,,Adelaide - Alice Springs
+ADL,ASP,2021,3,"1,316","16,666",,Adelaide - Alice Springs
+ADL,ASP,2021,4,"1,316","14,932",,Adelaide - Alice Springs
+ADL,ASP,2021,5,"1,316","15,076",,Adelaide - Alice Springs
+ADL,ASP,2021,6,"1,316","14,579",,Adelaide - Alice Springs
+ADL,BNE,2019,1,"1,622","94,618",,Adelaide - Brisbane
+ADL,BNE,2019,2,"1,622","79,971",,Adelaide - Brisbane
+ADL,BNE,2019,3,"1,622","88,355",,Adelaide - Brisbane
+ADL,BNE,2019,4,"1,622","93,062",,Adelaide - Brisbane
+ADL,BNE,2019,5,"1,622","94,346",,Adelaide - Brisbane
+ADL,BNE,2019,6,"1,622","89,466",,Adelaide - Brisbane
+ADL,BNE,2019,7,"1,622","95,644",,Adelaide - Brisbane
+ADL,BNE,2019,8,"1,622","93,108",,Adelaide - Brisbane
+ADL,BNE,2019,9,"1,622","94,546",,Adelaide - Brisbane
+ADL,BNE,2019,10,"1,622","99,820",,Adelaide - Brisbane
+ADL,BNE,2019,11,"1,622","92,646",,Adelaide - Brisbane
+ADL,BNE,2019,12,"1,622","97,022",,Adelaide - Brisbane
+ADL,BNE,2020,1,"1,622","95,376",,Adelaide - Brisbane
+ADL,BNE,2020,2,"1,622","86,329",,Adelaide - Brisbane
+ADL,BNE,2020,3,"1,622","72,908",,Adelaide - Brisbane
+ADL,BNE,2020,4,"1,622",,,Adelaide - Brisbane
+ADL,BNE,2020,5,"1,622",,,Adelaide - Brisbane
+ADL,BNE,2020,6,"1,622",,,Adelaide - Brisbane
+ADL,BNE,2020,7,"1,622","21,049",,Adelaide - Brisbane
+ADL,BNE,2020,8,"1,622","44,924",,Adelaide - Brisbane
+ADL,BNE,2020,9,"1,622","40,559",,Adelaide - Brisbane
+ADL,BNE,2020,10,"1,622","58,258",,Adelaide - Brisbane
+ADL,BNE,2020,11,"1,622","39,996",,Adelaide - Brisbane
+ADL,BNE,2020,12,"1,622","47,680",,Adelaide - Brisbane
+ADL,BNE,2021,1,"1,622","64,438",,Adelaide - Brisbane
+ADL,BNE,2021,2,"1,622","54,320",,Adelaide - Brisbane
+ADL,BNE,2021,3,"1,622","74,259",,Adelaide - Brisbane
+ADL,BNE,2021,4,"1,622","66,872",,Adelaide - Brisbane
+ADL,BNE,2021,5,"1,622","80,724",,Adelaide - Brisbane
+ADL,BNE,2021,6,"1,622","78,098",,Adelaide - Brisbane
+ADL,CBR,2019,1,972,"20,236",,Adelaide - Canberra
+ADL,CBR,2019,2,972,"22,696",,Adelaide - Canberra
+ADL,CBR,2019,3,972,"24,749",,Adelaide - Canberra
+ADL,CBR,2019,4,972,"25,309",,Adelaide - Canberra
+ADL,CBR,2019,5,972,"27,142",,Adelaide - Canberra
+ADL,CBR,2019,6,972,"23,196",,Adelaide - Canberra
+ADL,CBR,2019,7,972,"25,758",,Adelaide - Canberra
+ADL,CBR,2019,8,972,"26,374",,Adelaide - Canberra
+ADL,CBR,2019,9,972,"25,578",,Adelaide - Canberra
+ADL,CBR,2019,10,972,"26,794",,Adelaide - Canberra
+ADL,CBR,2019,11,972,"23,642",,Adelaide - Canberra
+ADL,CBR,2019,12,972,"22,572",,Adelaide - Canberra
+ADL,CBR,2020,1,972,"19,888",,Adelaide - Canberra
+ADL,CBR,2020,2,972,"22,928",,Adelaide - Canberra
+ADL,CBR,2020,3,972,"20,327",,Adelaide - Canberra
+ADL,CBR,2020,4,972,,,Adelaide - Canberra
+ADL,CBR,2020,5,972,,,Adelaide - Canberra
+ADL,CBR,2020,6,972,,,Adelaide - Canberra
+ADL,CBR,2020,7,972,,,Adelaide - Canberra
+ADL,CBR,2020,8,972,,,Adelaide - Canberra
+ADL,CBR,2020,9,972,,,Adelaide - Canberra
+ADL,CBR,2020,10,972,"14,979",,Adelaide - Canberra
+ADL,CBR,2020,11,972,,,Adelaide - Canberra
+ADL,CBR,2020,12,972,"15,364",,Adelaide - Canberra
+ADL,CBR,2021,1,972,"19,412",,Adelaide - Canberra
+ADL,CBR,2021,2,972,"14,460",,Adelaide - Canberra
+ADL,CBR,2021,3,972,"18,548",,Adelaide - Canberra
+ADL,CBR,2021,4,972,"17,080",,Adelaide - Canberra
+ADL,CBR,2021,5,972,"22,814",,Adelaide - Canberra
+ADL,CBR,2021,6,972,"21,610",,Adelaide - Canberra
+ADL,MEL,2019,1,643,"256,305",,Adelaide - Melbourne
+ADL,MEL,2019,2,643,"248,760",,Adelaide - Melbourne
+ADL,MEL,2019,3,643,"276,976",,Adelaide - Melbourne
+ADL,MEL,2019,4,643,"263,051",,Adelaide - Melbourne
+ADL,MEL,2019,5,643,"260,931",,Adelaide - Melbourne
+ADL,MEL,2019,6,643,"249,035",,Adelaide - Melbourne
+ADL,MEL,2019,7,643,"269,268",,Adelaide - Melbourne
+ADL,MEL,2019,8,643,"257,925",,Adelaide - Melbourne
+ADL,MEL,2019,9,643,"260,424",,Adelaide - Melbourne
+ADL,MEL,2019,10,643,"270,310",,Adelaide - Melbourne
+ADL,MEL,2019,11,643,"259,308",,Adelaide - Melbourne
+ADL,MEL,2019,12,643,"253,572",,Adelaide - Melbourne
+ADL,MEL,2020,1,643,"244,773",,Adelaide - Melbourne
+ADL,MEL,2020,2,643,"246,577",,Adelaide - Melbourne
+ADL,MEL,2020,3,643,"205,124",,Adelaide - Melbourne
+ADL,MEL,2020,4,643,"19,498",,Adelaide - Melbourne
+ADL,MEL,2020,5,643,"16,108",,Adelaide - Melbourne
+ADL,MEL,2020,6,643,"16,432",,Adelaide - Melbourne
+ADL,MEL,2020,7,643,"18,710",,Adelaide - Melbourne
+ADL,MEL,2020,8,643,,,Adelaide - Melbourne
+ADL,MEL,2020,9,643,,,Adelaide - Melbourne
+ADL,MEL,2020,10,643,,,Adelaide - Melbourne
+ADL,MEL,2020,11,643,,,Adelaide - Melbourne
+ADL,MEL,2020,12,643,"88,824",,Adelaide - Melbourne
+ADL,MEL,2021,1,643,"102,228",,Adelaide - Melbourne
+ADL,MEL,2021,2,643,"64,999",,Adelaide - Melbourne
+ADL,MEL,2021,3,643,"106,488",,Adelaide - Melbourne
+ADL,MEL,2021,4,643,"188,280",,Adelaide - Melbourne
+ADL,MEL,2021,5,643,"194,879",,Adelaide - Melbourne
+ADL,MEL,2021,6,643,"57,347",,Adelaide - Melbourne
+ADL,OOL,2019,1,"1,607","27,682",,Adelaide - Gold Coast
+ADL,OOL,2019,2,"1,607","18,540",,Adelaide - Gold Coast
+ADL,OOL,2019,3,"1,607","21,510",,Adelaide - Gold Coast
+ADL,OOL,2019,4,"1,607","22,038",,Adelaide - Gold Coast
+ADL,OOL,2019,5,"1,607","20,598",,Adelaide - Gold Coast
+ADL,OOL,2019,6,"1,607","18,300",,Adelaide - Gold Coast
+ADL,OOL,2019,7,"1,607","22,504",,Adelaide - Gold Coast
+ADL,OOL,2019,8,"1,607","20,298",,Adelaide - Gold Coast
+ADL,OOL,2019,9,"1,607","21,204",,Adelaide - Gold Coast
+ADL,OOL,2019,10,"1,607","22,686",,Adelaide - Gold Coast
+ADL,OOL,2019,11,"1,607","19,416",,Adelaide - Gold Coast
+ADL,OOL,2019,12,"1,607","22,713",,Adelaide - Gold Coast
+ADL,OOL,2020,1,"1,607","22,840",,Adelaide - Gold Coast
+ADL,OOL,2020,2,"1,607","19,410",,Adelaide - Gold Coast
+ADL,OOL,2020,3,"1,607","16,338",,Adelaide - Gold Coast
+ADL,OOL,2020,4,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,5,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,6,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,7,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,8,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,9,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,10,"1,607","11,252",,Adelaide - Gold Coast
+ADL,OOL,2020,11,"1,607",,,Adelaide - Gold Coast
+ADL,OOL,2020,12,"1,607","16,540",,Adelaide - Gold Coast
+ADL,OOL,2021,1,"1,607","23,726",,Adelaide - Gold Coast
+ADL,OOL,2021,2,"1,607","18,652",,Adelaide - Gold Coast
+ADL,OOL,2021,3,"1,607","20,440",,Adelaide - Gold Coast
+ADL,OOL,2021,4,"1,607","22,216",,Adelaide - Gold Coast
+ADL,OOL,2021,5,"1,607","20,680",,Adelaide - Gold Coast
+ADL,OOL,2021,6,"1,607","21,862",,Adelaide - Gold Coast
+ADL,PER,2019,1,"2,120","67,166",,Adelaide - Perth
+ADL,PER,2019,2,"2,120","62,858",,Adelaide - Perth
+ADL,PER,2019,3,"2,120","73,023",,Adelaide - Perth
+ADL,PER,2019,4,"2,120","72,532",,Adelaide - Perth
+ADL,PER,2019,5,"2,120","74,441",,Adelaide - Perth
+ADL,PER,2019,6,"2,120","69,844",,Adelaide - Perth
+ADL,PER,2019,7,"2,120","77,140",,Adelaide - Perth
+ADL,PER,2019,8,"2,120","72,947",,Adelaide - Perth
+ADL,PER,2019,9,"2,120","68,551",,Adelaide - Perth
+ADL,PER,2019,10,"2,120","76,378",,Adelaide - Perth
+ADL,PER,2019,11,"2,120","70,801",,Adelaide - Perth
+ADL,PER,2019,12,"2,120","69,717",,Adelaide - Perth
+ADL,PER,2020,1,"2,120","66,679",,Adelaide - Perth
+ADL,PER,2020,2,"2,120","64,979",,Adelaide - Perth
+ADL,PER,2020,3,"2,120","56,845",,Adelaide - Perth
+ADL,PER,2020,4,"2,120","3,132",,Adelaide - Perth
+ADL,PER,2020,5,"2,120",,,Adelaide - Perth
+ADL,PER,2020,6,"2,120",,,Adelaide - Perth
+ADL,PER,2020,7,"2,120",,,Adelaide - Perth
+ADL,PER,2020,8,"2,120",,,Adelaide - Perth
+ADL,PER,2020,9,"2,120",,,Adelaide - Perth
+ADL,PER,2020,10,"2,120",,,Adelaide - Perth
+ADL,PER,2020,11,"2,120",,,Adelaide - Perth
+ADL,PER,2020,12,"2,120","18,608",,Adelaide - Perth
+ADL,PER,2021,1,"2,120","38,783",,Adelaide - Perth
+ADL,PER,2021,2,"2,120","33,303",,Adelaide - Perth
+ADL,PER,2021,3,"2,120","49,226",,Adelaide - Perth
+ADL,PER,2021,4,"2,120","54,084",,Adelaide - Perth
+ADL,PER,2021,5,"2,120","54,473",,Adelaide - Perth
+ADL,PER,2021,6,"2,120","55,982",,Adelaide - Perth
+ADL,PLO,2019,1,246,"22,943",,Adelaide - Port Lincoln
+ADL,PLO,2019,2,246,"22,753",,Adelaide - Port Lincoln
+ADL,PLO,2019,3,246,"25,354",,Adelaide - Port Lincoln
+ADL,PLO,2019,4,246,"23,357",,Adelaide - Port Lincoln
+ADL,PLO,2019,5,246,"24,622",,Adelaide - Port Lincoln
+ADL,PLO,2019,6,246,"23,131",,Adelaide - Port Lincoln
+ADL,PLO,2019,7,246,"24,440",,Adelaide - Port Lincoln
+ADL,PLO,2019,8,246,"24,658",,Adelaide - Port Lincoln
+ADL,PLO,2019,9,246,"23,758",,Adelaide - Port Lincoln
+ADL,PLO,2019,10,246,"24,416",,Adelaide - Port Lincoln
+ADL,PLO,2019,11,246,"23,671",,Adelaide - Port Lincoln
+ADL,PLO,2019,12,246,"23,024",,Adelaide - Port Lincoln
+ADL,PLO,2020,1,246,"21,953",,Adelaide - Port Lincoln
+ADL,PLO,2020,2,246,"21,455",,Adelaide - Port Lincoln
+ADL,PLO,2020,3,246,"19,216",,Adelaide - Port Lincoln
+ADL,PLO,2020,4,246,"2,060",,Adelaide - Port Lincoln
+ADL,PLO,2020,5,246,"1,560",,Adelaide - Port Lincoln
+ADL,PLO,2020,6,246,,,Adelaide - Port Lincoln
+ADL,PLO,2020,7,246,,,Adelaide - Port Lincoln
+ADL,PLO,2020,8,246,,,Adelaide - Port Lincoln
+ADL,PLO,2020,9,246,,,Adelaide - Port Lincoln
+ADL,PLO,2020,10,246,"10,993",,Adelaide - Port Lincoln
+ADL,PLO,2020,11,246,,,Adelaide - Port Lincoln
+ADL,PLO,2020,12,246,"13,749",,Adelaide - Port Lincoln
+ADL,PLO,2021,1,246,"13,307",,Adelaide - Port Lincoln
+ADL,PLO,2021,2,246,"13,474",,Adelaide - Port Lincoln
+ADL,PLO,2021,3,246,"18,349",,Adelaide - Port Lincoln
+ADL,PLO,2021,4,246,"21,598",,Adelaide - Port Lincoln
+ADL,PLO,2021,5,246,"22,443",,Adelaide - Port Lincoln
+ADL,PLO,2021,6,246,"22,162",,Adelaide - Port Lincoln
+ADL,SYD,2019,1,"1,167","195,435",,Adelaide - Sydney
+ADL,SYD,2019,2,"1,167","175,594",,Adelaide - Sydney
+ADL,SYD,2019,3,"1,167","196,736",,Adelaide - Sydney
+ADL,SYD,2019,4,"1,167","192,997",,Adelaide - Sydney
+ADL,SYD,2019,5,"1,167","182,489",,Adelaide - Sydney
+ADL,SYD,2019,6,"1,167","175,327",,Adelaide - Sydney
+ADL,SYD,2019,7,"1,167","191,802",,Adelaide - Sydney
+ADL,SYD,2019,8,"1,167","173,003",,Adelaide - Sydney
+ADL,SYD,2019,9,"1,167","180,988",,Adelaide - Sydney
+ADL,SYD,2019,10,"1,167","196,937",,Adelaide - Sydney
+ADL,SYD,2019,11,"1,167","189,135",,Adelaide - Sydney
+ADL,SYD,2019,12,"1,167","190,375",,Adelaide - Sydney
+ADL,SYD,2020,1,"1,167","186,406",,Adelaide - Sydney
+ADL,SYD,2020,2,"1,167","173,652",,Adelaide - Sydney
+ADL,SYD,2020,3,"1,167","151,952",,Adelaide - Sydney
+ADL,SYD,2020,4,"1,167","12,894",,Adelaide - Sydney
+ADL,SYD,2020,5,"1,167",,,Adelaide - Sydney
+ADL,SYD,2020,6,"1,167",,,Adelaide - Sydney
+ADL,SYD,2020,7,"1,167","14,764",,Adelaide - Sydney
+ADL,SYD,2020,8,"1,167","13,456",,Adelaide - Sydney
+ADL,SYD,2020,9,"1,167","17,461",,Adelaide - Sydney
+ADL,SYD,2020,10,"1,167","67,534",,Adelaide - Sydney
+ADL,SYD,2020,11,"1,167","82,171",,Adelaide - Sydney
+ADL,SYD,2020,12,"1,167","82,254",,Adelaide - Sydney
+ADL,SYD,2021,1,"1,167","27,258",,Adelaide - Sydney
+ADL,SYD,2021,2,"1,167","56,260",,Adelaide - Sydney
+ADL,SYD,2021,3,"1,167","131,624",,Adelaide - Sydney
+ADL,SYD,2021,4,"1,167","148,183",,Adelaide - Sydney
+ADL,SYD,2021,5,"1,167","144,092",,Adelaide - Sydney
+ADL,SYD,2021,6,"1,167","122,080",,Adelaide - Sydney
+ARM,SYD,2019,1,382,"12,874",,Armidale - Sydney
+ARM,SYD,2019,2,382,"14,242",,Armidale - Sydney
+ARM,SYD,2019,3,382,"15,243",,Armidale - Sydney
+ARM,SYD,2019,4,382,"15,166",,Armidale - Sydney
+ARM,SYD,2019,5,382,"15,986",,Armidale - Sydney
+ARM,SYD,2019,6,382,"15,150",,Armidale - Sydney
+ARM,SYD,2019,7,382,"16,182",,Armidale - Sydney
+ARM,SYD,2019,8,382,"15,840",,Armidale - Sydney
+ARM,SYD,2019,9,382,"15,778",,Armidale - Sydney
+ARM,SYD,2019,10,382,"16,611",,Armidale - Sydney
+ARM,SYD,2019,11,382,"15,400",,Armidale - Sydney
+ARM,SYD,2019,12,382,"14,026",,Armidale - Sydney
+ARM,SYD,2020,1,382,"12,292",,Armidale - Sydney
+ARM,SYD,2020,2,382,"13,936",,Armidale - Sydney
+ARM,SYD,2020,3,382,"12,310",,Armidale - Sydney
+ARM,SYD,2020,4,382,,,Armidale - Sydney
+ARM,SYD,2020,5,382,,,Armidale - Sydney
+ARM,SYD,2020,6,382,,,Armidale - Sydney
+ARM,SYD,2020,7,382,,,Armidale - Sydney
+ARM,SYD,2020,8,382,,,Armidale - Sydney
+ARM,SYD,2020,9,382,,,Armidale - Sydney
+ARM,SYD,2020,10,382,,,Armidale - Sydney
+ARM,SYD,2020,11,382,,,Armidale - Sydney
+ARM,SYD,2020,12,382,,,Armidale - Sydney
+ARM,SYD,2021,1,382,,,Armidale - Sydney
+ARM,SYD,2021,2,382,,,Armidale - Sydney
+ARM,SYD,2021,3,382,,,Armidale - Sydney
+ARM,SYD,2021,4,382,,,Armidale - Sydney
+ARM,SYD,2021,5,382,,,Armidale - Sydney
+ARM,SYD,2021,6,382,,,Armidale - Sydney
+ASP,DRW,2019,1,"1,305","11,443",,Alice Springs - Darwin
+ASP,DRW,2019,2,"1,305","14,071",,Alice Springs - Darwin
+ASP,DRW,2019,3,"1,305","17,770",,Alice Springs - Darwin
+ASP,DRW,2019,4,"1,305","25,826",,Alice Springs - Darwin
+ASP,DRW,2019,5,"1,305","27,104",,Alice Springs - Darwin
+ASP,DRW,2019,6,"1,305","25,898",,Alice Springs - Darwin
+ASP,DRW,2019,7,"1,305","27,353",,Alice Springs - Darwin
+ASP,DRW,2019,8,"1,305","26,510",,Alice Springs - Darwin
+ASP,DRW,2019,9,"1,305","26,704",,Alice Springs - Darwin
+ASP,DRW,2019,10,"1,305","26,143",,Alice Springs - Darwin
+ASP,DRW,2019,11,"1,305","13,542",,Alice Springs - Darwin
+ASP,DRW,2019,12,"1,305","9,858",,Alice Springs - Darwin
+ASP,DRW,2020,1,"1,305","8,522",,Alice Springs - Darwin
+ASP,DRW,2020,2,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,3,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,4,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,5,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,6,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,7,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,8,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,9,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,10,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,11,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2020,12,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2021,1,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2021,2,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2021,3,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2021,4,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2021,5,"1,305",,,Alice Springs - Darwin
+ASP,DRW,2021,6,"1,305",,,Alice Springs - Darwin
+ASP,MEL,2019,1,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,2,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,3,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,4,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,5,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,6,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,7,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,8,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,9,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,10,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,11,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2019,12,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,1,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,2,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,3,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,4,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,5,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,6,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,7,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,8,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,9,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,10,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,11,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2020,12,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2021,1,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2021,2,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2021,3,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2021,4,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2021,5,"1,860",,,Alice Springs - Melbourne
+ASP,MEL,2021,6,"1,860",,,Alice Springs - Melbourne
+ASP,SYD,2019,1,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,2,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,3,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,4,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,5,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,6,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,7,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,8,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,9,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,10,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,11,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2019,12,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,1,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,2,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,3,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,4,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,5,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,6,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,7,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,8,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,9,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,10,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,11,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2020,12,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2021,1,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2021,2,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2021,3,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2021,4,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2021,5,"2,022",,,Alice Springs - Sydney
+ASP,SYD,2021,6,"2,022",,,Alice Springs - Sydney
+AYQ,SYD,2019,1,"2,181","20,608",,Ayers Rock - Sydney
+AYQ,SYD,2019,2,"2,181","18,024",,Ayers Rock - Sydney
+AYQ,SYD,2019,3,"2,181","20,088",,Ayers Rock - Sydney
+AYQ,SYD,2019,4,"2,181","21,446",,Ayers Rock - Sydney
+AYQ,SYD,2019,5,"2,181","22,200",,Ayers Rock - Sydney
+AYQ,SYD,2019,6,"2,181","21,348",,Ayers Rock - Sydney
+AYQ,SYD,2019,7,"2,181","22,248",,Ayers Rock - Sydney
+AYQ,SYD,2019,8,"2,181","22,158",,Ayers Rock - Sydney
+AYQ,SYD,2019,9,"2,181","21,516",,Ayers Rock - Sydney
+AYQ,SYD,2019,10,"2,181","22,136",,Ayers Rock - Sydney
+AYQ,SYD,2019,11,"2,181","19,644",,Ayers Rock - Sydney
+AYQ,SYD,2019,12,"2,181","20,269",,Ayers Rock - Sydney
+AYQ,SYD,2020,1,"2,181","20,240",,Ayers Rock - Sydney
+AYQ,SYD,2020,2,"2,181","18,220",,Ayers Rock - Sydney
+AYQ,SYD,2020,3,"2,181","16,168",,Ayers Rock - Sydney
+AYQ,SYD,2020,4,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,5,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,6,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,7,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,8,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,9,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,10,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,11,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2020,12,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2021,1,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2021,2,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2021,3,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2021,4,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2021,5,"2,181",,,Ayers Rock - Sydney
+AYQ,SYD,2021,6,"2,181",,,Ayers Rock - Sydney
+BDB,BNE,2019,1,287,"17,992",,Brisbane - Bundaberg
+BDB,BNE,2019,2,287,"17,828",,Brisbane - Bundaberg
+BDB,BNE,2019,3,287,"19,460",,Brisbane - Bundaberg
+BDB,BNE,2019,4,287,"18,600",,Brisbane - Bundaberg
+BDB,BNE,2019,5,287,"18,952",,Brisbane - Bundaberg
+BDB,BNE,2019,6,287,"18,393",,Brisbane - Bundaberg
+BDB,BNE,2019,7,287,"19,716",,Brisbane - Bundaberg
+BDB,BNE,2019,8,287,"19,228",,Brisbane - Bundaberg
+BDB,BNE,2019,9,287,"18,648",,Brisbane - Bundaberg
+BDB,BNE,2019,10,287,"19,420",,Brisbane - Bundaberg
+BDB,BNE,2019,11,287,"18,784",,Brisbane - Bundaberg
+BDB,BNE,2019,12,287,"18,079",,Brisbane - Bundaberg
+BDB,BNE,2020,1,287,"16,586",,Brisbane - Bundaberg
+BDB,BNE,2020,2,287,"16,822",,Brisbane - Bundaberg
+BDB,BNE,2020,3,287,"15,770",,Brisbane - Bundaberg
+BDB,BNE,2020,4,287,"3,748",,Brisbane - Bundaberg
+BDB,BNE,2020,5,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,6,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,7,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,8,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,9,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,10,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,11,287,,,Brisbane - Bundaberg
+BDB,BNE,2020,12,287,,,Brisbane - Bundaberg
+BDB,BNE,2021,1,287,,,Brisbane - Bundaberg
+BDB,BNE,2021,2,287,,,Brisbane - Bundaberg
+BDB,BNE,2021,3,287,,,Brisbane - Bundaberg
+BDB,BNE,2021,4,287,,,Brisbane - Bundaberg
+BDB,BNE,2021,5,287,,,Brisbane - Bundaberg
+BDB,BNE,2021,6,287,,,Brisbane - Bundaberg
+BME,PER,2019,1,"1,677","33,288",,Broome - Perth
+BME,PER,2019,2,"1,677","29,065",,Broome - Perth
+BME,PER,2019,3,"1,677","33,013",,Broome - Perth
+BME,PER,2019,4,"1,677","37,163",,Broome - Perth
+BME,PER,2019,5,"1,677","38,099",,Broome - Perth
+BME,PER,2019,6,"1,677","38,366",,Broome - Perth
+BME,PER,2019,7,"1,677","39,021",,Broome - Perth
+BME,PER,2019,8,"1,677","39,970",,Broome - Perth
+BME,PER,2019,9,"1,677","37,583",,Broome - Perth
+BME,PER,2019,10,"1,677","38,773",,Broome - Perth
+BME,PER,2019,11,"1,677","33,384",,Broome - Perth
+BME,PER,2019,12,"1,677","34,223",,Broome - Perth
+BME,PER,2020,1,"1,677","33,080",,Broome - Perth
+BME,PER,2020,2,"1,677","31,480",,Broome - Perth
+BME,PER,2020,3,"1,677","19,325",,Broome - Perth
+BME,PER,2020,4,"1,677","6,162",,Broome - Perth
+BME,PER,2020,5,"1,677","5,980",,Broome - Perth
+BME,PER,2020,6,"1,677","8,987",,Broome - Perth
+BME,PER,2020,7,"1,677","22,588",,Broome - Perth
+BME,PER,2020,8,"1,677","30,544",,Broome - Perth
+BME,PER,2020,9,"1,677","42,884",,Broome - Perth
+BME,PER,2020,10,"1,677","45,600",,Broome - Perth
+BME,PER,2020,11,"1,677","40,768",,Broome - Perth
+BME,PER,2020,12,"1,677","41,808",,Broome - Perth
+BME,PER,2021,1,"1,677","33,792",,Broome - Perth
+BME,PER,2021,2,"1,677","27,026",,Broome - Perth
+BME,PER,2021,3,"1,677","34,876",,Broome - Perth
+BME,PER,2021,4,"1,677","44,776",,Broome - Perth
+BME,PER,2021,5,"1,677","45,512",,Broome - Perth
+BME,PER,2021,6,"1,677","44,172",,Broome - Perth
+BNE,CBR,2019,1,956,"70,627",,Brisbane - Canberra
+BNE,CBR,2019,2,956,"63,859",,Brisbane - Canberra
+BNE,CBR,2019,3,956,"70,385",,Brisbane - Canberra
+BNE,CBR,2019,4,956,"73,044",,Brisbane - Canberra
+BNE,CBR,2019,5,956,"75,847",,Brisbane - Canberra
+BNE,CBR,2019,6,956,"72,325",,Brisbane - Canberra
+BNE,CBR,2019,7,956,"79,409",,Brisbane - Canberra
+BNE,CBR,2019,8,956,"78,029",,Brisbane - Canberra
+BNE,CBR,2019,9,956,"78,727",,Brisbane - Canberra
+BNE,CBR,2019,10,956,"80,636",,Brisbane - Canberra
+BNE,CBR,2019,11,956,"72,306",,Brisbane - Canberra
+BNE,CBR,2019,12,956,"76,058",,Brisbane - Canberra
+BNE,CBR,2020,1,956,"72,743",,Brisbane - Canberra
+BNE,CBR,2020,2,956,"66,408",,Brisbane - Canberra
+BNE,CBR,2020,3,956,"57,097",,Brisbane - Canberra
+BNE,CBR,2020,4,956,,,Brisbane - Canberra
+BNE,CBR,2020,5,956,,,Brisbane - Canberra
+BNE,CBR,2020,6,956,"7,404",,Brisbane - Canberra
+BNE,CBR,2020,7,956,"14,508",,Brisbane - Canberra
+BNE,CBR,2020,8,956,"13,260",,Brisbane - Canberra
+BNE,CBR,2020,9,956,"10,354",,Brisbane - Canberra
+BNE,CBR,2020,10,956,"28,047",,Brisbane - Canberra
+BNE,CBR,2020,11,956,"41,951",,Brisbane - Canberra
+BNE,CBR,2020,12,956,"52,233",,Brisbane - Canberra
+BNE,CBR,2021,1,956,"52,531",,Brisbane - Canberra
+BNE,CBR,2021,2,956,"55,745",,Brisbane - Canberra
+BNE,CBR,2021,3,956,"70,213",,Brisbane - Canberra
+BNE,CBR,2021,4,956,"54,496",,Brisbane - Canberra
+BNE,CBR,2021,5,956,"71,690",,Brisbane - Canberra
+BNE,CBR,2021,6,956,"71,121",,Brisbane - Canberra
+BNE,CNS,2019,1,"1,391","132,949",,Brisbane - Cairns
+BNE,CNS,2019,2,"1,391","109,130",,Brisbane - Cairns
+BNE,CNS,2019,3,"1,391","119,113",,Brisbane - Cairns
+BNE,CNS,2019,4,"1,391","130,231",,Brisbane - Cairns
+BNE,CNS,2019,5,"1,391","126,598",,Brisbane - Cairns
+BNE,CNS,2019,6,"1,391","123,739",,Brisbane - Cairns
+BNE,CNS,2019,7,"1,391","141,245",,Brisbane - Cairns
+BNE,CNS,2019,8,"1,391","133,836",,Brisbane - Cairns
+BNE,CNS,2019,9,"1,391","132,279",,Brisbane - Cairns
+BNE,CNS,2019,10,"1,391","135,136",,Brisbane - Cairns
+BNE,CNS,2019,11,"1,391","123,979",,Brisbane - Cairns
+BNE,CNS,2019,12,"1,391","128,994",,Brisbane - Cairns
+BNE,CNS,2020,1,"1,391","134,545",,Brisbane - Cairns
+BNE,CNS,2020,2,"1,391","111,501",,Brisbane - Cairns
+BNE,CNS,2020,3,"1,391","92,205",,Brisbane - Cairns
+BNE,CNS,2020,4,"1,391","8,298",,Brisbane - Cairns
+BNE,CNS,2020,5,"1,391","8,276",,Brisbane - Cairns
+BNE,CNS,2020,6,"1,391","22,682",,Brisbane - Cairns
+BNE,CNS,2020,7,"1,391","68,890",,Brisbane - Cairns
+BNE,CNS,2020,8,"1,391","89,134",,Brisbane - Cairns
+BNE,CNS,2020,9,"1,391","99,204",,Brisbane - Cairns
+BNE,CNS,2020,10,"1,391","99,888",,Brisbane - Cairns
+BNE,CNS,2020,11,"1,391","88,973",,Brisbane - Cairns
+BNE,CNS,2020,12,"1,391","113,507",,Brisbane - Cairns
+BNE,CNS,2021,1,"1,391","113,589",,Brisbane - Cairns
+BNE,CNS,2021,2,"1,391","86,448",,Brisbane - Cairns
+BNE,CNS,2021,3,"1,391","104,288",,Brisbane - Cairns
+BNE,CNS,2021,4,"1,391","122,050",,Brisbane - Cairns
+BNE,CNS,2021,5,"1,391","123,462",,Brisbane - Cairns
+BNE,CNS,2021,6,"1,391","129,163",,Brisbane - Cairns
+BNE,DRW,2019,1,"2,852","38,820",,Brisbane - Darwin
+BNE,DRW,2019,2,"2,852","29,314",,Brisbane - Darwin
+BNE,DRW,2019,3,"2,852","32,421",,Brisbane - Darwin
+BNE,DRW,2019,4,"2,852","34,842",,Brisbane - Darwin
+BNE,DRW,2019,5,"2,852","35,171",,Brisbane - Darwin
+BNE,DRW,2019,6,"2,852","39,480",,Brisbane - Darwin
+BNE,DRW,2019,7,"2,852","47,340",,Brisbane - Darwin
+BNE,DRW,2019,8,"2,852","41,917",,Brisbane - Darwin
+BNE,DRW,2019,9,"2,852","40,038",,Brisbane - Darwin
+BNE,DRW,2019,10,"2,852","38,334",,Brisbane - Darwin
+BNE,DRW,2019,11,"2,852","32,100",,Brisbane - Darwin
+BNE,DRW,2019,12,"2,852","37,466",,Brisbane - Darwin
+BNE,DRW,2020,1,"2,852","37,710",,Brisbane - Darwin
+BNE,DRW,2020,2,"2,852","26,502",,Brisbane - Darwin
+BNE,DRW,2020,3,"2,852","23,024",,Brisbane - Darwin
+BNE,DRW,2020,4,"2,852",,,Brisbane - Darwin
+BNE,DRW,2020,5,"2,852",,,Brisbane - Darwin
+BNE,DRW,2020,6,"2,852",,,Brisbane - Darwin
+BNE,DRW,2020,7,"2,852","12,144",,Brisbane - Darwin
+BNE,DRW,2020,8,"2,852","17,348",,Brisbane - Darwin
+BNE,DRW,2020,9,"2,852","21,524",,Brisbane - Darwin
+BNE,DRW,2020,10,"2,852","25,106",,Brisbane - Darwin
+BNE,DRW,2020,11,"2,852","24,202",,Brisbane - Darwin
+BNE,DRW,2020,12,"2,852","31,577",,Brisbane - Darwin
+BNE,DRW,2021,1,"2,852","31,576",,Brisbane - Darwin
+BNE,DRW,2021,2,"2,852","23,312",,Brisbane - Darwin
+BNE,DRW,2021,3,"2,852","27,520",,Brisbane - Darwin
+BNE,DRW,2021,4,"2,852","32,312",,Brisbane - Darwin
+BNE,DRW,2021,5,"2,852","35,042",,Brisbane - Darwin
+BNE,DRW,2021,6,"2,852","37,224",,Brisbane - Darwin
+BNE,EMD,2019,1,653,"24,314",,Brisbane - Emerald
+BNE,EMD,2019,2,653,"23,792",,Brisbane - Emerald
+BNE,EMD,2019,3,653,"25,222",,Brisbane - Emerald
+BNE,EMD,2019,4,653,"23,324",,Brisbane - Emerald
+BNE,EMD,2019,5,653,"26,268",,Brisbane - Emerald
+BNE,EMD,2019,6,653,"24,300",,Brisbane - Emerald
+BNE,EMD,2019,7,653,"26,380",,Brisbane - Emerald
+BNE,EMD,2019,8,653,"25,600",,Brisbane - Emerald
+BNE,EMD,2019,9,653,"25,430",,Brisbane - Emerald
+BNE,EMD,2019,10,653,"26,268",,Brisbane - Emerald
+BNE,EMD,2019,11,653,"25,020",,Brisbane - Emerald
+BNE,EMD,2019,12,653,"23,672",,Brisbane - Emerald
+BNE,EMD,2020,1,653,"23,574",,Brisbane - Emerald
+BNE,EMD,2020,2,653,"23,606",,Brisbane - Emerald
+BNE,EMD,2020,3,653,"22,850",,Brisbane - Emerald
+BNE,EMD,2020,4,653,,,Brisbane - Emerald
+BNE,EMD,2020,5,653,,,Brisbane - Emerald
+BNE,EMD,2020,6,653,,,Brisbane - Emerald
+BNE,EMD,2020,7,653,,,Brisbane - Emerald
+BNE,EMD,2020,8,653,,,Brisbane - Emerald
+BNE,EMD,2020,9,653,,,Brisbane - Emerald
+BNE,EMD,2020,10,653,,,Brisbane - Emerald
+BNE,EMD,2020,11,653,,,Brisbane - Emerald
+BNE,EMD,2020,12,653,"20,700",,Brisbane - Emerald
+BNE,EMD,2021,1,653,,,Brisbane - Emerald
+BNE,EMD,2021,2,653,"18,888",,Brisbane - Emerald
+BNE,EMD,2021,3,653,"22,476",,Brisbane - Emerald
+BNE,EMD,2021,4,653,"20,762",,Brisbane - Emerald
+BNE,EMD,2021,5,653,"22,972",,Brisbane - Emerald
+BNE,EMD,2021,6,653,"23,426",,Brisbane - Emerald
+BNE,GLT,2019,1,434,"26,712",,Brisbane - Gladstone
+BNE,GLT,2019,2,434,"29,148",,Brisbane - Gladstone
+BNE,GLT,2019,3,434,"31,641",,Brisbane - Gladstone
+BNE,GLT,2019,4,434,"30,830",,Brisbane - Gladstone
+BNE,GLT,2019,5,434,"32,550",,Brisbane - Gladstone
+BNE,GLT,2019,6,434,"30,756",,Brisbane - Gladstone
+BNE,GLT,2019,7,434,"32,527",,Brisbane - Gladstone
+BNE,GLT,2019,8,434,"32,498",,Brisbane - Gladstone
+BNE,GLT,2019,9,434,"31,342",,Brisbane - Gladstone
+BNE,GLT,2019,10,434,"33,068",,Brisbane - Gladstone
+BNE,GLT,2019,11,434,"31,644",,Brisbane - Gladstone
+BNE,GLT,2019,12,434,"30,014",,Brisbane - Gladstone
+BNE,GLT,2020,1,434,"30,278",,Brisbane - Gladstone
+BNE,GLT,2020,2,434,"30,174",,Brisbane - Gladstone
+BNE,GLT,2020,3,434,"28,080",,Brisbane - Gladstone
+BNE,GLT,2020,4,434,"8,320",,Brisbane - Gladstone
+BNE,GLT,2020,5,434,"3,412",,Brisbane - Gladstone
+BNE,GLT,2020,6,434,"4,172",,Brisbane - Gladstone
+BNE,GLT,2020,7,434,,,Brisbane - Gladstone
+BNE,GLT,2020,8,434,,,Brisbane - Gladstone
+BNE,GLT,2020,9,434,,,Brisbane - Gladstone
+BNE,GLT,2020,10,434,"18,698",,Brisbane - Gladstone
+BNE,GLT,2020,11,434,"19,824",,Brisbane - Gladstone
+BNE,GLT,2020,12,434,"20,744",,Brisbane - Gladstone
+BNE,GLT,2021,1,434,"19,852",,Brisbane - Gladstone
+BNE,GLT,2021,2,434,"18,040",,Brisbane - Gladstone
+BNE,GLT,2021,3,434,"21,714",,Brisbane - Gladstone
+BNE,GLT,2021,4,434,"25,254",,Brisbane - Gladstone
+BNE,GLT,2021,5,434,"26,712",,Brisbane - Gladstone
+BNE,GLT,2021,6,434,"28,072",,Brisbane - Gladstone
+BNE,HBA,2019,1,"1,791","31,788",,Brisbane - Hobart
+BNE,HBA,2019,2,"1,791","23,904",,Brisbane - Hobart
+BNE,HBA,2019,3,"1,791","25,292",,Brisbane - Hobart
+BNE,HBA,2019,4,"1,791","24,821",,Brisbane - Hobart
+BNE,HBA,2019,5,"1,791","18,507",,Brisbane - Hobart
+BNE,HBA,2019,6,"1,791","19,244",,Brisbane - Hobart
+BNE,HBA,2019,7,"1,791","22,968",,Brisbane - Hobart
+BNE,HBA,2019,8,"1,791","22,372",,Brisbane - Hobart
+BNE,HBA,2019,9,"1,791","22,328",,Brisbane - Hobart
+BNE,HBA,2019,10,"1,791","23,442",,Brisbane - Hobart
+BNE,HBA,2019,11,"1,791","24,722",,Brisbane - Hobart
+BNE,HBA,2019,12,"1,791","30,427",,Brisbane - Hobart
+BNE,HBA,2020,1,"1,791","31,110",,Brisbane - Hobart
+BNE,HBA,2020,2,"1,791","23,212",,Brisbane - Hobart
+BNE,HBA,2020,3,"1,791","19,558",,Brisbane - Hobart
+BNE,HBA,2020,4,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,5,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,6,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,7,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,8,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,9,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,10,"1,791",,,Brisbane - Hobart
+BNE,HBA,2020,11,"1,791","13,592",,Brisbane - Hobart
+BNE,HBA,2020,12,"1,791","35,418",,Brisbane - Hobart
+BNE,HBA,2021,1,"1,791","36,146",,Brisbane - Hobart
+BNE,HBA,2021,2,"1,791","24,598",,Brisbane - Hobart
+BNE,HBA,2021,3,"1,791","28,015",,Brisbane - Hobart
+BNE,HBA,2021,4,"1,791","27,210",,Brisbane - Hobart
+BNE,HBA,2021,5,"1,791","23,926",,Brisbane - Hobart
+BNE,HBA,2021,6,"1,791","24,810",,Brisbane - Hobart
+BNE,HTI,2019,1,888,"14,802",,Brisbane - Hamilton Island
+BNE,HTI,2019,2,888,"13,926",,Brisbane - Hamilton Island
+BNE,HTI,2019,3,888,"15,256",,Brisbane - Hamilton Island
+BNE,HTI,2019,4,888,"15,256",,Brisbane - Hamilton Island
+BNE,HTI,2019,5,888,"15,056",,Brisbane - Hamilton Island
+BNE,HTI,2019,6,888,"14,830",,Brisbane - Hamilton Island
+BNE,HTI,2019,7,888,"15,540",,Brisbane - Hamilton Island
+BNE,HTI,2019,8,888,"15,674",,Brisbane - Hamilton Island
+BNE,HTI,2019,9,888,"15,440",,Brisbane - Hamilton Island
+BNE,HTI,2019,10,888,"15,572",,Brisbane - Hamilton Island
+BNE,HTI,2019,11,888,"15,102",,Brisbane - Hamilton Island
+BNE,HTI,2019,12,888,"15,974",,Brisbane - Hamilton Island
+BNE,HTI,2020,1,888,"15,571",,Brisbane - Hamilton Island
+BNE,HTI,2020,2,888,"14,256",,Brisbane - Hamilton Island
+BNE,HTI,2020,3,888,"12,078",,Brisbane - Hamilton Island
+BNE,HTI,2020,4,888,,,Brisbane - Hamilton Island
+BNE,HTI,2020,5,888,,,Brisbane - Hamilton Island
+BNE,HTI,2020,6,888,,,Brisbane - Hamilton Island
+BNE,HTI,2020,7,888,,,Brisbane - Hamilton Island
+BNE,HTI,2020,8,888,,,Brisbane - Hamilton Island
+BNE,HTI,2020,9,888,,,Brisbane - Hamilton Island
+BNE,HTI,2020,10,888,"24,903",,Brisbane - Hamilton Island
+BNE,HTI,2020,11,888,"24,999",,Brisbane - Hamilton Island
+BNE,HTI,2020,12,888,"33,471",,Brisbane - Hamilton Island
+BNE,HTI,2021,1,888,"35,460",,Brisbane - Hamilton Island
+BNE,HTI,2021,2,888,"19,928",,Brisbane - Hamilton Island
+BNE,HTI,2021,3,888,"25,466",,Brisbane - Hamilton Island
+BNE,HTI,2021,4,888,"24,462",,Brisbane - Hamilton Island
+BNE,HTI,2021,5,888,"23,716",,Brisbane - Hamilton Island
+BNE,HTI,2021,6,888,"23,437",,Brisbane - Hamilton Island
+BNE,ISA,2019,1,"1,573","14,509",,Brisbane - Mount Isa
+BNE,ISA,2019,2,"1,573","14,280",,Brisbane - Mount Isa
+BNE,ISA,2019,3,"1,573","15,699",,Brisbane - Mount Isa
+BNE,ISA,2019,4,"1,573","16,530",,Brisbane - Mount Isa
+BNE,ISA,2019,5,"1,573","16,985",,Brisbane - Mount Isa
+BNE,ISA,2019,6,"1,573","16,316",,Brisbane - Mount Isa
+BNE,ISA,2019,7,"1,573","17,190",,Brisbane - Mount Isa
+BNE,ISA,2019,8,"1,573","17,496",,Brisbane - Mount Isa
+BNE,ISA,2019,9,"1,573","16,124",,Brisbane - Mount Isa
+BNE,ISA,2019,10,"1,573","16,884",,Brisbane - Mount Isa
+BNE,ISA,2019,11,"1,573","16,486",,Brisbane - Mount Isa
+BNE,ISA,2019,12,"1,573","15,315",,Brisbane - Mount Isa
+BNE,ISA,2020,1,"1,573","15,831",,Brisbane - Mount Isa
+BNE,ISA,2020,2,"1,573","15,886",,Brisbane - Mount Isa
+BNE,ISA,2020,3,"1,573","14,788",,Brisbane - Mount Isa
+BNE,ISA,2020,4,"1,573","5,700",,Brisbane - Mount Isa
+BNE,ISA,2020,5,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2020,6,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2020,7,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2020,8,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2020,9,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2020,10,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2020,11,"1,573","19,312",,Brisbane - Mount Isa
+BNE,ISA,2020,12,"1,573","18,987",,Brisbane - Mount Isa
+BNE,ISA,2021,1,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2021,2,"1,573",,,Brisbane - Mount Isa
+BNE,ISA,2021,3,"1,573","21,655",,Brisbane - Mount Isa
+BNE,ISA,2021,4,"1,573","19,369",,Brisbane - Mount Isa
+BNE,ISA,2021,5,"1,573","19,450",,Brisbane - Mount Isa
+BNE,ISA,2021,6,"1,573","20,398",,Brisbane - Mount Isa
+BNE,LST,2021,2,"1,664",,,Brisbane - Launceston
+BNE,LST,2021,3,"1,664","16,348",,Brisbane - Launceston
+BNE,LST,2021,4,"1,664","15,289",,Brisbane - Launceston
+BNE,LST,2021,5,"1,664",,,Brisbane - Launceston
+BNE,LST,2021,6,"1,664",,,Brisbane - Launceston
+BNE,MEL,2019,1,"1,381","366,670",,Brisbane - Melbourne
+BNE,MEL,2019,2,"1,381","325,515",,Brisbane - Melbourne
+BNE,MEL,2019,3,"1,381","363,871",,Brisbane - Melbourne
+BNE,MEL,2019,4,"1,381","370,818",,Brisbane - Melbourne
+BNE,MEL,2019,5,"1,381","341,819",,Brisbane - Melbourne
+BNE,MEL,2019,6,"1,381","338,119",,Brisbane - Melbourne
+BNE,MEL,2019,7,"1,381","387,334",,Brisbane - Melbourne
+BNE,MEL,2019,8,"1,381","358,815",,Brisbane - Melbourne
+BNE,MEL,2019,9,"1,381","360,393",,Brisbane - Melbourne
+BNE,MEL,2019,10,"1,381","379,108",,Brisbane - Melbourne
+BNE,MEL,2019,11,"1,381","353,850",,Brisbane - Melbourne
+BNE,MEL,2019,12,"1,381","367,037",,Brisbane - Melbourne
+BNE,MEL,2020,1,"1,381","360,259",,Brisbane - Melbourne
+BNE,MEL,2020,2,"1,381","315,083",,Brisbane - Melbourne
+BNE,MEL,2020,3,"1,381","274,100",,Brisbane - Melbourne
+BNE,MEL,2020,4,"1,381","23,649",,Brisbane - Melbourne
+BNE,MEL,2020,5,"1,381","29,062",,Brisbane - Melbourne
+BNE,MEL,2020,6,"1,381","44,534",,Brisbane - Melbourne
+BNE,MEL,2020,7,"1,381","17,880",,Brisbane - Melbourne
+BNE,MEL,2020,8,"1,381","9,716",,Brisbane - Melbourne
+BNE,MEL,2020,9,"1,381","8,646",,Brisbane - Melbourne
+BNE,MEL,2020,10,"1,381","10,468",,Brisbane - Melbourne
+BNE,MEL,2020,11,"1,381","16,156",,Brisbane - Melbourne
+BNE,MEL,2020,12,"1,381","169,523",,Brisbane - Melbourne
+BNE,MEL,2021,1,"1,381","155,841",,Brisbane - Melbourne
+BNE,MEL,2021,2,"1,381","88,818",,Brisbane - Melbourne
+BNE,MEL,2021,3,"1,381","180,163",,Brisbane - Melbourne
+BNE,MEL,2021,4,"1,381","206,431",,Brisbane - Melbourne
+BNE,MEL,2021,5,"1,381","236,264",,Brisbane - Melbourne
+BNE,MEL,2021,6,"1,381","100,454",,Brisbane - Melbourne
+BNE,MKY,2019,1,797,"81,946",,Brisbane - Mackay
+BNE,MKY,2019,2,797,"74,942",,Brisbane - Mackay
+BNE,MKY,2019,3,797,"81,078",,Brisbane - Mackay
+BNE,MKY,2019,4,797,"83,237",,Brisbane - Mackay
+BNE,MKY,2019,5,797,"87,576",,Brisbane - Mackay
+BNE,MKY,2019,6,797,"82,781",,Brisbane - Mackay
+BNE,MKY,2019,7,797,"88,979",,Brisbane - Mackay
+BNE,MKY,2019,8,797,"88,522",,Brisbane - Mackay
+BNE,MKY,2019,9,797,"86,343",,Brisbane - Mackay
+BNE,MKY,2019,10,797,"86,532",,Brisbane - Mackay
+BNE,MKY,2019,11,797,"81,671",,Brisbane - Mackay
+BNE,MKY,2019,12,797,"81,285",,Brisbane - Mackay
+BNE,MKY,2020,1,797,"81,538",,Brisbane - Mackay
+BNE,MKY,2020,2,797,"78,376",,Brisbane - Mackay
+BNE,MKY,2020,3,797,"69,908",,Brisbane - Mackay
+BNE,MKY,2020,4,797,"14,410",,Brisbane - Mackay
+BNE,MKY,2020,5,797,"10,122",,Brisbane - Mackay
+BNE,MKY,2020,6,797,"18,133",,Brisbane - Mackay
+BNE,MKY,2020,7,797,"37,216",,Brisbane - Mackay
+BNE,MKY,2020,8,797,"51,038",,Brisbane - Mackay
+BNE,MKY,2020,9,797,"51,900",,Brisbane - Mackay
+BNE,MKY,2020,10,797,"55,975",,Brisbane - Mackay
+BNE,MKY,2020,11,797,"57,331",,Brisbane - Mackay
+BNE,MKY,2020,12,797,"67,817",,Brisbane - Mackay
+BNE,MKY,2021,1,797,"63,435",,Brisbane - Mackay
+BNE,MKY,2021,2,797,"58,766",,Brisbane - Mackay
+BNE,MKY,2021,3,797,"73,633",,Brisbane - Mackay
+BNE,MKY,2021,4,797,"69,362",,Brisbane - Mackay
+BNE,MKY,2021,5,797,"73,314",,Brisbane - Mackay
+BNE,MKY,2021,6,797,"79,696",,Brisbane - Mackay
+BNE,MOV,2019,1,780,,,Brisbane - Moranbah
+BNE,MOV,2019,2,780,,,Brisbane - Moranbah
+BNE,MOV,2019,3,780,,,Brisbane - Moranbah
+BNE,MOV,2019,4,780,,,Brisbane - Moranbah
+BNE,MOV,2019,5,780,,,Brisbane - Moranbah
+BNE,MOV,2019,6,780,,,Brisbane - Moranbah
+BNE,MOV,2019,7,780,,,Brisbane - Moranbah
+BNE,MOV,2019,8,780,,,Brisbane - Moranbah
+BNE,MOV,2019,9,780,,,Brisbane - Moranbah
+BNE,MOV,2019,10,780,,,Brisbane - Moranbah
+BNE,MOV,2019,11,780,,,Brisbane - Moranbah
+BNE,MOV,2019,12,780,,,Brisbane - Moranbah
+BNE,MOV,2020,1,780,,,Brisbane - Moranbah
+BNE,MOV,2020,2,780,,,Brisbane - Moranbah
+BNE,MOV,2020,3,780,,,Brisbane - Moranbah
+BNE,MOV,2020,4,780,,,Brisbane - Moranbah
+BNE,MOV,2020,5,780,,,Brisbane - Moranbah
+BNE,MOV,2020,6,780,,,Brisbane - Moranbah
+BNE,MOV,2020,7,780,,,Brisbane - Moranbah
+BNE,MOV,2020,8,780,,,Brisbane - Moranbah
+BNE,MOV,2020,9,780,,,Brisbane - Moranbah
+BNE,MOV,2020,10,780,,,Brisbane - Moranbah
+BNE,MOV,2020,11,780,,,Brisbane - Moranbah
+BNE,MOV,2020,12,780,,,Brisbane - Moranbah
+BNE,MOV,2021,1,780,,,Brisbane - Moranbah
+BNE,MOV,2021,2,780,,,Brisbane - Moranbah
+BNE,MOV,2021,3,780,,,Brisbane - Moranbah
+BNE,MOV,2021,4,780,,,Brisbane - Moranbah
+BNE,MOV,2021,5,780,,,Brisbane - Moranbah
+BNE,MOV,2021,6,780,,,Brisbane - Moranbah
+BNE,NTL,2019,1,614,"62,800",,Brisbane - Newcastle
+BNE,NTL,2019,2,614,"61,484",,Brisbane - Newcastle
+BNE,NTL,2019,3,614,"69,716",,Brisbane - Newcastle
+BNE,NTL,2019,4,614,"63,685",,Brisbane - Newcastle
+BNE,NTL,2019,5,614,"67,582",,Brisbane - Newcastle
+BNE,NTL,2019,6,614,"63,683",,Brisbane - Newcastle
+BNE,NTL,2019,7,614,"71,670",,Brisbane - Newcastle
+BNE,NTL,2019,8,614,"69,565",,Brisbane - Newcastle
+BNE,NTL,2019,9,614,"68,118",,Brisbane - Newcastle
+BNE,NTL,2019,10,614,"68,989",,Brisbane - Newcastle
+BNE,NTL,2019,11,614,"69,999",,Brisbane - Newcastle
+BNE,NTL,2019,12,614,"66,722",,Brisbane - Newcastle
+BNE,NTL,2020,1,614,"67,543",,Brisbane - Newcastle
+BNE,NTL,2020,2,614,"61,476",,Brisbane - Newcastle
+BNE,NTL,2020,3,614,"50,828",,Brisbane - Newcastle
+BNE,NTL,2020,4,614,,,Brisbane - Newcastle
+BNE,NTL,2020,5,614,,,Brisbane - Newcastle
+BNE,NTL,2020,6,614,,,Brisbane - Newcastle
+BNE,NTL,2020,7,614,"14,932",,Brisbane - Newcastle
+BNE,NTL,2020,8,614,"10,644",,Brisbane - Newcastle
+BNE,NTL,2020,9,614,,,Brisbane - Newcastle
+BNE,NTL,2020,10,614,,,Brisbane - Newcastle
+BNE,NTL,2020,11,614,"25,280",,Brisbane - Newcastle
+BNE,NTL,2020,12,614,"51,694",,Brisbane - Newcastle
+BNE,NTL,2021,1,614,"39,610",,Brisbane - Newcastle
+BNE,NTL,2021,2,614,"41,951",,Brisbane - Newcastle
+BNE,NTL,2021,3,614,"48,235",,Brisbane - Newcastle
+BNE,NTL,2021,4,614,"51,189",,Brisbane - Newcastle
+BNE,NTL,2021,5,614,"55,220",,Brisbane - Newcastle
+BNE,NTL,2021,6,614,"53,557",,Brisbane - Newcastle
+BNE,PER,2019,1,"3,615","93,916",,Brisbane - Perth
+BNE,PER,2019,2,"3,615","86,673",,Brisbane - Perth
+BNE,PER,2019,3,"3,615","96,030",,Brisbane - Perth
+BNE,PER,2019,4,"3,615","94,249",,Brisbane - Perth
+BNE,PER,2019,5,"3,615","96,412",,Brisbane - Perth
+BNE,PER,2019,6,"3,615","89,979",,Brisbane - Perth
+BNE,PER,2019,7,"3,615","97,260",,Brisbane - Perth
+BNE,PER,2019,8,"3,615","95,457",,Brisbane - Perth
+BNE,PER,2019,9,"3,615","95,096",,Brisbane - Perth
+BNE,PER,2019,10,"3,615","98,189",,Brisbane - Perth
+BNE,PER,2019,11,"3,615","93,219",,Brisbane - Perth
+BNE,PER,2019,12,"3,615","98,207",,Brisbane - Perth
+BNE,PER,2020,1,"3,615","95,323",,Brisbane - Perth
+BNE,PER,2020,2,"3,615","88,720",,Brisbane - Perth
+BNE,PER,2020,3,"3,615","84,965",,Brisbane - Perth
+BNE,PER,2020,4,"3,615","8,364",,Brisbane - Perth
+BNE,PER,2020,5,"3,615",,,Brisbane - Perth
+BNE,PER,2020,6,"3,615",,,Brisbane - Perth
+BNE,PER,2020,7,"3,615",,,Brisbane - Perth
+BNE,PER,2020,8,"3,615",,,Brisbane - Perth
+BNE,PER,2020,9,"3,615",,,Brisbane - Perth
+BNE,PER,2020,10,"3,615",,,Brisbane - Perth
+BNE,PER,2020,11,"3,615","28,852",,Brisbane - Perth
+BNE,PER,2020,12,"3,615","53,666",,Brisbane - Perth
+BNE,PER,2021,1,"3,615","42,438",,Brisbane - Perth
+BNE,PER,2021,2,"3,615","21,276",,Brisbane - Perth
+BNE,PER,2021,3,"3,615","58,563",,Brisbane - Perth
+BNE,PER,2021,4,"3,615","23,448",,Brisbane - Perth
+BNE,PER,2021,5,"3,615","57,040",,Brisbane - Perth
+BNE,PER,2021,6,"3,615","69,906",,Brisbane - Perth
+BNE,PPP,2019,1,895,"30,684",,Brisbane - Proserpine
+BNE,PPP,2019,2,895,"22,648",,Brisbane - Proserpine
+BNE,PPP,2019,3,895,"25,320",,Brisbane - Proserpine
+BNE,PPP,2019,4,895,"30,138",,Brisbane - Proserpine
+BNE,PPP,2019,5,895,"24,252",,Brisbane - Proserpine
+BNE,PPP,2019,6,895,"21,760",,Brisbane - Proserpine
+BNE,PPP,2019,7,895,"28,170",,Brisbane - Proserpine
+BNE,PPP,2019,8,895,"25,752",,Brisbane - Proserpine
+BNE,PPP,2019,9,895,"27,240",,Brisbane - Proserpine
+BNE,PPP,2019,10,895,"27,528",,Brisbane - Proserpine
+BNE,PPP,2019,11,895,"25,500",,Brisbane - Proserpine
+BNE,PPP,2019,12,895,"29,484",,Brisbane - Proserpine
+BNE,PPP,2020,1,895,"30,974",,Brisbane - Proserpine
+BNE,PPP,2020,2,895,"22,002",,Brisbane - Proserpine
+BNE,PPP,2020,3,895,"21,036",,Brisbane - Proserpine
+BNE,PPP,2020,4,895,,,Brisbane - Proserpine
+BNE,PPP,2020,5,895,,,Brisbane - Proserpine
+BNE,PPP,2020,6,895,"3,444",,Brisbane - Proserpine
+BNE,PPP,2020,7,895,"19,816",,Brisbane - Proserpine
+BNE,PPP,2020,8,895,"18,936",,Brisbane - Proserpine
+BNE,PPP,2020,9,895,"22,938",,Brisbane - Proserpine
+BNE,PPP,2020,10,895,"26,804",,Brisbane - Proserpine
+BNE,PPP,2020,11,895,"23,856",,Brisbane - Proserpine
+BNE,PPP,2020,12,895,"27,932",,Brisbane - Proserpine
+BNE,PPP,2021,1,895,"25,676",,Brisbane - Proserpine
+BNE,PPP,2021,2,895,"20,176",,Brisbane - Proserpine
+BNE,PPP,2021,3,895,"25,932",,Brisbane - Proserpine
+BNE,PPP,2021,4,895,"28,234",,Brisbane - Proserpine
+BNE,PPP,2021,5,895,"21,522",,Brisbane - Proserpine
+BNE,PPP,2021,6,895,"22,148",,Brisbane - Proserpine
+BNE,ROK,2019,1,518,"54,676",,Brisbane - Rockhampton
+BNE,ROK,2019,2,518,"50,938",,Brisbane - Rockhampton
+BNE,ROK,2019,3,518,"57,484",,Brisbane - Rockhampton
+BNE,ROK,2019,4,518,"54,425",,Brisbane - Rockhampton
+BNE,ROK,2019,5,518,"58,661",,Brisbane - Rockhampton
+BNE,ROK,2019,6,518,"55,035",,Brisbane - Rockhampton
+BNE,ROK,2019,7,518,"58,808",,Brisbane - Rockhampton
+BNE,ROK,2019,8,518,"56,861",,Brisbane - Rockhampton
+BNE,ROK,2019,9,518,"55,109",,Brisbane - Rockhampton
+BNE,ROK,2019,10,518,"58,305",,Brisbane - Rockhampton
+BNE,ROK,2019,11,518,"55,841",,Brisbane - Rockhampton
+BNE,ROK,2019,12,518,"54,246",,Brisbane - Rockhampton
+BNE,ROK,2020,1,518,"55,742",,Brisbane - Rockhampton
+BNE,ROK,2020,2,518,"55,011",,Brisbane - Rockhampton
+BNE,ROK,2020,3,518,"51,174",,Brisbane - Rockhampton
+BNE,ROK,2020,4,518,"9,582",,Brisbane - Rockhampton
+BNE,ROK,2020,5,518,"6,574",,Brisbane - Rockhampton
+BNE,ROK,2020,6,518,"13,332",,Brisbane - Rockhampton
+BNE,ROK,2020,7,518,"23,060",,Brisbane - Rockhampton
+BNE,ROK,2020,8,518,"29,714",,Brisbane - Rockhampton
+BNE,ROK,2020,9,518,"35,192",,Brisbane - Rockhampton
+BNE,ROK,2020,10,518,"37,940",,Brisbane - Rockhampton
+BNE,ROK,2020,11,518,"40,360",,Brisbane - Rockhampton
+BNE,ROK,2020,12,518,"48,854",,Brisbane - Rockhampton
+BNE,ROK,2021,1,518,"43,206",,Brisbane - Rockhampton
+BNE,ROK,2021,2,518,"38,968",,Brisbane - Rockhampton
+BNE,ROK,2021,3,518,"51,217",,Brisbane - Rockhampton
+BNE,ROK,2021,4,518,"46,429",,Brisbane - Rockhampton
+BNE,ROK,2021,5,518,"55,837",,Brisbane - Rockhampton
+BNE,ROK,2021,6,518,"56,214",,Brisbane - Rockhampton
+BNE,SYD,2019,1,753,"450,240",,Brisbane - Sydney
+BNE,SYD,2019,2,753,"437,754",,Brisbane - Sydney
+BNE,SYD,2019,3,753,"491,592",,Brisbane - Sydney
+BNE,SYD,2019,4,753,"488,472",,Brisbane - Sydney
+BNE,SYD,2019,5,753,"499,626",,Brisbane - Sydney
+BNE,SYD,2019,6,753,"469,583",,Brisbane - Sydney
+BNE,SYD,2019,7,753,"521,728",,Brisbane - Sydney
+BNE,SYD,2019,8,753,"490,360",,Brisbane - Sydney
+BNE,SYD,2019,9,753,"487,104",,Brisbane - Sydney
+BNE,SYD,2019,10,753,"511,138",,Brisbane - Sydney
+BNE,SYD,2019,11,753,"476,626",,Brisbane - Sydney
+BNE,SYD,2019,12,753,"471,625",,Brisbane - Sydney
+BNE,SYD,2020,1,753,"439,245",,Brisbane - Sydney
+BNE,SYD,2020,2,753,"426,757",,Brisbane - Sydney
+BNE,SYD,2020,3,753,"361,956",,Brisbane - Sydney
+BNE,SYD,2020,4,753,"39,177",,Brisbane - Sydney
+BNE,SYD,2020,5,753,"33,800",,Brisbane - Sydney
+BNE,SYD,2020,6,753,"52,231",,Brisbane - Sydney
+BNE,SYD,2020,7,753,"127,862",,Brisbane - Sydney
+BNE,SYD,2020,8,753,"37,835",,Brisbane - Sydney
+BNE,SYD,2020,9,753,"26,104",,Brisbane - Sydney
+BNE,SYD,2020,10,753,"24,179",,Brisbane - Sydney
+BNE,SYD,2020,11,753,"48,072",,Brisbane - Sydney
+BNE,SYD,2020,12,753,"192,248",,Brisbane - Sydney
+BNE,SYD,2021,1,753,"59,366",,Brisbane - Sydney
+BNE,SYD,2021,2,753,"185,578",,Brisbane - Sydney
+BNE,SYD,2021,3,753,"298,092",,Brisbane - Sydney
+BNE,SYD,2021,4,753,"279,900",,Brisbane - Sydney
+BNE,SYD,2021,5,753,"324,164",,Brisbane - Sydney
+BNE,SYD,2021,6,753,"300,052",,Brisbane - Sydney
+BNE,TSV,2019,1,"1,112","102,665",,Brisbane - Townsville
+BNE,TSV,2019,2,"1,112","89,253",,Brisbane - Townsville
+BNE,TSV,2019,3,"1,112","104,275",,Brisbane - Townsville
+BNE,TSV,2019,4,"1,112","109,935",,Brisbane - Townsville
+BNE,TSV,2019,5,"1,112","117,037",,Brisbane - Townsville
+BNE,TSV,2019,6,"1,112","110,214",,Brisbane - Townsville
+BNE,TSV,2019,7,"1,112","118,401",,Brisbane - Townsville
+BNE,TSV,2019,8,"1,112","113,548",,Brisbane - Townsville
+BNE,TSV,2019,9,"1,112","111,805",,Brisbane - Townsville
+BNE,TSV,2019,10,"1,112","112,691",,Brisbane - Townsville
+BNE,TSV,2019,11,"1,112","103,610",,Brisbane - Townsville
+BNE,TSV,2019,12,"1,112","106,819",,Brisbane - Townsville
+BNE,TSV,2020,1,"1,112","103,931",,Brisbane - Townsville
+BNE,TSV,2020,2,"1,112","97,965",,Brisbane - Townsville
+BNE,TSV,2020,3,"1,112","86,635",,Brisbane - Townsville
+BNE,TSV,2020,4,"1,112","9,342",,Brisbane - Townsville
+BNE,TSV,2020,5,"1,112","7,924",,Brisbane - Townsville
+BNE,TSV,2020,6,"1,112","20,412",,Brisbane - Townsville
+BNE,TSV,2020,7,"1,112","49,458",,Brisbane - Townsville
+BNE,TSV,2020,8,"1,112","61,242",,Brisbane - Townsville
+BNE,TSV,2020,9,"1,112","62,688",,Brisbane - Townsville
+BNE,TSV,2020,10,"1,112","65,949",,Brisbane - Townsville
+BNE,TSV,2020,11,"1,112","61,868",,Brisbane - Townsville
+BNE,TSV,2020,12,"1,112","84,820",,Brisbane - Townsville
+BNE,TSV,2021,1,"1,112","81,078",,Brisbane - Townsville
+BNE,TSV,2021,2,"1,112","69,131",,Brisbane - Townsville
+BNE,TSV,2021,3,"1,112","88,782",,Brisbane - Townsville
+BNE,TSV,2021,4,"1,112","85,462",,Brisbane - Townsville
+BNE,TSV,2021,5,"1,112","91,252",,Brisbane - Townsville
+BNE,TSV,2021,6,"1,112","95,912",,Brisbane - Townsville
+CBR,MEL,2019,1,470,"125,694",,Canberra - Melbourne
+CBR,MEL,2019,2,470,"139,283",,Canberra - Melbourne
+CBR,MEL,2019,3,470,"151,034",,Canberra - Melbourne
+CBR,MEL,2019,4,470,"140,695",,Canberra - Melbourne
+CBR,MEL,2019,5,470,"152,712",,Canberra - Melbourne
+CBR,MEL,2019,6,470,"142,004",,Canberra - Melbourne
+CBR,MEL,2019,7,470,"152,795",,Canberra - Melbourne
+CBR,MEL,2019,8,470,"154,176",,Canberra - Melbourne
+CBR,MEL,2019,9,470,"148,979",,Canberra - Melbourne
+CBR,MEL,2019,10,470,"155,071",,Canberra - Melbourne
+CBR,MEL,2019,11,470,"150,136",,Canberra - Melbourne
+CBR,MEL,2019,12,470,"133,390",,Canberra - Melbourne
+CBR,MEL,2020,1,470,"106,816",,Canberra - Melbourne
+CBR,MEL,2020,2,470,"143,202",,Canberra - Melbourne
+CBR,MEL,2020,3,470,"118,783",,Canberra - Melbourne
+CBR,MEL,2020,4,470,"9,588",,Canberra - Melbourne
+CBR,MEL,2020,5,470,"7,628",,Canberra - Melbourne
+CBR,MEL,2020,6,470,"11,514",,Canberra - Melbourne
+CBR,MEL,2020,7,470,"9,834",,Canberra - Melbourne
+CBR,MEL,2020,8,470,,,Canberra - Melbourne
+CBR,MEL,2020,9,470,,,Canberra - Melbourne
+CBR,MEL,2020,10,470,,,Canberra - Melbourne
+CBR,MEL,2020,11,470,,,Canberra - Melbourne
+CBR,MEL,2020,12,470,"39,617",,Canberra - Melbourne
+CBR,MEL,2021,1,470,"45,007",,Canberra - Melbourne
+CBR,MEL,2021,2,470,"43,974",,Canberra - Melbourne
+CBR,MEL,2021,3,470,"51,665",,Canberra - Melbourne
+CBR,MEL,2021,4,470,"65,904",,Canberra - Melbourne
+CBR,MEL,2021,5,470,"81,122",,Canberra - Melbourne
+CBR,MEL,2021,6,470,"39,499",,Canberra - Melbourne
+CBR,OOL,2021,3,892,,,Canberra - Gold Coast
+CBR,OOL,2021,4,892,"17,774",,Canberra - Gold Coast
+CBR,OOL,2021,5,892,"17,655",,Canberra - Gold Coast
+CBR,OOL,2021,6,892,"17,146",,Canberra - Gold Coast
+CBR,SYD,2019,1,236,"67,200",,Canberra - Sydney
+CBR,SYD,2019,2,236,"103,402",,Canberra - Sydney
+CBR,SYD,2019,3,236,"111,250",,Canberra - Sydney
+CBR,SYD,2019,4,236,"100,583",,Canberra - Sydney
+CBR,SYD,2019,5,236,"109,945",,Canberra - Sydney
+CBR,SYD,2019,6,236,"101,696",,Canberra - Sydney
+CBR,SYD,2019,7,236,"111,635",,Canberra - Sydney
+CBR,SYD,2019,8,236,"111,681",,Canberra - Sydney
+CBR,SYD,2019,9,236,"109,005",,Canberra - Sydney
+CBR,SYD,2019,10,236,"115,664",,Canberra - Sydney
+CBR,SYD,2019,11,236,"109,756",,Canberra - Sydney
+CBR,SYD,2019,12,236,"89,532",,Canberra - Sydney
+CBR,SYD,2020,1,236,"66,756",,Canberra - Sydney
+CBR,SYD,2020,2,236,"99,748",,Canberra - Sydney
+CBR,SYD,2020,3,236,"79,624",,Canberra - Sydney
+CBR,SYD,2020,4,236,,,Canberra - Sydney
+CBR,SYD,2020,5,236,,,Canberra - Sydney
+CBR,SYD,2020,6,236,,,Canberra - Sydney
+CBR,SYD,2020,7,236,,,Canberra - Sydney
+CBR,SYD,2020,8,236,,,Canberra - Sydney
+CBR,SYD,2020,9,236,,,Canberra - Sydney
+CBR,SYD,2020,10,236,,,Canberra - Sydney
+CBR,SYD,2020,11,236,,,Canberra - Sydney
+CBR,SYD,2020,12,236,,,Canberra - Sydney
+CBR,SYD,2021,1,236,,,Canberra - Sydney
+CBR,SYD,2021,2,236,"32,952",,Canberra - Sydney
+CBR,SYD,2021,3,236,"34,029",,Canberra - Sydney
+CBR,SYD,2021,4,236,"39,357",,Canberra - Sydney
+CBR,SYD,2021,5,236,"66,088",,Canberra - Sydney
+CBR,SYD,2021,6,236,"58,823",,Canberra - Sydney
+CFS,SYD,2019,1,443,"37,994",,Coffs Harbour - Sydney
+CFS,SYD,2019,2,443,"35,021",,Coffs Harbour - Sydney
+CFS,SYD,2019,3,443,"38,036",,Coffs Harbour - Sydney
+CFS,SYD,2019,4,443,"36,860",,Coffs Harbour - Sydney
+CFS,SYD,2019,5,443,"37,865",,Coffs Harbour - Sydney
+CFS,SYD,2019,6,443,"36,640",,Coffs Harbour - Sydney
+CFS,SYD,2019,7,443,"39,005",,Coffs Harbour - Sydney
+CFS,SYD,2019,8,443,"34,378",,Coffs Harbour - Sydney
+CFS,SYD,2019,9,443,"38,096",,Coffs Harbour - Sydney
+CFS,SYD,2019,10,443,"38,968",,Coffs Harbour - Sydney
+CFS,SYD,2019,11,443,"34,908",,Coffs Harbour - Sydney
+CFS,SYD,2019,12,443,"37,158",,Coffs Harbour - Sydney
+CFS,SYD,2020,1,443,"37,131",,Coffs Harbour - Sydney
+CFS,SYD,2020,2,443,"32,072",,Coffs Harbour - Sydney
+CFS,SYD,2020,3,443,"28,518",,Coffs Harbour - Sydney
+CFS,SYD,2020,4,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,5,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,6,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,7,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,8,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,9,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,10,443,,,Coffs Harbour - Sydney
+CFS,SYD,2020,11,443,"15,218",,Coffs Harbour - Sydney
+CFS,SYD,2020,12,443,"17,740",,Coffs Harbour - Sydney
+CFS,SYD,2021,1,443,,,Coffs Harbour - Sydney
+CFS,SYD,2021,2,443,"17,646",,Coffs Harbour - Sydney
+CFS,SYD,2021,3,443,"26,480",,Coffs Harbour - Sydney
+CFS,SYD,2021,4,443,"26,628",,Coffs Harbour - Sydney
+CFS,SYD,2021,5,443,"25,699",,Coffs Harbour - Sydney
+CFS,SYD,2021,6,443,"22,996",,Coffs Harbour - Sydney
+CNS,MEL,2019,1,"2,311","91,810",,Cairns - Melbourne
+CNS,MEL,2019,2,"2,311","67,726",,Cairns - Melbourne
+CNS,MEL,2019,3,"2,311","65,544",,Cairns - Melbourne
+CNS,MEL,2019,4,"2,311","92,186",,Cairns - Melbourne
+CNS,MEL,2019,5,"2,311","72,450",,Cairns - Melbourne
+CNS,MEL,2019,6,"2,311","76,531",,Cairns - Melbourne
+CNS,MEL,2019,7,"2,311","102,692",,Cairns - Melbourne
+CNS,MEL,2019,8,"2,311","90,291",,Cairns - Melbourne
+CNS,MEL,2019,9,"2,311","96,652",,Cairns - Melbourne
+CNS,MEL,2019,10,"2,311","94,064",,Cairns - Melbourne
+CNS,MEL,2019,11,"2,311","75,687",,Cairns - Melbourne
+CNS,MEL,2019,12,"2,311","79,473",,Cairns - Melbourne
+CNS,MEL,2020,1,"2,311","68,498",,Cairns - Melbourne
+CNS,MEL,2020,2,"2,311","58,748",,Cairns - Melbourne
+CNS,MEL,2020,3,"2,311","48,539",,Cairns - Melbourne
+CNS,MEL,2020,4,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,5,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,6,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,7,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,8,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,9,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,10,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,11,"2,311",,,Cairns - Melbourne
+CNS,MEL,2020,12,"2,311","33,930",,Cairns - Melbourne
+CNS,MEL,2021,1,"2,311","50,873",,Cairns - Melbourne
+CNS,MEL,2021,2,"2,311","22,644",,Cairns - Melbourne
+CNS,MEL,2021,3,"2,311","40,418",,Cairns - Melbourne
+CNS,MEL,2021,4,"2,311","86,912",,Cairns - Melbourne
+CNS,MEL,2021,5,"2,311","71,763",,Cairns - Melbourne
+CNS,MEL,2021,6,"2,311","55,975",,Cairns - Melbourne
+CNS,SYD,2019,1,"1,971","120,196",,Cairns - Sydney
+CNS,SYD,2019,2,"1,971","99,107",,Cairns - Sydney
+CNS,SYD,2019,3,"1,971","100,955",,Cairns - Sydney
+CNS,SYD,2019,4,"1,971","115,775",,Cairns - Sydney
+CNS,SYD,2019,5,"1,971","93,245",,Cairns - Sydney
+CNS,SYD,2019,6,"1,971","93,193",,Cairns - Sydney
+CNS,SYD,2019,7,"1,971","124,349",,Cairns - Sydney
+CNS,SYD,2019,8,"1,971","111,943",,Cairns - Sydney
+CNS,SYD,2019,9,"1,971","103,678",,Cairns - Sydney
+CNS,SYD,2019,10,"1,971","115,503",,Cairns - Sydney
+CNS,SYD,2019,11,"1,971","98,278",,Cairns - Sydney
+CNS,SYD,2019,12,"1,971","109,655",,Cairns - Sydney
+CNS,SYD,2020,1,"1,971","111,910",,Cairns - Sydney
+CNS,SYD,2020,2,"1,971","87,672",,Cairns - Sydney
+CNS,SYD,2020,3,"1,971","70,156",,Cairns - Sydney
+CNS,SYD,2020,4,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,5,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,6,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,7,"1,971","34,631",,Cairns - Sydney
+CNS,SYD,2020,8,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,9,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,10,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,11,"1,971",,,Cairns - Sydney
+CNS,SYD,2020,12,"1,971","36,250",,Cairns - Sydney
+CNS,SYD,2021,1,"1,971",,,Cairns - Sydney
+CNS,SYD,2021,2,"1,971","18,244",,Cairns - Sydney
+CNS,SYD,2021,3,"1,971","38,386",,Cairns - Sydney
+CNS,SYD,2021,4,"1,971","96,841",,Cairns - Sydney
+CNS,SYD,2021,5,"1,971","69,348",,Cairns - Sydney
+CNS,SYD,2021,6,"1,971","74,690",,Cairns - Sydney
+CNS,TSV,2019,1,284,"20,536",,Cairns - Townsville
+CNS,TSV,2019,2,284,"18,469",,Cairns - Townsville
+CNS,TSV,2019,3,284,"21,048",,Cairns - Townsville
+CNS,TSV,2019,4,284,"19,994",,Cairns - Townsville
+CNS,TSV,2019,5,284,"21,081",,Cairns - Townsville
+CNS,TSV,2019,6,284,"19,942",,Cairns - Townsville
+CNS,TSV,2019,7,284,"21,160",,Cairns - Townsville
+CNS,TSV,2019,8,284,"21,081",,Cairns - Townsville
+CNS,TSV,2019,9,284,"20,318",,Cairns - Townsville
+CNS,TSV,2019,10,284,"21,234",,Cairns - Townsville
+CNS,TSV,2019,11,284,"20,417",,Cairns - Townsville
+CNS,TSV,2019,12,284,"21,047",,Cairns - Townsville
+CNS,TSV,2020,1,284,"21,092",,Cairns - Townsville
+CNS,TSV,2020,2,284,"19,547",,Cairns - Townsville
+CNS,TSV,2020,3,284,"19,518",,Cairns - Townsville
+CNS,TSV,2020,4,284,"5,055",,Cairns - Townsville
+CNS,TSV,2020,5,284,,,Cairns - Townsville
+CNS,TSV,2020,6,284,,,Cairns - Townsville
+CNS,TSV,2020,7,284,,,Cairns - Townsville
+CNS,TSV,2020,8,284,,,Cairns - Townsville
+CNS,TSV,2020,9,284,,,Cairns - Townsville
+CNS,TSV,2020,10,284,,,Cairns - Townsville
+CNS,TSV,2020,11,284,,,Cairns - Townsville
+CNS,TSV,2020,12,284,,,Cairns - Townsville
+CNS,TSV,2021,1,284,,,Cairns - Townsville
+CNS,TSV,2021,2,284,,,Cairns - Townsville
+CNS,TSV,2021,3,284,,,Cairns - Townsville
+CNS,TSV,2021,4,284,,,Cairns - Townsville
+CNS,TSV,2021,5,284,,,Cairns - Townsville
+CNS,TSV,2021,6,284,,,Cairns - Townsville
+DBO,SYD,2019,1,310,"18,076",,Dubbo - Sydney
+DBO,SYD,2019,2,310,"21,124",,Dubbo - Sydney
+DBO,SYD,2019,3,310,"23,694",,Dubbo - Sydney
+DBO,SYD,2019,4,310,"21,000",,Dubbo - Sydney
+DBO,SYD,2019,5,310,"23,473",,Dubbo - Sydney
+DBO,SYD,2019,6,310,"21,814",,Dubbo - Sydney
+DBO,SYD,2019,7,310,"24,389",,Dubbo - Sydney
+DBO,SYD,2019,8,310,"24,100",,Dubbo - Sydney
+DBO,SYD,2019,9,310,"23,474",,Dubbo - Sydney
+DBO,SYD,2019,10,310,"24,746",,Dubbo - Sydney
+DBO,SYD,2019,11,310,"23,933",,Dubbo - Sydney
+DBO,SYD,2019,12,310,"20,151",,Dubbo - Sydney
+DBO,SYD,2020,1,310,"17,584",,Dubbo - Sydney
+DBO,SYD,2020,2,310,"22,130",,Dubbo - Sydney
+DBO,SYD,2020,3,310,"19,857",,Dubbo - Sydney
+DBO,SYD,2020,4,310,"2,699",,Dubbo - Sydney
+DBO,SYD,2020,5,310,"2,009",,Dubbo - Sydney
+DBO,SYD,2020,6,310,,,Dubbo - Sydney
+DBO,SYD,2020,7,310,,,Dubbo - Sydney
+DBO,SYD,2020,8,310,,,Dubbo - Sydney
+DBO,SYD,2020,9,310,,,Dubbo - Sydney
+DBO,SYD,2020,10,310,,,Dubbo - Sydney
+DBO,SYD,2020,11,310,,,Dubbo - Sydney
+DBO,SYD,2020,12,310,,,Dubbo - Sydney
+DBO,SYD,2021,1,310,,,Dubbo - Sydney
+DBO,SYD,2021,2,310,,,Dubbo - Sydney
+DBO,SYD,2021,3,310,"17,760",,Dubbo - Sydney
+DBO,SYD,2021,4,310,"17,396",,Dubbo - Sydney
+DBO,SYD,2021,5,310,"19,830",,Dubbo - Sydney
+DBO,SYD,2021,6,310,"17,756",,Dubbo - Sydney
+DRW,MEL,2019,1,"3,131","31,088",,Darwin - Melbourne
+DRW,MEL,2019,2,"3,131","24,034",,Darwin - Melbourne
+DRW,MEL,2019,3,"3,131","28,903",,Darwin - Melbourne
+DRW,MEL,2019,4,"3,131","33,409",,Darwin - Melbourne
+DRW,MEL,2019,5,"3,131","30,387",,Darwin - Melbourne
+DRW,MEL,2019,6,"3,131","33,829",,Darwin - Melbourne
+DRW,MEL,2019,7,"3,131","38,795",,Darwin - Melbourne
+DRW,MEL,2019,8,"3,131","34,450",,Darwin - Melbourne
+DRW,MEL,2019,9,"3,131","32,331",,Darwin - Melbourne
+DRW,MEL,2019,10,"3,131","33,847",,Darwin - Melbourne
+DRW,MEL,2019,11,"3,131","27,388",,Darwin - Melbourne
+DRW,MEL,2019,12,"3,131","29,484",,Darwin - Melbourne
+DRW,MEL,2020,1,"3,131","29,543",,Darwin - Melbourne
+DRW,MEL,2020,2,"3,131","24,609",,Darwin - Melbourne
+DRW,MEL,2020,3,"3,131","22,096",,Darwin - Melbourne
+DRW,MEL,2020,4,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,5,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,6,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,7,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,8,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,9,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,10,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,11,"3,131",,,Darwin - Melbourne
+DRW,MEL,2020,12,"3,131",,,Darwin - Melbourne
+DRW,MEL,2021,1,"3,131",,,Darwin - Melbourne
+DRW,MEL,2021,2,"3,131",,,Darwin - Melbourne
+DRW,MEL,2021,3,"3,131",,,Darwin - Melbourne
+DRW,MEL,2021,4,"3,131",,,Darwin - Melbourne
+DRW,MEL,2021,5,"3,131",,,Darwin - Melbourne
+DRW,MEL,2021,6,"3,131",,,Darwin - Melbourne
+DRW,PER,2019,1,"2,651","21,423",,Darwin - Perth
+DRW,PER,2019,2,"2,651","19,198",,Darwin - Perth
+DRW,PER,2019,3,"2,651","21,363",,Darwin - Perth
+DRW,PER,2019,4,"2,651","20,740",,Darwin - Perth
+DRW,PER,2019,5,"2,651","21,516",,Darwin - Perth
+DRW,PER,2019,6,"2,651","20,760",,Darwin - Perth
+DRW,PER,2019,7,"2,651","21,481",,Darwin - Perth
+DRW,PER,2019,8,"2,651","21,414",,Darwin - Perth
+DRW,PER,2019,9,"2,651","20,733",,Darwin - Perth
+DRW,PER,2019,10,"2,651","21,166",,Darwin - Perth
+DRW,PER,2019,11,"2,651","20,748",,Darwin - Perth
+DRW,PER,2019,12,"2,651","21,278",,Darwin - Perth
+DRW,PER,2020,1,"2,651","21,368",,Darwin - Perth
+DRW,PER,2020,2,"2,651","20,016",,Darwin - Perth
+DRW,PER,2020,3,"2,651","18,528",,Darwin - Perth
+DRW,PER,2020,4,"2,651","1,196",,Darwin - Perth
+DRW,PER,2020,5,"2,651",,,Darwin - Perth
+DRW,PER,2020,6,"2,651",,,Darwin - Perth
+DRW,PER,2020,7,"2,651",,,Darwin - Perth
+DRW,PER,2020,8,"2,651",,,Darwin - Perth
+DRW,PER,2020,9,"2,651",,,Darwin - Perth
+DRW,PER,2020,10,"2,651",,,Darwin - Perth
+DRW,PER,2020,11,"2,651",,,Darwin - Perth
+DRW,PER,2020,12,"2,651",,,Darwin - Perth
+DRW,PER,2021,1,"2,651","11,852",,Darwin - Perth
+DRW,PER,2021,2,"2,651",,,Darwin - Perth
+DRW,PER,2021,3,"2,651","17,248",,Darwin - Perth
+DRW,PER,2021,4,"2,651","17,160",,Darwin - Perth
+DRW,PER,2021,5,"2,651","18,662",,Darwin - Perth
+DRW,PER,2021,6,"2,651","21,130",,Darwin - Perth
+DRW,SYD,2019,1,"3,155","32,250",,Darwin - Sydney
+DRW,SYD,2019,2,"3,155","22,914",,Darwin - Sydney
+DRW,SYD,2019,3,"3,155","29,842",,Darwin - Sydney
+DRW,SYD,2019,4,"3,155","33,058",,Darwin - Sydney
+DRW,SYD,2019,5,"3,155","31,546",,Darwin - Sydney
+DRW,SYD,2019,6,"3,155","38,520",,Darwin - Sydney
+DRW,SYD,2019,7,"3,155","43,819",,Darwin - Sydney
+DRW,SYD,2019,8,"3,155","36,406",,Darwin - Sydney
+DRW,SYD,2019,9,"3,155","36,612",,Darwin - Sydney
+DRW,SYD,2019,10,"3,155","37,847",,Darwin - Sydney
+DRW,SYD,2019,11,"3,155","27,614",,Darwin - Sydney
+DRW,SYD,2019,12,"3,155","28,802",,Darwin - Sydney
+DRW,SYD,2020,1,"3,155","27,826",,Darwin - Sydney
+DRW,SYD,2020,2,"3,155","20,376",,Darwin - Sydney
+DRW,SYD,2020,3,"3,155","26,798",,Darwin - Sydney
+DRW,SYD,2020,4,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,5,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,6,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,7,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,8,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,9,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,10,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,11,"3,155",,,Darwin - Sydney
+DRW,SYD,2020,12,"3,155",,,Darwin - Sydney
+DRW,SYD,2021,1,"3,155",,,Darwin - Sydney
+DRW,SYD,2021,2,"3,155",,,Darwin - Sydney
+DRW,SYD,2021,3,"3,155",,,Darwin - Sydney
+DRW,SYD,2021,4,"3,155",,,Darwin - Sydney
+DRW,SYD,2021,5,"3,155",,,Darwin - Sydney
+DRW,SYD,2021,6,"3,155",,,Darwin - Sydney
+GET,PER,2019,1,370,"16,400",,Geraldton - Perth
+GET,PER,2019,2,370,"13,600",,Geraldton - Perth
+GET,PER,2019,3,370,"15,000",,Geraldton - Perth
+GET,PER,2019,4,370,"14,800",,Geraldton - Perth
+GET,PER,2019,5,370,"15,800",,Geraldton - Perth
+GET,PER,2019,6,370,"15,000",,Geraldton - Perth
+GET,PER,2019,7,370,"14,200",,Geraldton - Perth
+GET,PER,2019,8,370,,,Geraldton - Perth
+GET,PER,2019,9,370,,,Geraldton - Perth
+GET,PER,2019,10,370,,,Geraldton - Perth
+GET,PER,2019,11,370,,,Geraldton - Perth
+GET,PER,2019,12,370,,,Geraldton - Perth
+GET,PER,2020,1,370,,,Geraldton - Perth
+GET,PER,2020,2,370,,,Geraldton - Perth
+GET,PER,2020,3,370,,,Geraldton - Perth
+GET,PER,2020,4,370,,,Geraldton - Perth
+GET,PER,2020,5,370,,,Geraldton - Perth
+GET,PER,2020,6,370,,,Geraldton - Perth
+GET,PER,2020,7,370,,,Geraldton - Perth
+GET,PER,2020,8,370,,,Geraldton - Perth
+GET,PER,2020,9,370,,,Geraldton - Perth
+GET,PER,2020,10,370,,,Geraldton - Perth
+GET,PER,2020,11,370,,,Geraldton - Perth
+GET,PER,2020,12,370,,,Geraldton - Perth
+GET,PER,2021,1,370,,,Geraldton - Perth
+GET,PER,2021,2,370,,,Geraldton - Perth
+GET,PER,2021,3,370,,,Geraldton - Perth
+GET,PER,2021,4,370,,,Geraldton - Perth
+GET,PER,2021,5,370,,,Geraldton - Perth
+GET,PER,2021,6,370,,,Geraldton - Perth
+HBA,MEL,2019,1,618,"207,296",,Hobart - Melbourne
+HBA,MEL,2019,2,618,"172,134",,Hobart - Melbourne
+HBA,MEL,2019,3,618,"190,438",,Hobart - Melbourne
+HBA,MEL,2019,4,618,"171,098",,Hobart - Melbourne
+HBA,MEL,2019,5,618,"155,625",,Hobart - Melbourne
+HBA,MEL,2019,6,618,"157,343",,Hobart - Melbourne
+HBA,MEL,2019,7,618,"168,857",,Hobart - Melbourne
+HBA,MEL,2019,8,618,"156,037",,Hobart - Melbourne
+HBA,MEL,2019,9,618,"159,610",,Hobart - Melbourne
+HBA,MEL,2019,10,618,"171,306",,Hobart - Melbourne
+HBA,MEL,2019,11,618,"173,746",,Hobart - Melbourne
+HBA,MEL,2019,12,618,"201,119",,Hobart - Melbourne
+HBA,MEL,2020,1,618,"199,133",,Hobart - Melbourne
+HBA,MEL,2020,2,618,"174,480",,Hobart - Melbourne
+HBA,MEL,2020,3,618,"138,577",,Hobart - Melbourne
+HBA,MEL,2020,4,618,,,Hobart - Melbourne
+HBA,MEL,2020,5,618,,,Hobart - Melbourne
+HBA,MEL,2020,6,618,,,Hobart - Melbourne
+HBA,MEL,2020,7,618,,,Hobart - Melbourne
+HBA,MEL,2020,8,618,,,Hobart - Melbourne
+HBA,MEL,2020,9,618,,,Hobart - Melbourne
+HBA,MEL,2020,10,618,,,Hobart - Melbourne
+HBA,MEL,2020,11,618,,,Hobart - Melbourne
+HBA,MEL,2020,12,618,"84,457",,Hobart - Melbourne
+HBA,MEL,2021,1,618,"111,654",,Hobart - Melbourne
+HBA,MEL,2021,2,618,"61,032",,Hobart - Melbourne
+HBA,MEL,2021,3,618,"93,956",,Hobart - Melbourne
+HBA,MEL,2021,4,618,"122,830",,Hobart - Melbourne
+HBA,MEL,2021,5,618,"101,446",,Hobart - Melbourne
+HBA,MEL,2021,6,618,"48,164",,Hobart - Melbourne
+HBA,SYD,2019,1,"1,039","90,427",,Hobart - Sydney
+HBA,SYD,2019,2,"1,039","71,591",,Hobart - Sydney
+HBA,SYD,2019,3,"1,039","75,493",,Hobart - Sydney
+HBA,SYD,2019,4,"1,039","73,450",,Hobart - Sydney
+HBA,SYD,2019,5,"1,039","62,304",,Hobart - Sydney
+HBA,SYD,2019,6,"1,039","65,517",,Hobart - Sydney
+HBA,SYD,2019,7,"1,039","71,638",,Hobart - Sydney
+HBA,SYD,2019,8,"1,039","60,202",,Hobart - Sydney
+HBA,SYD,2019,9,"1,039","67,917",,Hobart - Sydney
+HBA,SYD,2019,10,"1,039","75,840",,Hobart - Sydney
+HBA,SYD,2019,11,"1,039","80,372",,Hobart - Sydney
+HBA,SYD,2019,12,"1,039","93,307",,Hobart - Sydney
+HBA,SYD,2020,1,"1,039","87,473",,Hobart - Sydney
+HBA,SYD,2020,2,"1,039","76,967",,Hobart - Sydney
+HBA,SYD,2020,3,"1,039","58,464",,Hobart - Sydney
+HBA,SYD,2020,4,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,5,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,6,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,7,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,8,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,9,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,10,"1,039",,,Hobart - Sydney
+HBA,SYD,2020,11,"1,039","32,730",,Hobart - Sydney
+HBA,SYD,2020,12,"1,039","59,530",,Hobart - Sydney
+HBA,SYD,2021,1,"1,039",,,Hobart - Sydney
+HBA,SYD,2021,2,"1,039","36,548",,Hobart - Sydney
+HBA,SYD,2021,3,"1,039","68,829",,Hobart - Sydney
+HBA,SYD,2021,4,"1,039","78,120",,Hobart - Sydney
+HBA,SYD,2021,5,"1,039","63,148",,Hobart - Sydney
+HBA,SYD,2021,6,"1,039","62,043",,Hobart - Sydney
+HTI,MEL,2019,1,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,2,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,3,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,4,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,5,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,6,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,7,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,8,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,9,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,10,,,,Hamilton Island - Melbourne
+HTI,MEL,2019,11,"1,965","11,866",,Hamilton Island - Melbourne
+HTI,MEL,2019,12,"1,965","12,148",,Hamilton Island - Melbourne
+HTI,MEL,2020,1,"1,965","13,112",,Hamilton Island - Melbourne
+HTI,MEL,2020,2,"1,965","8,645",,Hamilton Island - Melbourne
+HTI,MEL,2020,3,"1,965","6,570",,Hamilton Island - Melbourne
+HTI,MEL,2020,4,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,5,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,6,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,7,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,8,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,9,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,10,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,11,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2020,12,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2021,1,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2021,2,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2021,3,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2021,4,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2021,5,"1,965",,,Hamilton Island - Melbourne
+HTI,MEL,2021,6,"1,965",,,Hamilton Island - Melbourne
+HTI,SYD,2019,1,"1,526","30,187",,Hamilton Island - Sydney
+HTI,SYD,2019,2,"1,526","19,135",,Hamilton Island - Sydney
+HTI,SYD,2019,3,"1,526","21,628",,Hamilton Island - Sydney
+HTI,SYD,2019,4,"1,526","24,637",,Hamilton Island - Sydney
+HTI,SYD,2019,5,"1,526","18,568",,Hamilton Island - Sydney
+HTI,SYD,2019,6,"1,526","19,070",,Hamilton Island - Sydney
+HTI,SYD,2019,7,"1,526","26,024",,Hamilton Island - Sydney
+HTI,SYD,2019,8,"1,526","22,577",,Hamilton Island - Sydney
+HTI,SYD,2019,9,"1,526","26,662",,Hamilton Island - Sydney
+HTI,SYD,2019,10,"1,526","28,397",,Hamilton Island - Sydney
+HTI,SYD,2019,11,"1,526","24,872",,Hamilton Island - Sydney
+HTI,SYD,2019,12,"1,526","28,442",,Hamilton Island - Sydney
+HTI,SYD,2020,1,"1,526","30,228",,Hamilton Island - Sydney
+HTI,SYD,2020,2,"1,526","20,984",,Hamilton Island - Sydney
+HTI,SYD,2020,3,"1,526","19,100",,Hamilton Island - Sydney
+HTI,SYD,2020,4,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,5,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,6,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,7,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,8,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,9,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,10,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,11,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2020,12,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2021,1,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2021,2,"1,526",,,Hamilton Island - Sydney
+HTI,SYD,2021,3,"1,526","24,674",,Hamilton Island - Sydney
+HTI,SYD,2021,4,"1,526","32,442",,Hamilton Island - Sydney
+HTI,SYD,2021,5,"1,526","27,568",,Hamilton Island - Sydney
+HTI,SYD,2021,6,"1,526","28,078",,Hamilton Island - Sydney
+KGI,PER,2019,1,538,"38,290",,Kalgoorlie - Perth
+KGI,PER,2019,2,538,"39,294",,Kalgoorlie - Perth
+KGI,PER,2019,3,538,"43,262",,Kalgoorlie - Perth
+KGI,PER,2019,4,538,"42,654",,Kalgoorlie - Perth
+KGI,PER,2019,5,538,"46,476",,Kalgoorlie - Perth
+KGI,PER,2019,6,538,"42,861",,Kalgoorlie - Perth
+KGI,PER,2019,7,538,"41,988",,Kalgoorlie - Perth
+KGI,PER,2019,8,538,"44,777",,Kalgoorlie - Perth
+KGI,PER,2019,9,538,"41,511",,Kalgoorlie - Perth
+KGI,PER,2019,10,538,"42,529",,Kalgoorlie - Perth
+KGI,PER,2019,11,538,"34,002",,Kalgoorlie - Perth
+KGI,PER,2019,12,538,"33,031",,Kalgoorlie - Perth
+KGI,PER,2020,1,538,"37,003",,Kalgoorlie - Perth
+KGI,PER,2020,2,538,"36,442",,Kalgoorlie - Perth
+KGI,PER,2020,3,538,"36,596",,Kalgoorlie - Perth
+KGI,PER,2020,4,538,"10,070",,Kalgoorlie - Perth
+KGI,PER,2020,5,538,"3,850",,Kalgoorlie - Perth
+KGI,PER,2020,6,538,"7,158",,Kalgoorlie - Perth
+KGI,PER,2020,7,538,"14,320",,Kalgoorlie - Perth
+KGI,PER,2020,8,538,"21,004",,Kalgoorlie - Perth
+KGI,PER,2020,9,538,"27,522",,Kalgoorlie - Perth
+KGI,PER,2020,10,538,"34,464",,Kalgoorlie - Perth
+KGI,PER,2020,11,538,"33,862",,Kalgoorlie - Perth
+KGI,PER,2020,12,538,"33,302",,Kalgoorlie - Perth
+KGI,PER,2021,1,538,"31,532",,Kalgoorlie - Perth
+KGI,PER,2021,2,538,"29,536",,Kalgoorlie - Perth
+KGI,PER,2021,3,538,"35,968",,Kalgoorlie - Perth
+KGI,PER,2021,4,538,"32,472",,Kalgoorlie - Perth
+KGI,PER,2021,5,538,"34,480",,Kalgoorlie - Perth
+KGI,PER,2021,6,538,"35,608",,Kalgoorlie - Perth
+KTA,PER,2019,1,"1,250","59,686",,Karratha - Perth
+KTA,PER,2019,2,"1,250","53,667",,Karratha - Perth
+KTA,PER,2019,3,"1,250","55,473",,Karratha - Perth
+KTA,PER,2019,4,"1,250","60,062",,Karratha - Perth
+KTA,PER,2019,5,"1,250","65,454",,Karratha - Perth
+KTA,PER,2019,6,"1,250","57,627",,Karratha - Perth
+KTA,PER,2019,7,"1,250","61,950",,Karratha - Perth
+KTA,PER,2019,8,"1,250","61,517",,Karratha - Perth
+KTA,PER,2019,9,"1,250","59,222",,Karratha - Perth
+KTA,PER,2019,10,"1,250","64,756",,Karratha - Perth
+KTA,PER,2019,11,"1,250","66,408",,Karratha - Perth
+KTA,PER,2019,12,"1,250","63,016",,Karratha - Perth
+KTA,PER,2020,1,"1,250","66,942",,Karratha - Perth
+KTA,PER,2020,2,"1,250","61,976",,Karratha - Perth
+KTA,PER,2020,3,"1,250","58,231",,Karratha - Perth
+KTA,PER,2020,4,"1,250","12,447",,Karratha - Perth
+KTA,PER,2020,5,"1,250","5,404",,Karratha - Perth
+KTA,PER,2020,6,"1,250","10,318",,Karratha - Perth
+KTA,PER,2020,7,"1,250","22,528",,Karratha - Perth
+KTA,PER,2020,8,"1,250","32,494",,Karratha - Perth
+KTA,PER,2020,9,"1,250","55,038",,Karratha - Perth
+KTA,PER,2020,10,"1,250","60,076",,Karratha - Perth
+KTA,PER,2020,11,"1,250","61,500",,Karratha - Perth
+KTA,PER,2020,12,"1,250","61,678",,Karratha - Perth
+KTA,PER,2021,1,"1,250","57,800",,Karratha - Perth
+KTA,PER,2021,2,"1,250","54,071",,Karratha - Perth
+KTA,PER,2021,3,"1,250","64,176",,Karratha - Perth
+KTA,PER,2021,4,"1,250","59,852",,Karratha - Perth
+KTA,PER,2021,5,"1,250","60,720",,Karratha - Perth
+KTA,PER,2021,6,"1,250","60,722",,Karratha - Perth
+LST,MEL,2019,1,476,"129,787",,Launceston - Melbourne
+LST,MEL,2019,2,476,"97,607",,Launceston - Melbourne
+LST,MEL,2019,3,476,"110,874",,Launceston - Melbourne
+LST,MEL,2019,4,476,"110,394",,Launceston - Melbourne
+LST,MEL,2019,5,476,"87,500",,Launceston - Melbourne
+LST,MEL,2019,6,476,"88,192",,Launceston - Melbourne
+LST,MEL,2019,7,476,"97,174",,Launceston - Melbourne
+LST,MEL,2019,8,476,"80,740",,Launceston - Melbourne
+LST,MEL,2019,9,476,"87,294",,Launceston - Melbourne
+LST,MEL,2019,10,476,"98,372",,Launceston - Melbourne
+LST,MEL,2019,11,476,"99,307",,Launceston - Melbourne
+LST,MEL,2019,12,476,"119,364",,Launceston - Melbourne
+LST,MEL,2020,1,476,"119,580",,Launceston - Melbourne
+LST,MEL,2020,2,476,"100,658",,Launceston - Melbourne
+LST,MEL,2020,3,476,"76,030",,Launceston - Melbourne
+LST,MEL,2020,4,476,,,Launceston - Melbourne
+LST,MEL,2020,5,476,,,Launceston - Melbourne
+LST,MEL,2020,6,476,,,Launceston - Melbourne
+LST,MEL,2020,7,476,,,Launceston - Melbourne
+LST,MEL,2020,8,476,,,Launceston - Melbourne
+LST,MEL,2020,9,476,,,Launceston - Melbourne
+LST,MEL,2020,10,476,,,Launceston - Melbourne
+LST,MEL,2020,11,476,,,Launceston - Melbourne
+LST,MEL,2020,12,476,"55,558",,Launceston - Melbourne
+LST,MEL,2021,1,476,"79,208",,Launceston - Melbourne
+LST,MEL,2021,2,476,"41,064",,Launceston - Melbourne
+LST,MEL,2021,3,476,"66,176",,Launceston - Melbourne
+LST,MEL,2021,4,476,"96,665",,Launceston - Melbourne
+LST,MEL,2021,5,476,"74,465",,Launceston - Melbourne
+LST,MEL,2021,6,476,"31,751",,Launceston - Melbourne
+LST,SYD,2019,1,914,"44,434",,Launceston - Sydney
+LST,SYD,2019,2,914,"28,912",,Launceston - Sydney
+LST,SYD,2019,3,914,"31,754",,Launceston - Sydney
+LST,SYD,2019,4,914,"32,090",,Launceston - Sydney
+LST,SYD,2019,5,914,"20,675",,Launceston - Sydney
+LST,SYD,2019,6,914,"20,414",,Launceston - Sydney
+LST,SYD,2019,7,914,"27,787",,Launceston - Sydney
+LST,SYD,2019,8,914,"20,326",,Launceston - Sydney
+LST,SYD,2019,9,914,"23,930",,Launceston - Sydney
+LST,SYD,2019,10,914,"26,968",,Launceston - Sydney
+LST,SYD,2019,11,914,"27,770",,Launceston - Sydney
+LST,SYD,2019,12,914,"39,126",,Launceston - Sydney
+LST,SYD,2020,1,914,"33,809",,Launceston - Sydney
+LST,SYD,2020,2,914,"29,080",,Launceston - Sydney
+LST,SYD,2020,3,914,"22,708",,Launceston - Sydney
+LST,SYD,2020,4,914,,,Launceston - Sydney
+LST,SYD,2020,5,914,,,Launceston - Sydney
+LST,SYD,2020,6,914,,,Launceston - Sydney
+LST,SYD,2020,7,914,,,Launceston - Sydney
+LST,SYD,2020,8,914,,,Launceston - Sydney
+LST,SYD,2020,9,914,,,Launceston - Sydney
+LST,SYD,2020,10,914,,,Launceston - Sydney
+LST,SYD,2020,11,914,"15,664",,Launceston - Sydney
+LST,SYD,2020,12,914,"31,808",,Launceston - Sydney
+LST,SYD,2021,1,914,,,Launceston - Sydney
+LST,SYD,2021,2,914,"24,212",,Launceston - Sydney
+LST,SYD,2021,3,914,"34,296",,Launceston - Sydney
+LST,SYD,2021,4,914,"34,238",,Launceston - Sydney
+LST,SYD,2021,5,914,"22,116",,Launceston - Sydney
+LST,SYD,2021,6,914,"21,428",,Launceston - Sydney
+MCY,MEL,2019,1,"1,454","58,132",,Melbourne - Sunshine Coast
+MCY,MEL,2019,2,"1,454","40,395",,Melbourne - Sunshine Coast
+MCY,MEL,2019,3,"1,454","47,958",,Melbourne - Sunshine Coast
+MCY,MEL,2019,4,"1,454","60,360",,Melbourne - Sunshine Coast
+MCY,MEL,2019,5,"1,454","44,159",,Melbourne - Sunshine Coast
+MCY,MEL,2019,6,"1,454","44,832",,Melbourne - Sunshine Coast
+MCY,MEL,2019,7,"1,454","58,464",,Melbourne - Sunshine Coast
+MCY,MEL,2019,8,"1,454","54,060",,Melbourne - Sunshine Coast
+MCY,MEL,2019,9,"1,454","58,842",,Melbourne - Sunshine Coast
+MCY,MEL,2019,10,"1,454","58,356",,Melbourne - Sunshine Coast
+MCY,MEL,2019,11,"1,454","53,662",,Melbourne - Sunshine Coast
+MCY,MEL,2019,12,"1,454","59,852",,Melbourne - Sunshine Coast
+MCY,MEL,2020,1,"1,454","50,026",,Melbourne - Sunshine Coast
+MCY,MEL,2020,2,"1,454","42,168",,Melbourne - Sunshine Coast
+MCY,MEL,2020,3,"1,454","37,840",,Melbourne - Sunshine Coast
+MCY,MEL,2020,4,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,5,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,6,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,7,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,8,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,9,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,10,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,11,"1,454",,,Melbourne - Sunshine Coast
+MCY,MEL,2020,12,"1,454","30,082",,Melbourne - Sunshine Coast
+MCY,MEL,2021,1,"1,454","59,132",,Melbourne - Sunshine Coast
+MCY,MEL,2021,2,"1,454","30,600",,Melbourne - Sunshine Coast
+MCY,MEL,2021,3,"1,454","51,535",,Melbourne - Sunshine Coast
+MCY,MEL,2021,4,"1,454","70,839",,Melbourne - Sunshine Coast
+MCY,MEL,2021,5,"1,454","53,574",,Melbourne - Sunshine Coast
+MCY,MEL,2021,6,"1,454","33,460",,Melbourne - Sunshine Coast
+MCY,SYD,2019,1,837,"74,760",,Sunshine Coast - Sydney
+MCY,SYD,2019,2,837,"53,871",,Sunshine Coast - Sydney
+MCY,SYD,2019,3,837,"61,706",,Sunshine Coast - Sydney
+MCY,SYD,2019,4,837,"77,811",,Sunshine Coast - Sydney
+MCY,SYD,2019,5,837,"63,921",,Sunshine Coast - Sydney
+MCY,SYD,2019,6,837,"62,512",,Sunshine Coast - Sydney
+MCY,SYD,2019,7,837,"69,966",,Sunshine Coast - Sydney
+MCY,SYD,2019,8,837,"60,353",,Sunshine Coast - Sydney
+MCY,SYD,2019,9,837,"68,129",,Sunshine Coast - Sydney
+MCY,SYD,2019,10,837,"72,219",,Sunshine Coast - Sydney
+MCY,SYD,2019,11,837,"67,716",,Sunshine Coast - Sydney
+MCY,SYD,2019,12,837,"70,058",,Sunshine Coast - Sydney
+MCY,SYD,2020,1,837,"57,858",,Sunshine Coast - Sydney
+MCY,SYD,2020,2,837,"51,610",,Sunshine Coast - Sydney
+MCY,SYD,2020,3,837,"45,896",,Sunshine Coast - Sydney
+MCY,SYD,2020,4,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,5,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,6,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,7,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,8,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,9,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,10,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,11,837,,,Sunshine Coast - Sydney
+MCY,SYD,2020,12,837,"28,460",,Sunshine Coast - Sydney
+MCY,SYD,2021,1,837,,,Sunshine Coast - Sydney
+MCY,SYD,2021,2,837,"26,026",,Sunshine Coast - Sydney
+MCY,SYD,2021,3,837,"50,798",,Sunshine Coast - Sydney
+MCY,SYD,2021,4,837,"70,605",,Sunshine Coast - Sydney
+MCY,SYD,2021,5,837,"65,070",,Sunshine Coast - Sydney
+MCY,SYD,2021,6,837,"60,000",,Sunshine Coast - Sydney
+MEL,MQL,2019,1,457,"26,176",,Melbourne - Mildura
+MEL,MQL,2019,2,457,"27,217",,Melbourne - Mildura
+MEL,MQL,2019,3,457,"30,052",,Melbourne - Mildura
+MEL,MQL,2019,4,457,"28,708",,Melbourne - Mildura
+MEL,MQL,2019,5,457,"30,626",,Melbourne - Mildura
+MEL,MQL,2019,6,457,"28,734",,Melbourne - Mildura
+MEL,MQL,2019,7,457,"30,579",,Melbourne - Mildura
+MEL,MQL,2019,8,457,"30,832",,Melbourne - Mildura
+MEL,MQL,2019,9,457,"29,387",,Melbourne - Mildura
+MEL,MQL,2019,10,457,"30,755",,Melbourne - Mildura
+MEL,MQL,2019,11,457,"28,716",,Melbourne - Mildura
+MEL,MQL,2019,12,457,"28,242",,Melbourne - Mildura
+MEL,MQL,2020,1,457,"25,064",,Melbourne - Mildura
+MEL,MQL,2020,2,457,"27,489",,Melbourne - Mildura
+MEL,MQL,2020,3,457,"24,962",,Melbourne - Mildura
+MEL,MQL,2020,4,457,"2,390",,Melbourne - Mildura
+MEL,MQL,2020,5,457,"1,794",,Melbourne - Mildura
+MEL,MQL,2020,6,457,"2,815",,Melbourne - Mildura
+MEL,MQL,2020,7,457,,,Melbourne - Mildura
+MEL,MQL,2020,8,457,,,Melbourne - Mildura
+MEL,MQL,2020,9,457,,,Melbourne - Mildura
+MEL,MQL,2020,10,457,,,Melbourne - Mildura
+MEL,MQL,2020,11,457,,,Melbourne - Mildura
+MEL,MQL,2020,12,457,,,Melbourne - Mildura
+MEL,MQL,2021,1,457,,,Melbourne - Mildura
+MEL,MQL,2021,2,457,,,Melbourne - Mildura
+MEL,MQL,2021,3,457,,,Melbourne - Mildura
+MEL,MQL,2021,4,457,"16,202",,Melbourne - Mildura
+MEL,MQL,2021,5,457,"16,276",,Melbourne - Mildura
+MEL,MQL,2021,6,457,,,Melbourne - Mildura
+MEL,NTL,2019,1,836,"55,063",,Melbourne - Newcastle
+MEL,NTL,2019,2,836,"40,537",,Melbourne - Newcastle
+MEL,NTL,2019,3,836,"46,886",,Melbourne - Newcastle
+MEL,NTL,2019,4,836,"53,381",,Melbourne - Newcastle
+MEL,NTL,2019,5,836,"47,051",,Melbourne - Newcastle
+MEL,NTL,2019,6,836,"49,094",,Melbourne - Newcastle
+MEL,NTL,2019,7,836,"51,025",,Melbourne - Newcastle
+MEL,NTL,2019,8,836,"41,692",,Melbourne - Newcastle
+MEL,NTL,2019,9,836,"46,952",,Melbourne - Newcastle
+MEL,NTL,2019,10,836,"51,296",,Melbourne - Newcastle
+MEL,NTL,2019,11,836,"46,056",,Melbourne - Newcastle
+MEL,NTL,2019,12,836,"47,642",,Melbourne - Newcastle
+MEL,NTL,2020,1,836,"46,874",,Melbourne - Newcastle
+MEL,NTL,2020,2,836,"41,487",,Melbourne - Newcastle
+MEL,NTL,2020,3,836,"33,384",,Melbourne - Newcastle
+MEL,NTL,2020,4,836,,,Melbourne - Newcastle
+MEL,NTL,2020,5,836,,,Melbourne - Newcastle
+MEL,NTL,2020,6,836,,,Melbourne - Newcastle
+MEL,NTL,2020,7,836,,,Melbourne - Newcastle
+MEL,NTL,2020,8,836,,,Melbourne - Newcastle
+MEL,NTL,2020,9,836,,,Melbourne - Newcastle
+MEL,NTL,2020,10,836,,,Melbourne - Newcastle
+MEL,NTL,2020,11,836,,,Melbourne - Newcastle
+MEL,NTL,2020,12,836,"37,888",,Melbourne - Newcastle
+MEL,NTL,2021,1,836,,,Melbourne - Newcastle
+MEL,NTL,2021,2,836,"17,940",,Melbourne - Newcastle
+MEL,NTL,2021,3,836,"36,460",,Melbourne - Newcastle
+MEL,NTL,2021,4,836,"49,651",,Melbourne - Newcastle
+MEL,NTL,2021,5,836,"41,666",,Melbourne - Newcastle
+MEL,NTL,2021,6,836,,,Melbourne - Newcastle
+MEL,OOL,2019,1,"1,330","232,755",,Gold Coast - Melbourne
+MEL,OOL,2019,2,"1,330","160,715",,Gold Coast - Melbourne
+MEL,OOL,2019,3,"1,330","177,718",,Gold Coast - Melbourne
+MEL,OOL,2019,4,"1,330","212,294",,Gold Coast - Melbourne
+MEL,OOL,2019,5,"1,330","180,605",,Gold Coast - Melbourne
+MEL,OOL,2019,6,"1,330","182,054",,Gold Coast - Melbourne
+MEL,OOL,2019,7,"1,330","212,975",,Gold Coast - Melbourne
+MEL,OOL,2019,8,"1,330","194,704",,Gold Coast - Melbourne
+MEL,OOL,2019,9,"1,330","200,714",,Gold Coast - Melbourne
+MEL,OOL,2019,10,"1,330","214,805",,Gold Coast - Melbourne
+MEL,OOL,2019,11,"1,330","189,416",,Gold Coast - Melbourne
+MEL,OOL,2019,12,"1,330","225,277",,Gold Coast - Melbourne
+MEL,OOL,2020,1,"1,330","211,986",,Gold Coast - Melbourne
+MEL,OOL,2020,2,"1,330","163,571",,Gold Coast - Melbourne
+MEL,OOL,2020,3,"1,330","141,244",,Gold Coast - Melbourne
+MEL,OOL,2020,4,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,5,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,6,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,7,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,8,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,9,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,10,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,11,"1,330",,,Gold Coast - Melbourne
+MEL,OOL,2020,12,"1,330","96,135",,Gold Coast - Melbourne
+MEL,OOL,2021,1,"1,330","165,414",,Gold Coast - Melbourne
+MEL,OOL,2021,2,"1,330","78,006",,Gold Coast - Melbourne
+MEL,OOL,2021,3,"1,330","131,586",,Gold Coast - Melbourne
+MEL,OOL,2021,4,"1,330","211,294",,Gold Coast - Melbourne
+MEL,OOL,2021,5,"1,330","199,824",,Gold Coast - Melbourne
+MEL,OOL,2021,6,"1,330","97,336",,Gold Coast - Melbourne
+MEL,PER,2019,1,"2,706","222,054",,Melbourne - Perth
+MEL,PER,2019,2,"2,706","190,306",,Melbourne - Perth
+MEL,PER,2019,3,"2,706","211,214",,Melbourne - Perth
+MEL,PER,2019,4,"2,706","208,571",,Melbourne - Perth
+MEL,PER,2019,5,"2,706","197,241",,Melbourne - Perth
+MEL,PER,2019,6,"2,706","189,831",,Melbourne - Perth
+MEL,PER,2019,7,"2,706","214,309",,Melbourne - Perth
+MEL,PER,2019,8,"2,706","193,858",,Melbourne - Perth
+MEL,PER,2019,9,"2,706","204,932",,Melbourne - Perth
+MEL,PER,2019,10,"2,706","209,922",,Melbourne - Perth
+MEL,PER,2019,11,"2,706","209,851",,Melbourne - Perth
+MEL,PER,2019,12,"2,706","218,593",,Melbourne - Perth
+MEL,PER,2020,1,"2,706","221,328",,Melbourne - Perth
+MEL,PER,2020,2,"2,706","187,680",,Melbourne - Perth
+MEL,PER,2020,3,"2,706","179,548",,Melbourne - Perth
+MEL,PER,2020,4,"2,706","25,246",,Melbourne - Perth
+MEL,PER,2020,5,"2,706","32,545",,Melbourne - Perth
+MEL,PER,2020,6,"2,706","29,262",,Melbourne - Perth
+MEL,PER,2020,7,"2,706","22,953",,Melbourne - Perth
+MEL,PER,2020,8,"2,706","16,150",,Melbourne - Perth
+MEL,PER,2020,9,"2,706","14,910",,Melbourne - Perth
+MEL,PER,2020,10,"2,706",,,Melbourne - Perth
+MEL,PER,2020,11,"2,706",,,Melbourne - Perth
+MEL,PER,2020,12,"2,706","55,408",,Melbourne - Perth
+MEL,PER,2021,1,"2,706","44,402",,Melbourne - Perth
+MEL,PER,2021,2,"2,706",,,Melbourne - Perth
+MEL,PER,2021,3,"2,706",,,Melbourne - Perth
+MEL,PER,2021,4,"2,706","107,856",,Melbourne - Perth
+MEL,PER,2021,5,"2,706","107,197",,Melbourne - Perth
+MEL,PER,2021,6,"2,706","33,050",,Melbourne - Perth
+MEL,QNA,2020,6,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,7,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,8,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,9,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,10,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,11,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,12,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,1,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,2,"1,274",,,Ballina - Melbourne
+MEL,QNA,2020,3,"1,274",,,Ballina - Melbourne
+MEL,QNA,2021,4,"1,274","18,508",,Ballina - Melbourne
+MEL,QNA,2021,5,"1,274",,,Ballina - Melbourne
+MEL,QNA,2021,6,"1,274",,,Ballina - Melbourne
+MEL,SYD,2019,1,706,"879,817",,Melbourne - Sydney
+MEL,SYD,2019,2,706,"864,591",,Melbourne - Sydney
+MEL,SYD,2019,3,706,"953,956",,Melbourne - Sydney
+MEL,SYD,2019,4,706,"880,797",,Melbourne - Sydney
+MEL,SYD,2019,5,706,"931,863",,Melbourne - Sydney
+MEL,SYD,2019,6,706,"858,963",,Melbourne - Sydney
+MEL,SYD,2019,7,706,"908,641",,Melbourne - Sydney
+MEL,SYD,2019,8,706,"899,293",,Melbourne - Sydney
+MEL,SYD,2019,9,706,"885,572",,Melbourne - Sydney
+MEL,SYD,2019,10,706,"957,031",,Melbourne - Sydney
+MEL,SYD,2019,11,706,"894,358",,Melbourne - Sydney
+MEL,SYD,2019,12,706,"860,602",,Melbourne - Sydney
+MEL,SYD,2020,1,706,"863,423",,Melbourne - Sydney
+MEL,SYD,2020,2,706,"827,819",,Melbourne - Sydney
+MEL,SYD,2020,3,706,"650,185",,Melbourne - Sydney
+MEL,SYD,2020,4,706,"44,585",,Melbourne - Sydney
+MEL,SYD,2020,5,706,"35,266",,Melbourne - Sydney
+MEL,SYD,2020,6,706,"93,352",,Melbourne - Sydney
+MEL,SYD,2020,7,706,"70,550",,Melbourne - Sydney
+MEL,SYD,2020,8,706,"28,487",,Melbourne - Sydney
+MEL,SYD,2020,9,706,"28,692",,Melbourne - Sydney
+MEL,SYD,2020,10,706,"27,672",,Melbourne - Sydney
+MEL,SYD,2020,11,706,"92,106",,Melbourne - Sydney
+MEL,SYD,2020,12,706,"310,014",,Melbourne - Sydney
+MEL,SYD,2021,1,706,"77,599",,Melbourne - Sydney
+MEL,SYD,2021,2,706,"220,937",,Melbourne - Sydney
+MEL,SYD,2021,3,706,"540,077",,Melbourne - Sydney
+MEL,SYD,2021,4,706,"652,850",,Melbourne - Sydney
+MEL,SYD,2021,5,706,"616,959",,Melbourne - Sydney
+MEL,SYD,2021,6,706,"179,126",,Melbourne - Sydney
+MEL,TSV,2019,1,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,2,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,3,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,4,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,5,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,6,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,7,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,8,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,9,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,10,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,11,"2,055",,,Melbourne - Townsville
+MEL,TSV,2019,12,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,1,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,2,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,3,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,4,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,5,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,6,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,7,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,8,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,9,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,10,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,11,"2,055",,,Melbourne - Townsville
+MEL,TSV,2020,12,"2,055",,,Melbourne - Townsville
+MEL,TSV,2021,1,"2,055",,,Melbourne - Townsville
+MEL,TSV,2021,2,"2,055",,,Melbourne - Townsville
+MEL,TSV,2021,3,"2,055",,,Melbourne - Townsville
+MEL,TSV,2021,4,"2,055",,,Melbourne - Townsville
+MEL,TSV,2021,5,"2,055",,,Melbourne - Townsville
+MEL,TSV,2021,6,"2,055",,,Melbourne - Townsville
+OOL,SYD,2019,1,680,"289,050",,Gold Coast - Sydney
+OOL,SYD,2019,2,680,"223,365",,Gold Coast - Sydney
+OOL,SYD,2019,3,680,"248,603",,Gold Coast - Sydney
+OOL,SYD,2019,4,680,"270,929",,Gold Coast - Sydney
+OOL,SYD,2019,5,680,"254,546",,Gold Coast - Sydney
+OOL,SYD,2019,6,680,"248,226",,Gold Coast - Sydney
+OOL,SYD,2019,7,680,"273,339",,Gold Coast - Sydney
+OOL,SYD,2019,8,680,"252,638",,Gold Coast - Sydney
+OOL,SYD,2019,9,680,"264,017",,Gold Coast - Sydney
+OOL,SYD,2019,10,680,"278,085",,Gold Coast - Sydney
+OOL,SYD,2019,11,680,"255,704",,Gold Coast - Sydney
+OOL,SYD,2019,12,680,"281,083",,Gold Coast - Sydney
+OOL,SYD,2020,1,680,"303,456",,Gold Coast - Sydney
+OOL,SYD,2020,2,680,"233,317",,Gold Coast - Sydney
+OOL,SYD,2020,3,680,"185,151",,Gold Coast - Sydney
+OOL,SYD,2020,4,680,"7,695",,Gold Coast - Sydney
+OOL,SYD,2020,5,680,,,Gold Coast - Sydney
+OOL,SYD,2020,6,680,"7,824",,Gold Coast - Sydney
+OOL,SYD,2020,7,680,"45,069",,Gold Coast - Sydney
+OOL,SYD,2020,8,680,"6,298",,Gold Coast - Sydney
+OOL,SYD,2020,9,680,,,Gold Coast - Sydney
+OOL,SYD,2020,10,680,,,Gold Coast - Sydney
+OOL,SYD,2020,11,680,,,Gold Coast - Sydney
+OOL,SYD,2020,12,680,"82,088",,Gold Coast - Sydney
+OOL,SYD,2021,1,680,,,Gold Coast - Sydney
+OOL,SYD,2021,2,680,"82,362",,Gold Coast - Sydney
+OOL,SYD,2021,3,680,"154,258",,Gold Coast - Sydney
+OOL,SYD,2021,4,680,"255,825",,Gold Coast - Sydney
+OOL,SYD,2021,5,680,"224,915",,Gold Coast - Sydney
+OOL,SYD,2021,6,680,"198,362",,Gold Coast - Sydney
+PER,PHE,2019,1,"1,312","48,296",,Perth - Port Hedland
+PER,PHE,2019,2,"1,312","44,338",,Perth - Port Hedland
+PER,PHE,2019,3,"1,312","44,615",,Perth - Port Hedland
+PER,PHE,2019,4,"1,312","51,604",,Perth - Port Hedland
+PER,PHE,2019,5,"1,312","55,276",,Perth - Port Hedland
+PER,PHE,2019,6,"1,312","49,430",,Perth - Port Hedland
+PER,PHE,2019,7,"1,312","54,715",,Perth - Port Hedland
+PER,PHE,2019,8,"1,312","49,624",,Perth - Port Hedland
+PER,PHE,2019,9,"1,312","50,247",,Perth - Port Hedland
+PER,PHE,2019,10,"1,312","54,119",,Perth - Port Hedland
+PER,PHE,2019,11,"1,312","49,445",,Perth - Port Hedland
+PER,PHE,2019,12,"1,312","49,458",,Perth - Port Hedland
+PER,PHE,2020,1,"1,312","49,809",,Perth - Port Hedland
+PER,PHE,2020,2,"1,312","47,831",,Perth - Port Hedland
+PER,PHE,2020,3,"1,312","52,607",,Perth - Port Hedland
+PER,PHE,2020,4,"1,312","15,795",,Perth - Port Hedland
+PER,PHE,2020,5,"1,312","5,779",,Perth - Port Hedland
+PER,PHE,2020,6,"1,312","9,862",,Perth - Port Hedland
+PER,PHE,2020,7,"1,312","20,322",,Perth - Port Hedland
+PER,PHE,2020,8,"1,312","23,426",,Perth - Port Hedland
+PER,PHE,2020,9,"1,312","28,310",,Perth - Port Hedland
+PER,PHE,2020,10,"1,312","36,342",,Perth - Port Hedland
+PER,PHE,2020,11,"1,312","43,632",,Perth - Port Hedland
+PER,PHE,2020,12,"1,312","47,767",,Perth - Port Hedland
+PER,PHE,2021,1,"1,312","47,990",,Perth - Port Hedland
+PER,PHE,2021,2,"1,312","41,467",,Perth - Port Hedland
+PER,PHE,2021,3,"1,312","51,321",,Perth - Port Hedland
+PER,PHE,2021,4,"1,312","49,016",,Perth - Port Hedland
+PER,PHE,2021,5,"1,312","50,630",,Perth - Port Hedland
+PER,PHE,2021,6,"1,312","50,874",,Perth - Port Hedland
+PER,SYD,2019,1,"3,284","175,179",,Perth - Sydney
+PER,SYD,2019,2,"3,284","151,062",,Perth - Sydney
+PER,SYD,2019,3,"3,284","169,321",,Perth - Sydney
+PER,SYD,2019,4,"3,284","165,638",,Perth - Sydney
+PER,SYD,2019,5,"3,284","163,918",,Perth - Sydney
+PER,SYD,2019,6,"3,284","157,079",,Perth - Sydney
+PER,SYD,2019,7,"3,284","174,720",,Perth - Sydney
+PER,SYD,2019,8,"3,284","160,691",,Perth - Sydney
+PER,SYD,2019,9,"3,284","163,192",,Perth - Sydney
+PER,SYD,2019,10,"3,284","175,877",,Perth - Sydney
+PER,SYD,2019,11,"3,284","163,225",,Perth - Sydney
+PER,SYD,2019,12,"3,284","175,779",,Perth - Sydney
+PER,SYD,2020,1,"3,284","167,138",,Perth - Sydney
+PER,SYD,2020,2,"3,284","154,132",,Perth - Sydney
+PER,SYD,2020,3,"3,284","146,442",,Perth - Sydney
+PER,SYD,2020,4,"3,284","18,001",,Perth - Sydney
+PER,SYD,2020,5,"3,284","17,184",,Perth - Sydney
+PER,SYD,2020,6,"3,284","22,814",,Perth - Sydney
+PER,SYD,2020,7,"3,284","24,673",,Perth - Sydney
+PER,SYD,2020,8,"3,284","18,194",,Perth - Sydney
+PER,SYD,2020,9,"3,284","17,741",,Perth - Sydney
+PER,SYD,2020,10,"3,284",,,Perth - Sydney
+PER,SYD,2020,11,"3,284",,,Perth - Sydney
+PER,SYD,2020,12,"3,284","40,633",,Perth - Sydney
+PER,SYD,2021,1,"3,284","19,192",,Perth - Sydney
+PER,SYD,2021,2,"3,284","26,935",,Perth - Sydney
+PER,SYD,2021,3,"3,284","94,781",,Perth - Sydney
+PER,SYD,2021,4,"3,284","101,239",,Perth - Sydney
+PER,SYD,2021,5,"3,284","120,377",,Perth - Sydney
+PER,SYD,2021,6,"3,284","96,837",,Perth - Sydney
+PER,ZNE,2019,1,"1,019","47,234",,Newman - Perth
+PER,ZNE,2019,2,"1,019","41,574",,Newman - Perth
+PER,ZNE,2019,3,"1,019","43,922",,Newman - Perth
+PER,ZNE,2019,4,"1,019","50,573",,Newman - Perth
+PER,ZNE,2019,5,"1,019","52,805",,Newman - Perth
+PER,ZNE,2019,6,"1,019","46,750",,Newman - Perth
+PER,ZNE,2019,7,"1,019","53,943",,Newman - Perth
+PER,ZNE,2019,8,"1,019","50,941",,Newman - Perth
+PER,ZNE,2019,9,"1,019","48,106",,Newman - Perth
+PER,ZNE,2019,10,"1,019","54,042",,Newman - Perth
+PER,ZNE,2019,11,"1,019","47,494",,Newman - Perth
+PER,ZNE,2019,12,"1,019","48,326",,Newman - Perth
+PER,ZNE,2020,1,"1,019","48,958",,Newman - Perth
+PER,ZNE,2020,2,"1,019","49,198",,Newman - Perth
+PER,ZNE,2020,3,"1,019","39,998",,Newman - Perth
+PER,ZNE,2020,4,"1,019","13,485",,Newman - Perth
+PER,ZNE,2020,5,"1,019","5,154",,Newman - Perth
+PER,ZNE,2020,6,"1,019","8,096",,Newman - Perth
+PER,ZNE,2020,7,"1,019","12,240",,Newman - Perth
+PER,ZNE,2020,8,"1,019","10,928",,Newman - Perth
+PER,ZNE,2020,9,"1,019","21,840",,Newman - Perth
+PER,ZNE,2020,10,"1,019","26,910",,Newman - Perth
+PER,ZNE,2020,11,"1,019","44,063",,Newman - Perth
+PER,ZNE,2020,12,"1,019","57,358",,Newman - Perth
+PER,ZNE,2021,1,"1,019","53,916",,Newman - Perth
+PER,ZNE,2021,2,"1,019","47,722",,Newman - Perth
+PER,ZNE,2021,3,"1,019","62,868",,Newman - Perth
+PER,ZNE,2021,4,"1,019","56,274",,Newman - Perth
+PER,ZNE,2021,5,"1,019","54,854",,Newman - Perth
+PER,ZNE,2021,6,"1,019","57,274",,Newman - Perth
+PPP,SYD,2019,1,"1,517","12,492",,Proserpine - Sydney
+PPP,SYD,2019,2,"1,517","9,420",,Proserpine - Sydney
+PPP,SYD,2019,3,"1,517","10,920",,Proserpine - Sydney
+PPP,SYD,2019,4,"1,517","11,616",,Proserpine - Sydney
+PPP,SYD,2019,5,"1,517","12,732",,Proserpine - Sydney
+PPP,SYD,2019,6,"1,517","11,802",,Proserpine - Sydney
+PPP,SYD,2019,7,"1,517","11,988",,Proserpine - Sydney
+PPP,SYD,2019,8,"1,517","11,256",,Proserpine - Sydney
+PPP,SYD,2019,9,"1,517","11,430",,Proserpine - Sydney
+PPP,SYD,2019,10,"1,517","12,744",,Proserpine - Sydney
+PPP,SYD,2019,11,"1,517","10,920",,Proserpine - Sydney
+PPP,SYD,2019,12,"1,517","11,118",,Proserpine - Sydney
+PPP,SYD,2020,1,"1,517","11,652",,Proserpine - Sydney
+PPP,SYD,2020,2,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,3,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,4,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,5,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,6,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,7,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,8,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,9,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,10,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,11,"1,517",,,Proserpine - Sydney
+PPP,SYD,2020,12,"1,517",,,Proserpine - Sydney
+PPP,SYD,2021,1,"1,517",,,Proserpine - Sydney
+PPP,SYD,2021,2,"1,517",,,Proserpine - Sydney
+PPP,SYD,2021,3,"1,517",,,Proserpine - Sydney
+PPP,SYD,2021,4,"1,517",,,Proserpine - Sydney
+PPP,SYD,2021,5,"1,517",,,Proserpine - Sydney
+PPP,SYD,2021,6,"1,517",,,Proserpine - Sydney
+PQQ,SYD,2019,1,321,"20,471",,Port Macquarie - Sydney
+PQQ,SYD,2019,2,321,"20,051",,Port Macquarie - Sydney
+PQQ,SYD,2019,3,321,"22,159",,Port Macquarie - Sydney
+PQQ,SYD,2019,4,321,"21,821",,Port Macquarie - Sydney
+PQQ,SYD,2019,5,321,"23,575",,Port Macquarie - Sydney
+PQQ,SYD,2019,6,321,"20,872",,Port Macquarie - Sydney
+PQQ,SYD,2019,7,321,"23,590",,Port Macquarie - Sydney
+PQQ,SYD,2019,8,321,"22,433",,Port Macquarie - Sydney
+PQQ,SYD,2019,9,321,"22,848",,Port Macquarie - Sydney
+PQQ,SYD,2019,10,321,"23,471",,Port Macquarie - Sydney
+PQQ,SYD,2019,11,321,"20,449",,Port Macquarie - Sydney
+PQQ,SYD,2019,12,321,"21,330",,Port Macquarie - Sydney
+PQQ,SYD,2020,1,321,"19,240",,Port Macquarie - Sydney
+PQQ,SYD,2020,2,321,"18,804",,Port Macquarie - Sydney
+PQQ,SYD,2020,3,321,"17,744",,Port Macquarie - Sydney
+PQQ,SYD,2020,4,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,5,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,6,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,7,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,8,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,9,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,10,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,11,321,,,Port Macquarie - Sydney
+PQQ,SYD,2020,12,321,,,Port Macquarie - Sydney
+PQQ,SYD,2021,1,321,,,Port Macquarie - Sydney
+PQQ,SYD,2021,2,321,,,Port Macquarie - Sydney
+PQQ,SYD,2021,3,321,,,Port Macquarie - Sydney
+PQQ,SYD,2021,4,321,,,Port Macquarie - Sydney
+PQQ,SYD,2021,5,321,"21,393",,Port Macquarie - Sydney
+PQQ,SYD,2021,6,321,"19,610",,Port Macquarie - Sydney
+QNA,SYD,2019,1,612,"53,450",,Ballina - Sydney
+QNA,SYD,2019,2,612,"35,551",,Ballina - Sydney
+QNA,SYD,2019,3,612,"41,260",,Ballina - Sydney
+QNA,SYD,2019,4,612,"48,314",,Ballina - Sydney
+QNA,SYD,2019,5,612,"38,260",,Ballina - Sydney
+QNA,SYD,2019,6,612,"37,446",,Ballina - Sydney
+QNA,SYD,2019,7,612,"46,414",,Ballina - Sydney
+QNA,SYD,2019,8,612,"40,716",,Ballina - Sydney
+QNA,SYD,2019,9,612,"42,546",,Ballina - Sydney
+QNA,SYD,2019,10,612,"44,560",,Ballina - Sydney
+QNA,SYD,2019,11,612,"39,262",,Ballina - Sydney
+QNA,SYD,2019,12,612,"48,296",,Ballina - Sydney
+QNA,SYD,2020,1,612,"55,366",,Ballina - Sydney
+QNA,SYD,2020,2,612,"38,922",,Ballina - Sydney
+QNA,SYD,2020,3,612,"33,310",,Ballina - Sydney
+QNA,SYD,2020,4,612,,,Ballina - Sydney
+QNA,SYD,2020,5,612,"3,814",,Ballina - Sydney
+QNA,SYD,2020,6,612,"6,503",,Ballina - Sydney
+QNA,SYD,2020,7,612,"34,705",,Ballina - Sydney
+QNA,SYD,2020,8,612,"35,314",,Ballina - Sydney
+QNA,SYD,2020,9,612,"41,472",,Ballina - Sydney
+QNA,SYD,2020,10,612,"56,187",,Ballina - Sydney
+QNA,SYD,2020,11,612,"60,219",,Ballina - Sydney
+QNA,SYD,2020,12,612,"77,934",,Ballina - Sydney
+QNA,SYD,2021,1,612,"74,668",,Ballina - Sydney
+QNA,SYD,2021,2,612,"54,246",,Ballina - Sydney
+QNA,SYD,2021,3,612,"63,151",,Ballina - Sydney
+QNA,SYD,2021,4,612,"71,806",,Ballina - Sydney
+QNA,SYD,2021,5,612,"63,284",,Ballina - Sydney
+QNA,SYD,2021,6,612,"54,172",,Ballina - Sydney
+SYD,TMW,2019,1,320,"22,719",,Sydney - Tamworth
+SYD,TMW,2019,2,320,"20,523",,Sydney - Tamworth
+SYD,TMW,2019,3,320,"23,062",,Sydney - Tamworth
+SYD,TMW,2019,4,320,"21,765",,Sydney - Tamworth
+SYD,TMW,2019,5,320,"23,462",,Sydney - Tamworth
+SYD,TMW,2019,6,320,"21,241",,Sydney - Tamworth
+SYD,TMW,2019,7,320,"23,655",,Sydney - Tamworth
+SYD,TMW,2019,8,320,"22,083",,Sydney - Tamworth
+SYD,TMW,2019,9,320,"21,464",,Sydney - Tamworth
+SYD,TMW,2019,10,320,"23,449",,Sydney - Tamworth
+SYD,TMW,2019,11,320,"23,273",,Sydney - Tamworth
+SYD,TMW,2019,12,320,"21,198",,Sydney - Tamworth
+SYD,TMW,2020,1,320,"21,608",,Sydney - Tamworth
+SYD,TMW,2020,2,320,"21,622",,Sydney - Tamworth
+SYD,TMW,2020,3,320,"18,910",,Sydney - Tamworth
+SYD,TMW,2020,4,320,,,Sydney - Tamworth
+SYD,TMW,2020,5,320,,,Sydney - Tamworth
+SYD,TMW,2020,6,320,,,Sydney - Tamworth
+SYD,TMW,2020,7,320,,,Sydney - Tamworth
+SYD,TMW,2020,8,320,,,Sydney - Tamworth
+SYD,TMW,2020,9,320,,,Sydney - Tamworth
+SYD,TMW,2020,10,320,,,Sydney - Tamworth
+SYD,TMW,2020,11,320,,,Sydney - Tamworth
+SYD,TMW,2020,12,320,,,Sydney - Tamworth
+SYD,TMW,2021,1,320,,,Sydney - Tamworth
+SYD,TMW,2021,2,320,,,Sydney - Tamworth
+SYD,TMW,2021,3,320,,,Sydney - Tamworth
+SYD,TMW,2021,4,320,,,Sydney - Tamworth
+SYD,TMW,2021,5,320,,,Sydney - Tamworth
+SYD,TMW,2021,6,320,,,Sydney - Tamworth
+SYD,TSV,2019,1,"1,690","19,328",,Sydney - Townsville
+SYD,TSV,2019,2,"1,690","12,838",,Sydney - Townsville
+SYD,TSV,2019,3,"1,690","14,388",,Sydney - Townsville
+SYD,TSV,2019,4,"1,690","18,592",,Sydney - Townsville
+SYD,TSV,2019,5,"1,690","17,016",,Sydney - Townsville
+SYD,TSV,2019,6,"1,690","14,652",,Sydney - Townsville
+SYD,TSV,2019,7,"1,690","22,020",,Sydney - Townsville
+SYD,TSV,2019,8,"1,690","20,080",,Sydney - Townsville
+SYD,TSV,2019,9,"1,690","19,680",,Sydney - Townsville
+SYD,TSV,2019,10,"1,690","19,290",,Sydney - Townsville
+SYD,TSV,2019,11,"1,690","17,056",,Sydney - Townsville
+SYD,TSV,2019,12,"1,690","19,712",,Sydney - Townsville
+SYD,TSV,2020,1,"1,690","17,998",,Sydney - Townsville
+SYD,TSV,2020,2,"1,690","10,938",,Sydney - Townsville
+SYD,TSV,2020,3,"1,690","9,956",,Sydney - Townsville
+SYD,TSV,2020,4,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,5,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,6,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,7,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,8,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,9,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,10,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,11,"1,690",,,Sydney - Townsville
+SYD,TSV,2020,12,"1,690",,,Sydney - Townsville
+SYD,TSV,2021,1,"1,690",,,Sydney - Townsville
+SYD,TSV,2021,2,"1,690",,,Sydney - Townsville
+SYD,TSV,2021,3,"1,690",,,Sydney - Townsville
+SYD,TSV,2021,4,"1,690",,,Sydney - Townsville
+SYD,TSV,2021,5,"1,690",,,Sydney - Townsville
+SYD,TSV,2021,6,"1,690",,,Sydney - Townsville
+SYD,WGA,2019,1,367,"16,364",,Sydney - Wagga Wagga
+SYD,WGA,2019,2,367,"20,117",,Sydney - Wagga Wagga
+SYD,WGA,2019,3,367,"23,644",,Sydney - Wagga Wagga
+SYD,WGA,2019,4,367,"21,637",,Sydney - Wagga Wagga
+SYD,WGA,2019,5,367,"24,273",,Sydney - Wagga Wagga
+SYD,WGA,2019,6,367,"22,375",,Sydney - Wagga Wagga
+SYD,WGA,2019,7,367,"24,934",,Sydney - Wagga Wagga
+SYD,WGA,2019,8,367,"24,092",,Sydney - Wagga Wagga
+SYD,WGA,2019,9,367,"24,520",,Sydney - Wagga Wagga
+SYD,WGA,2019,10,367,"25,014",,Sydney - Wagga Wagga
+SYD,WGA,2019,11,367,"23,364",,Sydney - Wagga Wagga
+SYD,WGA,2019,12,367,"20,061",,Sydney - Wagga Wagga
+SYD,WGA,2020,1,367,"15,881",,Sydney - Wagga Wagga
+SYD,WGA,2020,2,367,"21,148",,Sydney - Wagga Wagga
+SYD,WGA,2020,3,367,"18,871",,Sydney - Wagga Wagga
+SYD,WGA,2020,4,367,"2,285",,Sydney - Wagga Wagga
+SYD,WGA,2020,5,367,"1,972",,Sydney - Wagga Wagga
+SYD,WGA,2020,6,367,,,Sydney - Wagga Wagga
+SYD,WGA,2020,7,367,,,Sydney - Wagga Wagga
+SYD,WGA,2020,8,367,,,Sydney - Wagga Wagga
+SYD,WGA,2020,9,367,,,Sydney - Wagga Wagga
+SYD,WGA,2020,10,367,,,Sydney - Wagga Wagga
+SYD,WGA,2020,11,367,,,Sydney - Wagga Wagga
+SYD,WGA,2020,12,367,,,Sydney - Wagga Wagga
+SYD,WGA,2021,1,367,,,Sydney - Wagga Wagga
+SYD,WGA,2021,2,367,,,Sydney - Wagga Wagga
+SYD,WGA,2021,3,367,"15,852",,Sydney - Wagga Wagga
+SYD,WGA,2021,4,367,"19,054",,Sydney - Wagga Wagga
+SYD,WGA,2021,5,367,"20,078",,Sydney - Wagga Wagga
+SYD,WGA,2021,6,367,"18,133",,Sydney - Wagga Wagga
