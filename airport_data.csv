@@ -1,110 +1,118 @@
-name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,iata_code
-Albury Airport,-36.06779861,146.9579926,539,OC,Australia,AU-NSW,Albury,ABX
-Adelaide International Airport,-34.945,138.531006,20,OC,Australia,AU-SA,Adelaide,ADL
-Auckland International Airport,-37.0080986,174.7920074,23,OC,New Zealand,NZ-AUK,Auckland,AKL
-Faleolo International Airport,-13.82999992,-172.0079956,58,OC,Samoa,WS-AA,Apia,APW
-Armidale Airport,-30.52809906,151.6170044,3556,OC,Australia,AU-NSW,Armidale,ARM
-Alice Springs Airport,-23.80669975,133.9019928,1789,OC,Australia,AU-NT,Alice Springs,ASP
-Abu Dhabi International Airport,24.43300056,54.65110016,88,AS,United Arab Emirates,AE-AZ,Abu Dhabi,AUH
-Avalon Airport,-38.039398,144.468994,35,OC,Australia,AU-VIC,Melbourne,AVV
-Ayers Rock Connellan Airport,-25.1861,130.975998,1626,OC,Australia,AU-NT,Ayers Rock,AYQ
-Bundaberg Airport,-24.90390015,152.3190002,107,OC,Australia,AU-QLD,Bundaberg,BDB
-Kota Kinabalu International Airport,5.937210083,116.0510025,10,AS,Malaysia,MY-12,Kota Kinabalu,BKI
-Suvarnabhumi Airport,13.68109989,100.7470016,5,AS,Thailand,TH-10,Bangkok,BKK
-Broome International Airport,-17.94470024,122.2320023,56,OC,Australia,AU-WA,Broome,BME
-Brisbane International Airport,-27.38419914,153.1170044,13,OC,Australia,AU-QLD,Brisbane,BNE
-Hang Nadim International Airport,1.121029973,104.1190033,126,AS,Indonesia,ID-RI,Batam Island,BTH
-Brunei International Airport,4.944200039,114.9280014,73,AS,Brunei,BN-BM,Bandar Seri Begawan,BWN
-Guangzhou Baiyun International Airport,23.392401,113.299004,50,AS,China,CN-44,"Huadu, Guangzhou",CAN
-Canberra International Airport,-35.30690002,149.1950073,1886,OC,Australia,AU-ACT,Canberra,CBR
-Coffs Harbour Airport,-30.320601,153.115997,18,OC,Australia,AU-NSW,Coffs Harbour,CFS
-Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,495,AS,China,CN-41,Zhengzhou,CGO
-Christchurch International Airport,-43.48939896,172.5319977,123,OC,New Zealand,NZ-CAN,Christchurch,CHC
-Chongqing Jiangbei International Airport,29.71920013,106.6419983,1365,AS,China,CN-50,Chongqing,CKG
-Bandaranaike International Colombo Airport,7.180759907,79.88410187,30,AS,Sri Lanka,LK-1,Colombo,CMB
-Cairns International Airport,-16.88579941,145.7550049,10,OC,Australia,AU-QLD,Cairns,CNS
-Changsha Huanghua International Airport,28.18919945,113.2200012,217,AS,China,CN-43,Changsha,CSX
-Chengdu Shuangliu International Airport,30.57850075,103.9469986,1625,AS,China,CN-51,Chengdu,CTU
-Dubbo City Regional Airport,-32.21670151,148.5749969,935,OC,Australia,AU-NSW,Dubbo,DBO
-Indira Gandhi International Airport,28.5665,77.103104,777,AS,India,IN-DL,New Delhi,DEL
-Dallas Fort Worth International Airport,32.896801,-97.038002,607,NA,United States of America,US-TX,Dallas-Fort Worth,DFW
-Hamad International Airport,25.273056,51.608056,13,AS,Qatar,QA-DA,Doha,DOH
-Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,14,AS,Indonesia,ID-BA,Denpasar-Bali Island,DPS
-Darwin International Airport,-12.41469955,130.8769989,103,OC,Australia,AU-NT,Darwin,DRW
-Dunedin Airport,-45.92810059,170.197998,4,OC,New Zealand,NZ-OTA,Dunedin,DUD
-Dubai International Airport,25.25279999,55.36439896,62,AS,United Arab Emirates,AE-DU,Dubai,DXB
-Emerald Airport,-23.56749916,148.1790009,624,OC,Australia,AU-QLD,Emerald,EMD
-Fuzhou Changle International Airport,25.93510056,119.663002,46,AS,China,CN-35,Fuzhou,FOC
-Geraldton Airport,-28.796101,114.707001,121,OC,Australia,AU-WA,Geraldton,GET
-Gladstone Airport,-23.869699,151.223007,64,OC,Australia,AU-QLD,Gladstone,GLT
-Haikou Meilan International Airport,19.9349,110.459,75,AS,China,CN-46,Haikou (Meilan),HAK
-Noi Bai International Airport,21.221201,105.806999,39,AS,Vietnam,VN-64,"Soc Son, Hanoi",HAN
-Hobart International Airport,-42.83610153,147.5099945,13,OC,Australia,AU-TAS,Hobart,HBA
-Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,23,AS,China,CN-33,Hangzhou,HGH
-Honiara International Airport,-9.42800045,160.0549927,28,OC,Solomon Islands,SB-CT,Honiara,HIR
-Hong Kong International Airport,22.308901,113.915001,28,AS,Hong Kong,HK-U-A,"Kowloon City, Kowloon",HKG
-Phuket International Airport,8.1132,98.316902,82,AS,Thailand,TH-83,Phuket,HKT
-Daniel K Inouye International Airport,21.32062,-157.924228,13,NA,United States of America,US-HI,Honolulu,HNL
-Hamilton Island Airport,-20.35810089,148.9519959,15,OC,Australia,AU-QLD,Hamilton Island,HTI
-George Bush Intercontinental Houston Airport,29.9843998,-95.34140015,97,NA,United States of America,US-TX,Houston,IAH
-Nauru International Airport,-0.547458,166.919006,22,OC,Nauru,NR-14,Yaren District,INU
-Mount Isa Airport,-20.66390038,139.4889984,1121,OC,Australia,AU-QLD,Mount Isa,ISA
-OR Tambo International Airport,-26.1392,28.246,5558,AF,South Africa,ZA-GT,Johannesburg,JNB
-Kalgoorlie Boulder Airport,-30.7894001,121.461998,1203,OC,Australia,AU-WA,Kalgoorlie,KGI
-Kunming Changshui International Airport,25.1019444,102.9291667,6903,AS,China,CN-53,Kunming,KMG
-Kualanamu International Airport,3.642222,98.885278,23,AS,Indonesia,ID-SU,,KNO
-Karratha Airport,-20.71220016,116.7730026,29,OC,Australia,AU-WA,Karratha,KTA
-Kuala Lumpur International Airport,2.745579958,101.7099991,69,AS,Malaysia,MY-14,Kuala Lumpur,KUL
-Longdongbao Airport,26.53849983,106.8010025,3736,AS,China,CN-52,Guiyang,KWE
-Los Angeles International Airport,33.942501,-118.407997,125,NA,United States of America,US-CA,Los Angeles,LAX
-Jorge Chávez International Airport,-12.0219,-77.114305,113,SA,Peru,PE-LIM,Lima,LIM
-Launceston Airport,-41.54529953,147.2140045,562,OC,Australia,AU-TAS,Launceston,LST
-Sunshine Coast Airport,-26.6033,153.091003,15,OC,Australia,AU-QLD,Maroochydore,MCY
-Melbourne International Airport,-37.673302,144.843002,434,OC,Australia,AU-VIC,Melbourne,MEL
-Mackay Airport,-21.17169952,149.1799927,19,OC,Australia,AU-QLD,Mackay,MKY
-Ninoy Aquino International Airport,14.5086,121.019997,75,AS,Philippines,PH-00,Manila,MNL
-Moranbah Airport,-22.05780029,148.0769959,770,OC,Australia,AU-QLD,Moranbah,MOV
-Mildura Airport,-34.22919846,142.0859985,167,OC,Australia,AU-VIC,Mildura,MQL
-Sir Seewoosagur Ramgoolam International Airport,-20.430201,57.683601,186,AF,Mauritius,MU-GP,Port Louis,MRU
-Munda Airport,-8.327969551,157.2630005,10,OC,Solomon Islands,SB-WE,,MUA
-Nadi International Airport,-17.7553997,177.4429932,59,OC,Fiji,FJ-W,Nadi,NAN
-Nanjing Lukou Airport,31.74200058,118.8619995,49,AS,China,CN-32,Nanjing,NKG
-Norfolk Island International Airport,-29.04159927,167.9389954,371,OC,Norfolk Island,NF-U-A,Burnt Pine,NLK
-La Tontouta International Airport,-22.01460075,166.2129974,52,OC,NC,NC-U-A,Nouméa,NOU
-Newcastle Airport,-32.79499817,151.8339996,31,OC,Australia,AU-NSW,Williamtown,NTL
-Gold Coast Airport,-28.1644001,153.5050049,21,OC,Australia,AU-QLD,Gold Coast,OOL
-Perth International Airport,-31.94029999,115.9670029,67,OC,Australia,AU-WA,Perth,PER
-Port Hedland International Airport,-20.37779999,118.6259995,33,OC,Australia,AU-WA,Port Hedland,PHE
-Port Lincoln Airport,-34.6053009,135.8800049,36,OC,Australia,AU-SA,Port Lincoln,PLO
-Port Moresby Jacksons International Airport,-9.443380356,147.2200012,146,OC,Papua New Guinea,PG-NCD,Port Moresby,POM
-Proserpine Whitsunday Coast Airport,-20.49500084,148.552002,82,OC,Australia,AU-QLD,Proserpine,PPP
-Port Macquarie Airport,-31.43580055,152.8630066,12,OC,Australia,AU-NSW,Port Macquarie,PQQ
-Rarotonga International Airport,-21.20269966,-159.8059998,19,OC,Cook Islands,CK-U-A,Avarua,RAR
-Rockhampton Airport,-23.38190079,150.4750061,34,OC,Australia,AU-QLD,Rockhampton,ROK
-Comodoro Arturo Merino Benítez International Airport,-33.39300156,-70.78579712,1555,SA,Chile,CL-RM,Santiago,SCL
-San Francisco International Airport,37.61899948,-122.375,13,NA,United States of America,US-CA,San Francisco,SFO
-Tan Son Nhat International Airport,10.81879997,106.6520004,33,AS,Vietnam,VN-23,Ho Chi Minh City,SGN
-Shanghai Hongqiao International Airport,31.19790077,121.3359985,10,AS,China,CN-31,Shanghai,SHA
-Singapore Changi Airport /  Changi Air Base (West),1.35019,103.994003,22,AS,Singapore,SG-04,Singapore,SIN
-Santo Pekoa International Airport,-15.50500011,167.2200012,184,OC,Vanuatu,VU-SAM,Luganville,SON
-Nausori International Airport,-18.04330063,178.5590057,17,OC,Fiji,FJ-C,Nausori,SUV
-Sydney Kingsford Smith International Airport,-33.94609833,151.177002,21,OC,Australia,AU-NSW,Sydney,SYD
-Shenzhen Bao'an International Airport,22.639299,113.810997,13,AS,China,CN-44,"Bao'an, Shenzhen",SZX
-Liuting Airport,36.26610184,120.3740005,33,AS,China,CN-37,Qingdao,TAO
-Fua'amotu International Airport,-21.24119949,-175.1499939,126,OC,Tonga,TO-04,Nuku'alofa,TBU
-Tamworth Airport,-31.08390045,150.8470001,1334,OC,Australia,AU-NSW,Tamworth,TMW
-Taiwan Taoyuan International Airport,25.0777,121.233002,106,AS,Taiwan,TW-TAO,Taipei,TPE
-Tianjin Binhai International Airport,39.12440109,117.3460007,10,AS,China,CN-12,Tianjin,TSN
-Townsville Airport,-19.25250053,146.7649994,18,OC,Australia,AU-QLD,Townsville,TSV
-Can Tho International Airport,10.08510017,105.711998,9,AS,Vietnam,VN-02,Can Tho,VCA
-Van Don International Airport,21.117778,107.414167,24,AS,Vietnam,VN-13,Van Don,VDO
-Bauerfield International Airport,-17.69930077,168.3200073,70,OC,Vanuatu,VU-SEE,Port Vila,VLI
-Wagga Wagga City Airport,-35.16529846,147.4660034,724,OC,Australia,AU-NSW,Wagga Wagga,WGA
-Wellington International Airport,-41.32720184,174.8049927,41,OC,New Zealand,NZ-WGN,Wellington,WLG
-Wuhan Tianhe International Airport,30.7838,114.208,113,AS,China,CN-42,Wuhan,WUH
-Xi'an Xianyang International Airport,34.447102,108.751999,1572,AS,China,CN-61,Xi'an,XIY
-Xiamen Gaoqi International Airport,24.54400063,118.1279984,59,AS,China,CN-35,Xiamen,XMN
-Vancouver International Airport,49.19390106,-123.1839981,14,NA,Canada,CA-BC,Vancouver,YVR
-Torronto Pearson International Airport,43.67720032,-79.63059998,569,NA,Canada,CA-ON,Toronto,YYZ
-Newman Airport,-23.4178009,119.8030014,1724,OC,Australia,AU-WA,Newman,ZNE
-Queenstown International Airport,-45.021099,168.738998,1171,OC,New Zealand,NZ-OTA,Queenstown,ZQN
+name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,municipality,iata_code
+Albury Airport,-36.06779861,146.9579926,539,Oceania,Australia,Albury,ABX
+Adelaide International Airport,-34.945,138.531006,20,Oceania,Australia,Adelaide,ADL
+Auckland International Airport,-37.0080986,174.7920074,23,Oceania,New Zealand,Auckland,AKL
+Faleolo International Airport,-13.82999992,-172.0079956,58,Oceania,Samoa,Apia,APW
+Armidale Airport,-30.52809906,151.6170044,3556,Oceania,Australia,Armidale,ARM
+Alice Springs Airport,-23.80669975,133.9019928,1789,Oceania,Australia,Alice Springs,ASP
+Abu Dhabi International Airport,24.43300056,54.65110016,88,Asia,United Arab Emirates,Abu Dhabi,AUH
+Avalon Airport,-38.039398,144.468994,35,Oceania,Australia,Melbourne,AVV
+Ayers Rock Connellan Airport,-25.1861,130.975998,1626,Oceania,Australia,Ayers Rock,AYQ
+Bundaberg Airport,-24.90390015,152.3190002,107,Oceania,Australia,Bundaberg,BDB
+Kota Kinabalu International Airport,5.937210083,116.0510025,10,Asia,Malaysia,Kota Kinabalu,BKI
+Suvarnabhumi Airport,13.68109989,100.7470016,5,Asia,Thailand,Bangkok,BKK
+Broome International Airport,-17.94470024,122.2320023,56,Oceania,Australia,Broome,BME
+Brisbane International Airport,-27.38419914,153.1170044,13,Oceania,Australia,Brisbane,BNE
+Hang Nadim International Airport,1.121029973,104.1190033,126,Asia,Indonesia,Batam Island,BTH
+Brunei International Airport,4.944200039,114.9280014,73,Asia,Brunei,Bandar Seri Begawan,BWN
+Guangzhou Baiyun International Airport,23.392401,113.299004,50,Asia,China,"Huadu, Guangzhou",CAN
+Canberra International Airport,-35.30690002,149.1950073,1886,Oceania,Australia,Canberra,CBR
+Coffs Harbour Airport,-30.320601,153.115997,18,Oceania,Australia,Coffs Harbour,CFS
+Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,495,Asia,China,Zhengzhou,CGO
+Christchurch International Airport,-43.48939896,172.5319977,123,Oceania,New Zealand,Christchurch,CHC
+Chongqing Jiangbei International Airport,29.71920013,106.6419983,1365,Asia,China,Chongqing,CKG
+Bandaranaike International Colombo Airport,7.180759907,79.88410187,30,Asia,Sri Lanka,Colombo,CMB
+Cairns International Airport,-16.88579941,145.7550049,10,Oceania,Australia,Cairns,CNS
+Changsha Huanghua International Airport,28.18919945,113.2200012,217,Asia,China,Changsha,CSX
+Chengdu Shuangliu International Airport,30.57850075,103.9469986,1625,Asia,China,Chengdu,CTU
+Dubbo City Regional Airport,-32.21670151,148.5749969,935,Oceania,Australia,Dubbo,DBO
+Indira Gandhi International Airport,28.5665,77.103104,777,Asia,India,New Delhi,DEL
+Dallas Fort Worth International Airport,32.896801,-97.038002,607,North America,United States of America,Dallas-Fort Worth,DFW
+Hamad International Airport,25.273056,51.608056,13,Asia,Qatar,Doha,DOH
+Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,14,Asia,Indonesia,Denpasar-Bali Island,DPS
+Darwin International Airport,-12.41469955,130.8769989,103,Oceania,Australia,Darwin,DRW
+Dunedin Airport,-45.92810059,170.197998,4,Oceania,New Zealand,Dunedin,DUD
+Dubai International Airport,25.25279999,55.36439896,62,Asia,United Arab Emirates,Dubai,DXB
+Emerald Airport,-23.56749916,148.1790009,624,Oceania,Australia,Emerald,EMD
+Fuzhou Changle International Airport,25.93510056,119.663002,46,Asia,China,Fuzhou,FOC
+Geraldton Airport,-28.796101,114.707001,121,Oceania,Australia,Geraldton,GET
+Gladstone Airport,-23.869699,151.223007,64,Oceania,Australia,Gladstone,GLT
+Haikou Meilan International Airport,19.9349,110.459,75,Asia,China,Haikou (Meilan),HAK
+Noi Bai International Airport,21.221201,105.806999,39,Asia,Vietnam,"Soc Son, Hanoi",HAN
+Hobart International Airport,-42.83610153,147.5099945,13,Oceania,Australia,Hobart,HBA
+Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,23,Asia,China,Hangzhou,HGH
+Honiara International Airport,-9.42800045,160.0549927,28,Oceania,Solomon Islands,Honiara,HIR
+Hong Kong International Airport,22.308901,113.915001,28,Asia,Hong Kong,"Kowloon City, Kowloon",HKG
+Phuket International Airport,8.1132,98.316902,82,Asia,Thailand,Phuket,HKT
+Daniel K Inouye International Airport,21.32062,-157.924228,13,North America,United States of America,Honolulu,HNL
+Hamilton Island Airport,-20.35810089,148.9519959,15,Oceania,Australia,Hamilton Island,HTI
+George Bush Intercontinental Houston Airport,29.9843998,-95.34140015,97,North America,United States of America,Houston,IAH
+Nauru International Airport,-0.547458,166.919006,22,Oceania,Nauru,Yaren District,INU
+Mount Isa Airport,-20.66390038,139.4889984,1121,Oceania,Australia,Mount Isa,ISA
+OR Tambo International Airport,-26.1392,28.246,5558,Africa,South Africa,Johannesburg,JNB
+Kalgoorlie Boulder Airport,-30.7894001,121.461998,1203,Oceania,Australia,Kalgoorlie,KGI
+Kunming Changshui International Airport,25.1019444,102.9291667,6903,Asia,China,Kunming,KMG
+Kualanamu International Airport,3.642222,98.885278,23,Asia,Indonesia,,KNO
+Karratha Airport,-20.71220016,116.7730026,29,Oceania,Australia,Karratha,KTA
+Kuala Lumpur International Airport,2.745579958,101.7099991,69,Asia,Malaysia,Kuala Lumpur,KUL
+Longdongbao Airport,26.53849983,106.8010025,3736,Asia,China,Guiyang,KWE
+Los Angeles International Airport,33.942501,-118.407997,125,North America,United States of America,Los Angeles,LAX
+Jorge Chávez International Airport,-12.0219,-77.114305,113,South America,Peru,Lima,LIM
+Launceston Airport,-41.54529953,147.2140045,562,Oceania,Australia,Launceston,LST
+Sunshine Coast Airport,-26.6033,153.091003,15,Oceania,Australia,Maroochydore,MCY
+Melbourne International Airport,-37.673302,144.843002,434,Oceania,Australia,Melbourne,MEL
+Mackay Airport,-21.17169952,149.1799927,19,Oceania,Australia,Mackay,MKY
+Ninoy Aquino International Airport,14.5086,121.019997,75,Asia,Philippines,Manila,MNL
+Moranbah Airport,-22.05780029,148.0769959,770,Oceania,Australia,Moranbah,MOV
+Mildura Airport,-34.22919846,142.0859985,167,Oceania,Australia,Mildura,MQL
+Sir Seewoosagur Ramgoolam International Airport,-20.430201,57.683601,186,Africa,Mauritius,Port Louis,MRU
+Munda Airport,-8.327969551,157.2630005,10,Oceania,Solomon Islands,,MUA
+Nadi International Airport,-17.7553997,177.4429932,59,Oceania,Fiji,Nadi,NAN
+Nanjing Lukou Airport,31.74200058,118.8619995,49,Asia,China,Nanjing,NKG
+Norfolk Island International Airport,-29.04159927,167.9389954,371,Oceania,Norfolk Island,Burnt Pine,NLK
+La Tontouta International Airport,-22.01460075,166.2129974,52,Oceania,NC,Nouméa,NOU
+Newcastle Airport,-32.79499817,151.8339996,31,Oceania,Australia,Williamtown,NTL
+Gold Coast Airport,-28.1644001,153.5050049,21,Oceania,Australia,Gold Coast,OOL
+Perth International Airport,-31.94029999,115.9670029,67,Oceania,Australia,Perth,PER
+Port Hedland International Airport,-20.37779999,118.6259995,33,Oceania,Australia,Port Hedland,PHE
+Port Lincoln Airport,-34.6053009,135.8800049,36,Oceania,Australia,Port Lincoln,PLO
+Port Moresby Jacksons International Airport,-9.443380356,147.2200012,146,Oceania,Papua New Guinea,Port Moresby,POM
+Proserpine Whitsunday Coast Airport,-20.49500084,148.552002,82,Oceania,Australia,Proserpine,PPP
+Port Macquarie Airport,-31.43580055,152.8630066,12,Oceania,Australia,Port Macquarie,PQQ
+Rarotonga International Airport,-21.20269966,-159.8059998,19,Oceania,Cook Islands,Avarua,RAR
+Rockhampton Airport,-23.38190079,150.4750061,34,Oceania,Australia,Rockhampton,ROK
+Comodoro Arturo Merino Benítez International Airport,-33.39300156,-70.78579712,1555,South America,Chile,Santiago,SCL
+San Francisco International Airport,37.61899948,-122.375,13,North America,United States of America,San Francisco,SFO
+Tan Son Nhat International Airport,10.81879997,106.6520004,33,Asia,Vietnam,Ho Chi Minh City,SGN
+Shanghai Hongqiao International Airport,31.19790077,121.3359985,10,Asia,China,Shanghai,SHA
+Singapore Changi Airport /  Changi Air Base (West),1.35019,103.994003,22,Asia,Singapore,Singapore,SIN
+Santo Pekoa International Airport,-15.50500011,167.2200012,184,Oceania,Vanuatu,Luganville,SON
+Nausori International Airport,-18.04330063,178.5590057,17,Oceania,Fiji,Nausori,SUV
+Sydney Kingsford Smith International Airport,-33.94609833,151.177002,21,Oceania,Australia,Sydney,SYD
+Shenzhen Bao'an International Airport,22.639299,113.810997,13,Asia,China,"Bao'an, Shenzhen",SZX
+Liuting Airport,36.26610184,120.3740005,33,Asia,China,Qingdao,TAO
+Fua'amotu International Airport,-21.24119949,-175.1499939,126,Oceania,Tonga,Nuku'alofa,TBU
+Tamworth Airport,-31.08390045,150.8470001,1334,Oceania,Australia,Tamworth,TMW
+Taiwan Taoyuan International Airport,25.0777,121.233002,106,Asia,Taiwan,Taipei,TPE
+Tianjin Binhai International Airport,39.12440109,117.3460007,10,Asia,China,Tianjin,TSN
+Townsville Airport,-19.25250053,146.7649994,18,Oceania,Australia,Townsville,TSV
+Can Tho International Airport,10.08510017,105.711998,9,Asia,Vietnam,Can Tho,VCA
+Van Don International Airport,21.117778,107.414167,24,Asia,Vietnam,Van Don,VDO
+Bauerfield International Airport,-17.69930077,168.3200073,70,Oceania,Vanuatu,Port Vila,VLI
+Wagga Wagga City Airport,-35.16529846,147.4660034,724,Oceania,Australia,Wagga Wagga,WGA
+Wellington International Airport,-41.32720184,174.8049927,41,Oceania,New Zealand,Wellington,WLG
+Wuhan Tianhe International Airport,30.7838,114.208,113,Asia,China,Wuhan,WUH
+Xi'an Xianyang International Airport,34.447102,108.751999,1572,Asia,China,Xi'an,XIY
+Xiamen Gaoqi International Airport,24.54400063,118.1279984,59,Asia,China,Xiamen,XMN
+Vancouver International Airport,49.19390106,-123.1839981,14,North America,Canada,Vancouver,YVR
+Torronto Pearson International Airport,43.67720032,-79.63059998,569,North America,Canada,Toronto,YYZ
+Newman Airport,-23.4178009,119.8030014,1724,Oceania,Australia,Newman,ZNE
+Queenstown International Airport,-45.021099,168.738998,1171,Oceania,New Zealand,Queenstown,ZQN
+Beijing Capital International Airport,40.08010101,116.5849991,116,Asia,China,Beijing,PEK
+Ministro Pistarini International Airport,-34.8222,-58.5358,67,South America,Argentina,Buenos Aires,EZE
+Soekarno-Hatta International Airport,-6.12556982,106.6559982,34,Asia,Indonesia,Tangerang City,CGK
+London Heathrow Airport,51.4706,-0.461941,83,Europe,Great Britain,London,LHR
+John F Kennedy International Airport,40.639801,-73.7789,13,North America,United States of America,New York City,JFK
+Osaka International Airport,34.78549957,135.4380035,50,Asia,Japan,Osaka,ITM
+Incheon International Airport,37.46910095,126.4509964,23,Asia,South Korea,Incheon,ICN
+New Chitose Airport,42.77519989,141.6920013,82,Asia,Japan,Chitose,CTS
