@@ -1,4 +1,4 @@
-Month,In_Out,Australian_City,International_City,Airline,Flight_Path,Stop_1,Stop_2,Stop_3,Stop_4,Port_Country,Port_Region,Service_Country,Service_Region,Stops,All_Flights,Max_Seats,Year,Month_num
+Month,In_Out,Australian_City,International_City,Airline,Flight_Path,Stop_1,Stop_2,Stop_3,Stop_4,Port_Country,Port_Region,Service_Country,Service_Region,Stops,count,Max_Seats,Year,Month_num
 Jan-19,I,Adelaide,Auckland,Air New Zealand,AKL-ADL,AKL,ADL,,,New Zealand,New Zealand,New Zealand,New Zealand,0,22,6864,2019,1
 Jan-19,I,Adelaide,Denpasar,Jetstar,DPS-ADL,DPS,ADL,,,Indonesia,SE Asia,Indonesia,SE Asia,0,31,5718,2019,1
 Jan-19,I,Adelaide,Doha,Qatar Airways,DOH-ADL,DOH,ADL,,,Qatar,Middle East,Qatar,Middle East,0,31,8773,2019,1
