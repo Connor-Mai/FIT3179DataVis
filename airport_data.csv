@@ -1,4 +1,4 @@
-name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,municipality,iata_code
+name,latitude,longitude,elevation_ft,continent,iso_country,municipality,iata_code
 Albury Airport,-36.06779861,146.9579926,539,Oceania,Australia,Albury,ABX
 Adelaide International Airport,-34.945,138.531006,20,Oceania,Australia,Adelaide,ADL
 Auckland International Airport,-37.0080986,174.7920074,23,Oceania,New Zealand,Auckland,AKL
