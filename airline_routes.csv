@@ -673,12 +673,10 @@ Feb-19,I,Brisbane,Kuala Lumpur,Malaysia Airlines,KUL-BNE,KUL,BNE,,,Malaysia,SE A
 Feb-19,I,Brisbane,Kuala Lumpur,Malindo Air,KUL-DPS-BNE,KUL,DPS,BNE,,Malaysia,SE Asia,Malaysia,SE Asia,1,16,2592,2019,2,2
 Feb-19,I,Brisbane,Los Angeles,Virgin Australia,LAX-BNE,LAX,BNE,,,USA,N America,USA,N America,0,22,7458,2019,2,2
 Feb-19,I,Brisbane,Los Angeles,Qantas Airways,LAX-BNE,LAX,BNE,,,USA,N America,USA,N America,0,40,9437,2019,2,2
-Feb-19,I,Brisbane,Los Angeles,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,484,2019,2,2
 Feb-19,I,Brisbane,Manila,Philippine Airlines,MNL-BNE,MNL,BNE,,,Philippines,SE Asia,Philippines,SE Asia,0,16,2774,2019,2,2
 Feb-19,I,Brisbane,Nadi,Virgin Australia,NAN-BNE,NAN,BNE,,,Fiji,Islands,Fiji,Islands,0,28,4928,2019,2,2
 Feb-19,I,Brisbane,Nadi,Fiji Airways,NAN-BNE,NAN,BNE,,,Fiji,Islands,Fiji,Islands,0,20,3400,2019,2,2
 Feb-19,I,Brisbane,Nauru,Nauru Airlines,INU-BNE,INU,BNE,,,Nauru,Islands,Nauru,Islands,0,16,2048,2019,2,2
-Feb-19,I,Brisbane,New York,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,236,2019,2,2
 Feb-19,I,Brisbane,Noumea,Qantas Airways,NOU-BNE,NOU,BNE,,,New Caledonia,Islands,New Caledonia,Islands,0,4,700,2019,2,2
 Feb-19,I,Brisbane,Noumea,Air Caledonie,NOU-BNE,NOU,BNE,,,New Caledonia,Islands,New Caledonia,Islands,0,14,2188,2019,2,2
 Feb-19,I,Brisbane,Port Moresby,Virgin Australia,POM-BNE,POM,BNE,,,Papua New Guinea,Islands,Papua New Guinea,Islands,0,20,3216,2019,2,2
@@ -894,7 +892,6 @@ Feb-19,I,Sydney,Los Angeles,Virgin Australia,LAX-SYD,LAX,SYD,,,USA,N America,USA
 Feb-19,I,Sydney,Los Angeles,Delta Air Lines,LAX-SYD,LAX,SYD,,,USA,N America,USA,N America,0,28,8148,2019,2,2
 Feb-19,I,Sydney,Los Angeles,Qantas Airways,LAX-SYD,LAX,SYD,,,USA,N America,USA,N America,0,2,967,2019,2,2
 Feb-19,I,Sydney,Los Angeles,United Airlines,LAX-SYD,LAX,SYD,,,USA,N America,USA,N America,0,24,6048,2019,2,2
-Feb-19,I,Sydney,Los Angeles,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,484,2019,2,2
 Feb-19,I,Sydney,Los Angeles,Qantas Airways,JFK-LAX-SYD,JFK,LAX,SYD,,USA,N America,USA,N America,1,25,12100,2019,2,2
 Feb-19,I,Sydney,Manila,Cebu Pacific Air,MNL-SYD,MNL,SYD,,,Philippines,SE Asia,Philippines,SE Asia,0,22,9592,2019,2,2
 Feb-19,I,Sydney,Manila,Philippine Airlines,MNL-SYD,MNL,SYD,,,Philippines,SE Asia,Philippines,SE Asia,0,28,4831,2019,2,2
@@ -904,7 +901,6 @@ Feb-19,I,Sydney,Nadi,Fiji Airways,NAN-SYD,NAN,SYD,,,Fiji,Islands,Fiji,Islands,0,
 Feb-19,I,Sydney,Nadi,Jetstar,NAN-SYD,NAN,SYD,,,Fiji,Islands,Fiji,Islands,0,12,2214,2019,2,2
 Feb-19,I,Sydney,Nanjing,China Eastern Airlines,PEK-NKG-SYD,PEK,NKG,SYD,,China,NE Asia,China,NE Asia,1,12,2760,2019,2,2
 Feb-19,I,Sydney,New Delhi,Air India,DEL-SYD,DEL,SYD,,,India,S Asia,India,S Asia,0,20,5120,2019,2,2
-Feb-19,I,Sydney,New York,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,236,2019,2,2
 Feb-19,I,Sydney,New York,Qantas Airways,JFK-LAX-SYD,JFK,LAX,SYD,,USA,N America,USA,N America,1,25,5900,2019,2,2
 Feb-19,I,Sydney,Noumea,Qantas Airways,NOU-SYD,NOU,SYD,,,New Caledonia,Islands,New Caledonia,Islands,0,15,2790,2019,2,2
 Feb-19,I,Sydney,Noumea,Air Caledonie,NOU-SYD,NOU,SYD,,,New Caledonia,Islands,New Caledonia,Islands,0,13,2633,2019,2,2
@@ -3170,12 +3166,10 @@ Jun-19,I,Brisbane,Kuala Lumpur,Malaysia Airlines,KUL-BNE,KUL,BNE,,,Malaysia,SE A
 Jun-19,I,Brisbane,Kuala Lumpur,Malindo Air,KUL-DPS-BNE,KUL,DPS,BNE,,Malaysia,SE Asia,Malaysia,SE Asia,1,17,2754,2019,6,6
 Jun-19,I,Brisbane,Los Angeles,Virgin Australia,LAX-BNE,LAX,BNE,,,USA,N America,USA,N America,0,25,8475,2019,6,6
 Jun-19,I,Brisbane,Los Angeles,Qantas Airways,LAX-BNE,LAX,BNE,,,USA,N America,USA,N America,0,43,10144,2019,6,6
-Jun-19,I,Brisbane,Los Angeles,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,236,2019,6,6
 Jun-19,I,Brisbane,Manila,Philippine Airlines,MNL-BNE,MNL,BNE,,,Philippines,SE Asia,Philippines,SE Asia,0,21,3528,2019,6,6
 Jun-19,I,Brisbane,Nadi,Virgin Australia,NAN-BNE,NAN,BNE,,,Fiji,Islands,Fiji,Islands,0,29,5302,2019,6,6
 Jun-19,I,Brisbane,Nadi,Fiji Airways,NAN-BNE,NAN,BNE,,,Fiji,Islands,Fiji,Islands,0,31,5233,2019,6,6
 Jun-19,I,Brisbane,Nauru,Nauru Airlines,INU-BNE,INU,BNE,,,Nauru,Islands,Nauru,Islands,0,8,1024,2019,6,6
-Jun-19,I,Brisbane,New York,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,236,2019,6,6
 Jun-19,I,Brisbane,Noumea,Qantas Airways,NOU-BNE,NOU,BNE,,,New Caledonia,Islands,New Caledonia,Islands,0,9,1566,2019,6,6
 Jun-19,I,Brisbane,Noumea,Air Caledonie,NOU-BNE,NOU,BNE,,,New Caledonia,Islands,New Caledonia,Islands,0,13,1946,2019,6,6
 Jun-19,I,Brisbane,Port Moresby,Virgin Australia,POM-BNE,POM,BNE,,,Papua New Guinea,Islands,Papua New Guinea,Islands,0,20,2000,2019,6,6
@@ -3393,7 +3387,6 @@ Jun-19,I,Sydney,Los Angeles,American Airlines,LAX-SYD,LAX,SYD,,,USA,N America,US
 Jun-19,I,Sydney,Los Angeles,Virgin Australia,LAX-SYD,LAX,SYD,,,USA,N America,USA,N America,0,30,10170,2019,6,6
 Jun-19,I,Sydney,Los Angeles,Delta Air Lines,LAX-SYD,LAX,SYD,,,USA,N America,USA,N America,0,30,8640,2019,6,6
 Jun-19,I,Sydney,Los Angeles,United Airlines,LAX-SYD,LAX,SYD,,,USA,N America,USA,N America,0,12,3024,2019,6,6
-Jun-19,I,Sydney,Los Angeles,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,236,2019,6,6
 Jun-19,I,Sydney,Los Angeles,Qantas Airways,JFK-LAX-SYD,JFK,LAX,SYD,,USA,N America,USA,N America,1,28,13558,2019,6,6
 Jun-19,I,Sydney,Manila,Cebu Pacific Air,MNL-SYD,MNL,SYD,,,Philippines,SE Asia,Philippines,SE Asia,0,21,9156,2019,6,6
 Jun-19,I,Sydney,Manila,Philippine Airlines,MNL-SYD,MNL,SYD,,,Philippines,SE Asia,Philippines,SE Asia,0,39,6552,2019,6,6
@@ -3404,7 +3397,6 @@ Jun-19,I,Sydney,Nadi,Jetstar,NAN-SYD,NAN,SYD,,,Fiji,Islands,Fiji,Islands,0,16,29
 Jun-19,I,Sydney,Nadi,Qantas Airways,NAN-SYD,NAN,SYD,,,Fiji,Islands,Fiji,Islands,0,18,3057,2019,6,6
 Jun-19,I,Sydney,Nanjing,China Eastern Airlines,PEK-NKG-SYD,PEK,NKG,SYD,,China,NE Asia,China,NE Asia,1,13,2990,2019,6,6
 Jun-19,I,Sydney,New Delhi,Air India,DEL-SYD,DEL,SYD,,,India,S Asia,India,S Asia,0,22,5632,2019,6,6
-Jun-19,I,Sydney,New York,Qantas Airways,JFK-LAX-BNE-SYD,JFK,LAX,BNE,SYD,USA,N America,USA,N America,2,1,236,2019,6,6
 Jun-19,I,Sydney,New York,Qantas Airways,JFK-LAX-SYD,JFK,LAX,SYD,,USA,N America,USA,N America,1,28,6608,2019,6,6
 Jun-19,I,Sydney,Noumea,Qantas Airways,NOU-SYD,NOU,SYD,,,New Caledonia,Islands,New Caledonia,Islands,0,18,3124,2019,6,6
 Jun-19,I,Sydney,Noumea,Air Caledonie,NOU-SYD,NOU,SYD,,,New Caledonia,Islands,New Caledonia,Islands,0,12,2739,2019,6,6
