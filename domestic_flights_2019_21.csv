@@ -959,21 +959,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,BNE,ROK,2021,4,518,46429,492,72.4,33635,Brisbane - Rockhampton,28,Regional
 1-May-21,BNE,ROK,2021,5,518,55837,517,71.8,40095,Brisbane - Rockhampton,29,Regional
 1-Jun-21,BNE,ROK,2021,6,518,56214,540,64.2,36093,Brisbane - Rockhampton,30,Regional
-1-Jan-19,BNE,SYD,2019,1,753,450240,"2,749",83,373527,Brisbane - Sydney,1,Metropolitian
-1-Feb-19,BNE,SYD,2019,2,753,437754,"2,717",80.7,353301,Brisbane - Sydney,2,Metropolitian
-1-Mar-19,BNE,SYD,2019,3,753,491592,"3,008",82.3,404452,Brisbane - Sydney,3,Metropolitian
-1-Apr-19,BNE,SYD,2019,4,753,488472,"2,965",81.3,397001,Brisbane - Sydney,4,Metropolitian
-1-May-19,BNE,SYD,2019,5,753,499626,"3,074",79.4,396519,Brisbane - Sydney,5,Metropolitian
-1-Jun-19,BNE,SYD,2019,6,753,469583,"2,834",80.9,380079,Brisbane - Sydney,6,Metropolitian
-1-Jul-19,BNE,SYD,2019,7,753,521728,"3,163",82.6,431064,Brisbane - Sydney,7,Metropolitian
-1-Aug-19,BNE,SYD,2019,8,753,490360,"2,972",84.3,413613,Brisbane - Sydney,8,Metropolitian
-1-Sep-19,BNE,SYD,2019,9,753,487104,"2,954",82.5,401748,Brisbane - Sydney,9,Metropolitian
-1-Oct-19,BNE,SYD,2019,10,753,511138,"3,107",87.6,447595,Brisbane - Sydney,10,Metropolitian
-1-Nov-19,BNE,SYD,2019,11,753,476626,"2,894",86.7,413243,Brisbane - Sydney,11,Metropolitian
-1-Dec-19,BNE,SYD,2019,12,753,471625,"2,878",86.7,408902,Brisbane - Sydney,12,Metropolitian
-1-Jan-20,BNE,SYD,2020,1,753,439245,"2,689",86,377958,Brisbane - Sydney,13,Metropolitian
-1-Feb-20,BNE,SYD,2020,2,753,426757,"2,596",79.9,340988,Brisbane - Sydney,14,Metropolitian
-1-Mar-20,BNE,SYD,2020,3,753,361956,"2,252",63.1,228371,Brisbane - Sydney,15,Metropolitian
+1-Jan-19,BNE,SYD,2019,1,753,450240,2749,83,373527,Brisbane - Sydney,1,Metropolitian
+1-Feb-19,BNE,SYD,2019,2,753,437754,2717,80.7,353301,Brisbane - Sydney,2,Metropolitian
+1-Mar-19,BNE,SYD,2019,3,753,491592,3008,82.3,404452,Brisbane - Sydney,3,Metropolitian
+1-Apr-19,BNE,SYD,2019,4,753,488472,2965,81.3,397001,Brisbane - Sydney,4,Metropolitian
+1-May-19,BNE,SYD,2019,5,753,499626,3074,79.4,396519,Brisbane - Sydney,5,Metropolitian
+1-Jun-19,BNE,SYD,2019,6,753,469583,2834,80.9,380079,Brisbane - Sydney,6,Metropolitian
+1-Jul-19,BNE,SYD,2019,7,753,521728,3163,82.6,431064,Brisbane - Sydney,7,Metropolitian
+1-Aug-19,BNE,SYD,2019,8,753,490360,2972,84.3,413613,Brisbane - Sydney,8,Metropolitian
+1-Sep-19,BNE,SYD,2019,9,753,487104,2954,82.5,401748,Brisbane - Sydney,9,Metropolitian
+1-Oct-19,BNE,SYD,2019,10,753,511138,3107,87.6,447595,Brisbane - Sydney,10,Metropolitian
+1-Nov-19,BNE,SYD,2019,11,753,476626,2894,86.7,413243,Brisbane - Sydney,11,Metropolitian
+1-Dec-19,BNE,SYD,2019,12,753,471625,2878,86.7,408902,Brisbane - Sydney,12,Metropolitian
+1-Jan-20,BNE,SYD,2020,1,753,439245,2689,86,377958,Brisbane - Sydney,13,Metropolitian
+1-Feb-20,BNE,SYD,2020,2,753,426757,2596,79.9,340988,Brisbane - Sydney,14,Metropolitian
+1-Mar-20,BNE,SYD,2020,3,753,361956,2252,63.1,228371,Brisbane - Sydney,15,Metropolitian
 1-Apr-20,BNE,SYD,2020,4,753,39177,424,36.1,14154,Brisbane - Sydney,16,Metropolitian
 1-May-20,BNE,SYD,2020,5,753,33800,353,55.4,18716,Brisbane - Sydney,17,Metropolitian
 1-Jun-20,BNE,SYD,2020,6,753,52231,489,70.9,37009,Brisbane - Sydney,18,Metropolitian
@@ -982,13 +982,13 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Sep-20,BNE,SYD,2020,9,753,26104,362,41.6,10864,Brisbane - Sydney,21,Metropolitian
 1-Oct-20,BNE,SYD,2020,10,753,24179,311,43.1,10432,Brisbane - Sydney,22,Metropolitian
 1-Nov-20,BNE,SYD,2020,11,753,48072,471,55.7,26773,Brisbane - Sydney,23,Metropolitian
-1-Dec-20,BNE,SYD,2020,12,753,192248,"1,301",62.9,120935,Brisbane - Sydney,24,Metropolitian
+1-Dec-20,BNE,SYD,2020,12,753,192248,1301,62.9,120935,Brisbane - Sydney,24,Metropolitian
 1-Jan-21,BNE,SYD,2021,1,753,59366,496,37.6,22343,Brisbane - Sydney,25,Metropolitian
-1-Feb-21,BNE,SYD,2021,2,753,185578,"1,230",74.4,138137,Brisbane - Sydney,26,Metropolitian
-1-Mar-21,BNE,SYD,2021,3,753,298092,"1,909",63.7,189944,Brisbane - Sydney,27,Metropolitian
-1-Apr-21,BNE,SYD,2021,4,753,279900,"1,729",73.2,204927,Brisbane - Sydney,28,Metropolitian
-1-May-21,BNE,SYD,2021,5,753,324164,"2,004",68.9,223314,Brisbane - Sydney,29,Metropolitian
-1-Jun-21,BNE,SYD,2021,6,753,300052,"1,861",58.8,176439,Brisbane - Sydney,30,Metropolitian
+1-Feb-21,BNE,SYD,2021,2,753,185578,1230,74.4,138137,Brisbane - Sydney,26,Metropolitian
+1-Mar-21,BNE,SYD,2021,3,753,298092,1909,63.7,189944,Brisbane - Sydney,27,Metropolitian
+1-Apr-21,BNE,SYD,2021,4,753,279900,1729,73.2,204927,Brisbane - Sydney,28,Metropolitian
+1-May-21,BNE,SYD,2021,5,753,324164,2004,68.9,223314,Brisbane - Sydney,29,Metropolitian
+1-Jun-21,BNE,SYD,2021,6,753,300052,1861,58.8,176439,Brisbane - Sydney,30,Metropolitian
 1-Jan-19,BNE,TSV,2019,1,"1,112",102665,691,70.6,72481,Brisbane - Townsville,1,Regional
 1-Feb-19,BNE,TSV,2019,2,"1,112",89253,611,74,66071,Brisbane - Townsville,2,Regional
 1-Mar-19,BNE,TSV,2019,3,"1,112",104275,697,81,84310,Brisbane - Townsville,3,Regional
@@ -1739,19 +1739,19 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,MEL,NTL,2021,4,836,49651,304,67.2,33356,Melbourne - Newcastle,28,Regional
 1-May-21,MEL,NTL,2021,5,836,41666,260,61.6,25662,Melbourne - Newcastle,29,Regional
 1-Jun-21,MEL,NTL,2021,6,836,,,,,Melbourne - Newcastle,30,Regional
-1-Jan-19,MEL,OOL,2019,1,"1,330",232755,"1,236",88.7,206458,Gold Coast - Melbourne,1,Metropolitian
+1-Jan-19,MEL,OOL,2019,1,"1,330",232755,1236,88.7,206458,Gold Coast - Melbourne,1,Metropolitian
 1-Feb-19,MEL,OOL,2019,2,"1,330",160715,846,88.2,141685,Gold Coast - Melbourne,2,Metropolitian
 1-Mar-19,MEL,OOL,2019,3,"1,330",177718,941,89.2,158450,Gold Coast - Melbourne,3,Metropolitian
-1-Apr-19,MEL,OOL,2019,4,"1,330",212294,"1,125",87.5,185845,Gold Coast - Melbourne,4,Metropolitian
+1-Apr-19,MEL,OOL,2019,4,"1,330",212294,1125,87.5,185845,Gold Coast - Melbourne,4,Metropolitian
 1-May-19,MEL,OOL,2019,5,"1,330",180605,955,82.2,148416,Gold Coast - Melbourne,5,Metropolitian
 1-Jun-19,MEL,OOL,2019,6,"1,330",182054,963,85.2,155056,Gold Coast - Melbourne,6,Metropolitian
-1-Jul-19,MEL,OOL,2019,7,"1,330",212975,"1,125",90.6,193023,Gold Coast - Melbourne,7,Metropolitian
-1-Aug-19,MEL,OOL,2019,8,"1,330",194704,"1,024",91.2,177635,Gold Coast - Melbourne,8,Metropolitian
-1-Sep-19,MEL,OOL,2019,9,"1,330",200714,"1,058",93.1,186828,Gold Coast - Melbourne,9,Metropolitian
-1-Oct-19,MEL,OOL,2019,10,"1,330",214805,"1,131",91.7,196929,Gold Coast - Melbourne,10,Metropolitian
-1-Nov-19,MEL,OOL,2019,11,"1,330",189416,"1,005",91.9,174013,Gold Coast - Melbourne,11,Metropolitian
-1-Dec-19,MEL,OOL,2019,12,"1,330",225277,"1,188",87.8,197819,Gold Coast - Melbourne,12,Metropolitian
-1-Jan-20,MEL,OOL,2020,1,"1,330",211986,"1,123",92.8,196680,Gold Coast - Melbourne,13,Metropolitian
+1-Jul-19,MEL,OOL,2019,7,"1,330",212975,1125,90.6,193023,Gold Coast - Melbourne,7,Metropolitian
+1-Aug-19,MEL,OOL,2019,8,"1,330",194704,1024,91.2,177635,Gold Coast - Melbourne,8,Metropolitian
+1-Sep-19,MEL,OOL,2019,9,"1,330",200714,1058,93.1,186828,Gold Coast - Melbourne,9,Metropolitian
+1-Oct-19,MEL,OOL,2019,10,"1,330",214805,1131,91.7,196929,Gold Coast - Melbourne,10,Metropolitian
+1-Nov-19,MEL,OOL,2019,11,"1,330",189416,1005,91.9,174013,Gold Coast - Melbourne,11,Metropolitian
+1-Dec-19,MEL,OOL,2019,12,"1,330",225277,1188,87.8,197819,Gold Coast - Melbourne,12,Metropolitian
+1-Jan-20,MEL,OOL,2020,1,"1,330",211986,1123,92.8,196680,Gold Coast - Melbourne,13,Metropolitian
 1-Feb-20,MEL,OOL,2020,2,"1,330",163571,862,83.3,136318,Gold Coast - Melbourne,14,Metropolitian
 1-Mar-20,MEL,OOL,2020,3,"1,330",141244,754,72.2,101976,Gold Coast - Melbourne,15,Metropolitian
 1-Apr-20,MEL,OOL,2020,4,"1,330",,,,,Gold Coast - Melbourne,16,Metropolitian
@@ -1766,22 +1766,22 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-21,MEL,OOL,2021,1,"1,330",165414,865,76,125662,Gold Coast - Melbourne,25,Metropolitian
 1-Feb-21,MEL,OOL,2021,2,"1,330",78006,409,62.7,48932,Gold Coast - Melbourne,26,Metropolitian
 1-Mar-21,MEL,OOL,2021,3,"1,330",131586,689,82.7,108810,Gold Coast - Melbourne,27,Metropolitian
-1-Apr-21,MEL,OOL,2021,4,"1,330",211294,"1,146",77.3,163402,Gold Coast - Melbourne,28,Metropolitian
-1-May-21,MEL,OOL,2021,5,"1,330",199824,"1,093",74.4,148700,Gold Coast - Melbourne,29,Metropolitian
+1-Apr-21,MEL,OOL,2021,4,"1,330",211294,1146,77.3,163402,Gold Coast - Melbourne,28,Metropolitian
+1-May-21,MEL,OOL,2021,5,"1,330",199824,1093,74.4,148700,Gold Coast - Melbourne,29,Metropolitian
 1-Jun-21,MEL,OOL,2021,6,"1,330",97336,519,45.7,44449,Gold Coast - Melbourne,30,Metropolitian
-1-Jan-19,MEL,PER,2019,1,"2,706",222054,"1,103",86.5,191992,Melbourne - Perth,1,Metropolitian
+1-Jan-19,MEL,PER,2019,1,"2,706",222054,1103,86.5,191992,Melbourne - Perth,1,Metropolitian
 1-Feb-19,MEL,PER,2019,2,"2,706",190306,960,81.3,154799,Melbourne - Perth,2,Metropolitian
-1-Mar-19,MEL,PER,2019,3,"2,706",211214,"1,065",83.1,175437,Melbourne - Perth,3,Metropolitian
-1-Apr-19,MEL,PER,2019,4,"2,706",208571,"1,013",86.7,180883,Melbourne - Perth,4,Metropolitian
+1-Mar-19,MEL,PER,2019,3,"2,706",211214,1065,83.1,175437,Melbourne - Perth,3,Metropolitian
+1-Apr-19,MEL,PER,2019,4,"2,706",208571,1013,86.7,180883,Melbourne - Perth,4,Metropolitian
 1-May-19,MEL,PER,2019,5,"2,706",197241,999,81.2,160239,Melbourne - Perth,5,Metropolitian
 1-Jun-19,MEL,PER,2019,6,"2,706",189831,968,81.2,154069,Melbourne - Perth,6,Metropolitian
-1-Jul-19,MEL,PER,2019,7,"2,706",214309,"1,092",86.1,184545,Melbourne - Perth,7,Metropolitian
+1-Jul-19,MEL,PER,2019,7,"2,706",214309,1092,86.1,184545,Melbourne - Perth,7,Metropolitian
 1-Aug-19,MEL,PER,2019,8,"2,706",193858,989,87.1,168901,Melbourne - Perth,8,Metropolitian
-1-Sep-19,MEL,PER,2019,9,"2,706",204932,"1,012",83,170156,Melbourne - Perth,9,Metropolitian
-1-Oct-19,MEL,PER,2019,10,"2,706",209922,"1,027",89.7,188376,Melbourne - Perth,10,Metropolitian
+1-Sep-19,MEL,PER,2019,9,"2,706",204932,1012,83,170156,Melbourne - Perth,9,Metropolitian
+1-Oct-19,MEL,PER,2019,10,"2,706",209922,1027,89.7,188376,Melbourne - Perth,10,Metropolitian
 1-Nov-19,MEL,PER,2019,11,"2,706",209851,996,87.3,183188,Melbourne - Perth,11,Metropolitian
-1-Dec-19,MEL,PER,2019,12,"2,706",218593,"1,050",90.4,197540,Melbourne - Perth,12,Metropolitian
-1-Jan-20,MEL,PER,2020,1,"2,706",221328,"1,072",88.5,195966,Melbourne - Perth,13,Metropolitian
+1-Dec-19,MEL,PER,2019,12,"2,706",218593,1050,90.4,197540,Melbourne - Perth,12,Metropolitian
+1-Jan-20,MEL,PER,2020,1,"2,706",221328,1072,88.5,195966,Melbourne - Perth,13,Metropolitian
 1-Feb-20,MEL,PER,2020,2,"2,706",187680,927,82.3,154410,Melbourne - Perth,14,Metropolitian
 1-Mar-20,MEL,PER,2020,3,"2,706",179548,899,65.3,117238,Melbourne - Perth,15,Metropolitian
 1-Apr-20,MEL,PER,2020,4,"2,706",25246,216,24.3,6132,Melbourne - Perth,16,Metropolitian
@@ -1799,21 +1799,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,MEL,PER,2021,4,"2,706",107856,649,80.7,87023,Melbourne - Perth,28,Metropolitian
 1-May-21,MEL,PER,2021,5,"2,706",107197,669,60.6,64943,Melbourne - Perth,29,Metropolitian
 1-Jun-21,MEL,PER,2021,6,"2,706",33050,265,26.5,8742,Melbourne - Perth,30,Metropolitian
-1-Jan-19,MEL,SYD,2019,1,706,879817,"4,892",85.6,753124,Melbourne - Sydney,1,Metropolitian
-1-Feb-19,MEL,SYD,2019,2,706,864591,"4,850",86.1,744375,Melbourne - Sydney,2,Metropolitian
-1-Mar-19,MEL,SYD,2019,3,706,953956,"5,296",85.6,816417,Melbourne - Sydney,3,Metropolitian
-1-Apr-19,MEL,SYD,2019,4,706,880797,"4,938",84.3,741922,Melbourne - Sydney,4,Metropolitian
-1-May-19,MEL,SYD,2019,5,706,931863,"5,218",82.4,768109,Melbourne - Sydney,5,Metropolitian
-1-Jun-19,MEL,SYD,2019,6,706,858963,"4,811",81.7,701648,Melbourne - Sydney,6,Metropolitian
-1-Jul-19,MEL,SYD,2019,7,706,908641,"5,136",83.5,758311,Melbourne - Sydney,7,Metropolitian
-1-Aug-19,MEL,SYD,2019,8,706,899293,"5,048",85.6,769529,Melbourne - Sydney,8,Metropolitian
-1-Sep-19,MEL,SYD,2019,9,706,885572,"4,976",84.4,747723,Melbourne - Sydney,9,Metropolitian
-1-Oct-19,MEL,SYD,2019,10,706,957031,"5,397",86.1,823951,Melbourne - Sydney,10,Metropolitian
-1-Nov-19,MEL,SYD,2019,11,706,894358,"5,005",89.5,800100,Melbourne - Sydney,11,Metropolitian
-1-Dec-19,MEL,SYD,2019,12,706,860602,"4,857",87.9,756723,Melbourne - Sydney,12,Metropolitian
-1-Jan-20,MEL,SYD,2020,1,706,863423,"4,869",86.1,742835,Melbourne - Sydney,13,Metropolitian
-1-Feb-20,MEL,SYD,2020,2,706,827819,"4,677",83.6,691944,Melbourne - Sydney,14,Metropolitian
-1-Mar-20,MEL,SYD,2020,3,706,650185,"3,726",64.1,416263,Melbourne - Sydney,15,Metropolitian
+1-Jan-19,MEL,SYD,2019,1,706,879817,4892,85.6,753124,Melbourne - Sydney,1,Metropolitian
+1-Feb-19,MEL,SYD,2019,2,706,864591,4850,86.1,744375,Melbourne - Sydney,2,Metropolitian
+1-Mar-19,MEL,SYD,2019,3,706,953956,5296,85.6,816417,Melbourne - Sydney,3,Metropolitian
+1-Apr-19,MEL,SYD,2019,4,706,880797,4938,84.3,741922,Melbourne - Sydney,4,Metropolitian
+1-May-19,MEL,SYD,2019,5,706,931863,5218,82.4,768109,Melbourne - Sydney,5,Metropolitian
+1-Jun-19,MEL,SYD,2019,6,706,858963,4811,81.7,701648,Melbourne - Sydney,6,Metropolitian
+1-Jul-19,MEL,SYD,2019,7,706,908641,5136,83.5,758311,Melbourne - Sydney,7,Metropolitian
+1-Aug-19,MEL,SYD,2019,8,706,899293,5048,85.6,769529,Melbourne - Sydney,8,Metropolitian
+1-Sep-19,MEL,SYD,2019,9,706,885572,4976,84.4,747723,Melbourne - Sydney,9,Metropolitian
+1-Oct-19,MEL,SYD,2019,10,706,957031,5397,86.1,823951,Melbourne - Sydney,10,Metropolitian
+1-Nov-19,MEL,SYD,2019,11,706,894358,5005,89.5,800100,Melbourne - Sydney,11,Metropolitian
+1-Dec-19,MEL,SYD,2019,12,706,860602,4857,87.9,756723,Melbourne - Sydney,12,Metropolitian
+1-Jan-20,MEL,SYD,2020,1,706,863423,4869,86.1,742835,Melbourne - Sydney,13,Metropolitian
+1-Feb-20,MEL,SYD,2020,2,706,827819,4677,83.6,691944,Melbourne - Sydney,14,Metropolitian
+1-Mar-20,MEL,SYD,2020,3,706,650185,3726,64.1,416263,Melbourne - Sydney,15,Metropolitian
 1-Apr-20,MEL,SYD,2020,4,706,44585,439,38.3,17098,Melbourne - Sydney,16,Metropolitian
 1-May-20,MEL,SYD,2020,5,706,35266,377,53.9,18998,Melbourne - Sydney,17,Metropolitian
 1-Jun-20,MEL,SYD,2020,6,706,93352,707,63.5,59259,Melbourne - Sydney,18,Metropolitian
@@ -1822,13 +1822,13 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Sep-20,MEL,SYD,2020,9,706,28692,362,35.4,10155,Melbourne - Sydney,21,Metropolitian
 1-Oct-20,MEL,SYD,2020,10,706,27672,366,40.1,11089,Melbourne - Sydney,22,Metropolitian
 1-Nov-20,MEL,SYD,2020,11,706,92106,729,63.4,58399,Melbourne - Sydney,23,Metropolitian
-1-Dec-20,MEL,SYD,2020,12,706,310014,"1,910",59,182987,Melbourne - Sydney,24,Metropolitian
+1-Dec-20,MEL,SYD,2020,12,706,310014,1910,59,182987,Melbourne - Sydney,24,Metropolitian
 1-Jan-21,MEL,SYD,2021,1,706,77599,633,43.1,33428,Melbourne - Sydney,25,Metropolitian
-1-Feb-21,MEL,SYD,2021,2,706,220937,"1,436",59.7,132147,Melbourne - Sydney,26,Metropolitian
-1-Mar-21,MEL,SYD,2021,3,706,540077,"3,276",63.1,341253,Melbourne - Sydney,27,Metropolitian
-1-Apr-21,MEL,SYD,2021,4,706,652850,"3,777",71,463253,Melbourne - Sydney,28,Metropolitian
-1-May-21,MEL,SYD,2021,5,706,616959,"3,613",61.4,378734,Melbourne - Sydney,29,Metropolitian
-1-Jun-21,MEL,SYD,2021,6,706,179126,"1,204",42.3,75800,Melbourne - Sydney,30,Metropolitian
+1-Feb-21,MEL,SYD,2021,2,706,220937,1436,59.7,132147,Melbourne - Sydney,26,Metropolitian
+1-Mar-21,MEL,SYD,2021,3,706,540077,3276,63.1,341253,Melbourne - Sydney,27,Metropolitian
+1-Apr-21,MEL,SYD,2021,4,706,652850,3777,71,463253,Melbourne - Sydney,28,Metropolitian
+1-May-21,MEL,SYD,2021,5,706,616959,3613,61.4,378734,Melbourne - Sydney,29,Metropolitian
+1-Jun-21,MEL,SYD,2021,6,706,179126,1204,42.3,75800,Melbourne - Sydney,30,Metropolitian
 1-Jan-19,MEL,TSV,2019,1,"2,055",,,,,Melbourne - Townsville,1,Regional
 1-Feb-19,MEL,TSV,2019,2,"2,055",,,,,Melbourne - Townsville,2,Regional
 1-Mar-19,MEL,TSV,2019,3,"2,055",,,,,Melbourne - Townsville,3,Regional
@@ -1859,21 +1859,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,MEL,TSV,2021,4,"2,055",,,,,Melbourne - Townsville,28,Regional
 1-May-21,MEL,TSV,2021,5,"2,055",,,,,Melbourne - Townsville,29,Regional
 1-Jun-21,MEL,TSV,2021,6,"2,055",,,,,Melbourne - Townsville,30,Regional
-1-Jan-19,OOL,SYD,2019,1,680,289050,"1,609",91.7,264968,Gold Coast - Sydney,1,Metropolitian
-1-Feb-19,OOL,SYD,2019,2,680,223365,"1,262",90.5,202044,Gold Coast - Sydney,2,Metropolitian
-1-Mar-19,OOL,SYD,2019,3,680,248603,"1,408",87.5,217522,Gold Coast - Sydney,3,Metropolitian
-1-Apr-19,OOL,SYD,2019,4,680,270929,"1,578",84,227621,Gold Coast - Sydney,4,Metropolitian
-1-May-19,OOL,SYD,2019,5,680,254546,"1,478",81.1,206393,Gold Coast - Sydney,5,Metropolitian
-1-Jun-19,OOL,SYD,2019,6,680,248226,"1,440",79.9,198319,Gold Coast - Sydney,6,Metropolitian
-1-Jul-19,OOL,SYD,2019,7,680,273339,"1,587",86.1,235419,Gold Coast - Sydney,7,Metropolitian
-1-Aug-19,OOL,SYD,2019,8,680,252638,"1,463",86,217246,Gold Coast - Sydney,8,Metropolitian
-1-Sep-19,OOL,SYD,2019,9,680,264017,"1,528",86.2,227457,Gold Coast - Sydney,9,Metropolitian
-1-Oct-19,OOL,SYD,2019,10,680,278085,"1,591",91.8,255206,Gold Coast - Sydney,10,Metropolitian
-1-Nov-19,OOL,SYD,2019,11,680,255704,"1,456",91.2,233161,Gold Coast - Sydney,11,Metropolitian
-1-Dec-19,OOL,SYD,2019,12,680,281083,"1,570",88.1,247753,Gold Coast - Sydney,12,Metropolitian
-1-Jan-20,OOL,SYD,2020,1,680,303456,"1,696",90.8,275559,Gold Coast - Sydney,13,Metropolitian
-1-Feb-20,OOL,SYD,2020,2,680,233317,"1,329",84.5,197130,Gold Coast - Sydney,14,Metropolitian
-1-Mar-20,OOL,SYD,2020,3,680,185151,"1,066",70.7,130820,Gold Coast - Sydney,15,Metropolitian
+1-Jan-19,OOL,SYD,2019,1,680,289050,1609,91.7,264968,Gold Coast - Sydney,1,Metropolitian
+1-Feb-19,OOL,SYD,2019,2,680,223365,1262,90.5,202044,Gold Coast - Sydney,2,Metropolitian
+1-Mar-19,OOL,SYD,2019,3,680,248603,1408,87.5,217522,Gold Coast - Sydney,3,Metropolitian
+1-Apr-19,OOL,SYD,2019,4,680,270929,1578,84,227621,Gold Coast - Sydney,4,Metropolitian
+1-May-19,OOL,SYD,2019,5,680,254546,1478,81.1,206393,Gold Coast - Sydney,5,Metropolitian
+1-Jun-19,OOL,SYD,2019,6,680,248226,1440,79.9,198319,Gold Coast - Sydney,6,Metropolitian
+1-Jul-19,OOL,SYD,2019,7,680,273339,1587,86.1,235419,Gold Coast - Sydney,7,Metropolitian
+1-Aug-19,OOL,SYD,2019,8,680,252638,1463,86,217246,Gold Coast - Sydney,8,Metropolitian
+1-Sep-19,OOL,SYD,2019,9,680,264017,1528,86.2,227457,Gold Coast - Sydney,9,Metropolitian
+1-Oct-19,OOL,SYD,2019,10,680,278085,1591,91.8,255206,Gold Coast - Sydney,10,Metropolitian
+1-Nov-19,OOL,SYD,2019,11,680,255704,1456,91.2,233161,Gold Coast - Sydney,11,Metropolitian
+1-Dec-19,OOL,SYD,2019,12,680,281083,1570,88.1,247753,Gold Coast - Sydney,12,Metropolitian
+1-Jan-20,OOL,SYD,2020,1,680,303456,1696,90.8,275559,Gold Coast - Sydney,13,Metropolitian
+1-Feb-20,OOL,SYD,2020,2,680,233317,1329,84.5,197130,Gold Coast - Sydney,14,Metropolitian
+1-Mar-20,OOL,SYD,2020,3,680,185151,1066,70.7,130820,Gold Coast - Sydney,15,Metropolitian
 1-Apr-20,OOL,SYD,2020,4,680,7695,44,19.7,1518,Gold Coast - Sydney,16,Metropolitian
 1-May-20,OOL,SYD,2020,5,680,,,,,Gold Coast - Sydney,17,Metropolitian
 1-Jun-20,OOL,SYD,2020,6,680,7824,44,65,5089,Gold Coast - Sydney,18,Metropolitian
@@ -1886,9 +1886,9 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-21,OOL,SYD,2021,1,680,,,,,Gold Coast - Sydney,25,Metropolitian
 1-Feb-21,OOL,SYD,2021,2,680,82362,482,82.7,68124,Gold Coast - Sydney,26,Metropolitian
 1-Mar-21,OOL,SYD,2021,3,680,154258,880,77.9,120133,Gold Coast - Sydney,27,Metropolitian
-1-Apr-21,OOL,SYD,2021,4,680,255825,"1,446",70.5,180435,Gold Coast - Sydney,28,Metropolitian
-1-May-21,OOL,SYD,2021,5,680,224915,"1,266",73.3,164919,Gold Coast - Sydney,29,Metropolitian
-1-Jun-21,OOL,SYD,2021,6,680,198362,"1,134",67.5,133984,Gold Coast - Sydney,30,Metropolitian
+1-Apr-21,OOL,SYD,2021,4,680,255825,1446,70.5,180435,Gold Coast - Sydney,28,Metropolitian
+1-May-21,OOL,SYD,2021,5,680,224915,1266,73.3,164919,Gold Coast - Sydney,29,Metropolitian
+1-Jun-21,OOL,SYD,2021,6,680,198362,1134,67.5,133984,Gold Coast - Sydney,30,Metropolitian
 1-Jan-19,PER,PHE,2019,1,"1,312",48296,368,62.9,30397,Perth - Port Hedland,1,Regional
 1-Feb-19,PER,PHE,2019,2,"1,312",44338,339,62.7,27815,Perth - Port Hedland,2,Regional
 1-Mar-19,PER,PHE,2019,3,"1,312",44615,345,61.6,27484,Perth - Port Hedland,3,Regional
