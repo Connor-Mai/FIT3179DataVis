@@ -16,15 +16,15 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Mar-20,ABX,SYD,2020,3,452,23069,435,52.6,12140,Albury - Sydney,15,Regional
 1-Apr-20,ABX,SYD,2020,4,452,1942,41,16.2,314,Albury - Sydney,16,Regional
 1-May-20,ABX,SYD,2020,5,452,1756,33,23.7,416,Albury - Sydney,17,Regional
-1-Jun-20,ABX,SYD,2020,6,452,,,,,Albury - Sydney,18,Regional
-1-Jul-20,ABX,SYD,2020,7,452,,,,,Albury - Sydney,19,Regional
-1-Aug-20,ABX,SYD,2020,8,452,,,,,Albury - Sydney,20,Regional
-1-Sep-20,ABX,SYD,2020,9,452,,,,,Albury - Sydney,21,Regional
-1-Oct-20,ABX,SYD,2020,10,452,,,,,Albury - Sydney,22,Regional
-1-Nov-20,ABX,SYD,2020,11,452,,,,,Albury - Sydney,23,Regional
-1-Dec-20,ABX,SYD,2020,12,452,,,,,Albury - Sydney,24,Regional
-1-Jan-21,ABX,SYD,2021,1,452,,,,,Albury - Sydney,25,Regional
-1-Feb-21,ABX,SYD,2021,2,452,,,,,Albury - Sydney,26,Regional
+1-Jun-20,ABX,SYD,2020,6,452,0,0,0,0,Albury - Sydney,18,Regional
+1-Jul-20,ABX,SYD,2020,7,452,0,0,0,0,Albury - Sydney,19,Regional
+1-Aug-20,ABX,SYD,2020,8,452,0,0,0,0,Albury - Sydney,20,Regional
+1-Sep-20,ABX,SYD,2020,9,452,0,0,0,0,Albury - Sydney,21,Regional
+1-Oct-20,ABX,SYD,2020,10,452,0,0,0,0,Albury - Sydney,22,Regional
+1-Nov-20,ABX,SYD,2020,11,452,0,0,0,0,Albury - Sydney,23,Regional
+1-Dec-20,ABX,SYD,2020,12,452,0,0,0,0,Albury - Sydney,24,Regional
+1-Jan-21,ABX,SYD,2021,1,452,0,0,0,0,Albury - Sydney,25,Regional
+1-Feb-21,ABX,SYD,2021,2,452,0,0,0,0,Albury - Sydney,26,Regional
 1-Mar-21,ABX,SYD,2021,3,452,16974,291,58.2,9871,Albury - Sydney,27,Regional
 1-Apr-21,ABX,SYD,2021,4,452,19310,315,55.1,10648,Albury - Sydney,28,Regional
 1-May-21,ABX,SYD,2021,5,452,19540,322,58.9,11507,Albury - Sydney,29,Regional
@@ -44,17 +44,17 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,ADL,ASP,2020,1,"1,316",13933,113,61.9,8618,Adelaide - Alice Springs,13,Regional
 1-Feb-20,ADL,ASP,2020,2,"1,316",14888,114,57.1,8505,Adelaide - Alice Springs,14,Regional
 1-Mar-20,ADL,ASP,2020,3,"1,316",15493,114,46.2,7152,Adelaide - Alice Springs,15,Regional
-1-Apr-20,ADL,ASP,2020,4,"1,316",,,,,Adelaide - Alice Springs,16,Regional
-1-May-20,ADL,ASP,2020,5,"1,316",,,,,Adelaide - Alice Springs,17,Regional
-1-Jun-20,ADL,ASP,2020,6,"1,316",,,,,Adelaide - Alice Springs,18,Regional
-1-Jul-20,ADL,ASP,2020,7,"1,316",,,,,Adelaide - Alice Springs,19,Regional
-1-Aug-20,ADL,ASP,2020,8,"1,316",,,,,Adelaide - Alice Springs,20,Regional
-1-Sep-20,ADL,ASP,2020,9,"1,316",,,,,Adelaide - Alice Springs,21,Regional
+1-Apr-20,ADL,ASP,2020,4,"1,316",0,0,0,0,Adelaide - Alice Springs,16,Regional
+1-May-20,ADL,ASP,2020,5,"1,316",0,0,0,0,Adelaide - Alice Springs,17,Regional
+1-Jun-20,ADL,ASP,2020,6,"1,316",0,0,0,0,Adelaide - Alice Springs,18,Regional
+1-Jul-20,ADL,ASP,2020,7,"1,316",0,0,0,0,Adelaide - Alice Springs,19,Regional
+1-Aug-20,ADL,ASP,2020,8,"1,316",0,0,0,0,Adelaide - Alice Springs,20,Regional
+1-Sep-20,ADL,ASP,2020,9,"1,316",0,0,0,0,Adelaide - Alice Springs,21,Regional
 1-Oct-20,ADL,ASP,2020,10,"1,316",15137,129,62,9390,Adelaide - Alice Springs,22,Regional
-1-Nov-20,ADL,ASP,2020,11,"1,316",,,,,Adelaide - Alice Springs,23,Regional
-1-Dec-20,ADL,ASP,2020,12,"1,316",,,,,Adelaide - Alice Springs,24,Regional
+1-Nov-20,ADL,ASP,2020,11,"1,316",0,0,0,0,Adelaide - Alice Springs,23,Regional
+1-Dec-20,ADL,ASP,2020,12,"1,316",0,0,0,0,Adelaide - Alice Springs,24,Regional
 1-Jan-21,ADL,ASP,2021,1,"1,316",15295,126,56.3,8618,Adelaide - Alice Springs,25,Regional
-1-Feb-21,ADL,ASP,2021,2,"1,316",,,,,Adelaide - Alice Springs,26,Regional
+1-Feb-21,ADL,ASP,2021,2,"1,316",0,0,0,0,Adelaide - Alice Springs,26,Regional
 1-Mar-21,ADL,ASP,2021,3,"1,316",16666,140,59.1,9846,Adelaide - Alice Springs,27,Regional
 1-Apr-21,ADL,ASP,2021,4,"1,316",14932,124,63.5,9479,Adelaide - Alice Springs,28,Regional
 1-May-21,ADL,ASP,2021,5,"1,316",15076,135,60.7,9156,Adelaide - Alice Springs,29,Regional
@@ -74,9 +74,9 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,ADL,BNE,2020,1,"1,622",95376,545,78.8,75173,Adelaide - Brisbane,13,Metropolitian
 1-Feb-20,ADL,BNE,2020,2,"1,622",86329,496,70.3,60687,Adelaide - Brisbane,14,Metropolitian
 1-Mar-20,ADL,BNE,2020,3,"1,622",72908,422,62.3,45456,Adelaide - Brisbane,15,Metropolitian
-1-Apr-20,ADL,BNE,2020,4,"1,622",,,,,Adelaide - Brisbane,16,Metropolitian
-1-May-20,ADL,BNE,2020,5,"1,622",,,,,Adelaide - Brisbane,17,Metropolitian
-1-Jun-20,ADL,BNE,2020,6,"1,622",,,,,Adelaide - Brisbane,18,Metropolitian
+1-Apr-20,ADL,BNE,2020,4,"1,622",0,0,0,0,Adelaide - Brisbane,16,Metropolitian
+1-May-20,ADL,BNE,2020,5,"1,622",0,0,0,0,Adelaide - Brisbane,17,Metropolitian
+1-Jun-20,ADL,BNE,2020,6,"1,622",0,0,0,0,Adelaide - Brisbane,18,Metropolitian
 1-Jul-20,ADL,BNE,2020,7,"1,622",21049,140,86.6,18226,Adelaide - Brisbane,19,Metropolitian
 1-Aug-20,ADL,BNE,2020,8,"1,622",44924,270,60.6,27220,Adelaide - Brisbane,20,Metropolitian
 1-Sep-20,ADL,BNE,2020,9,"1,622",40559,244,71.6,29020,Adelaide - Brisbane,21,Metropolitian
@@ -104,14 +104,14 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,ADL,CBR,2020,1,972,19888,120,61.8,12283,Adelaide - Canberra,13,Metropolitian
 1-Feb-20,ADL,CBR,2020,2,972,22928,138,63.8,14618,Adelaide - Canberra,14,Metropolitian
 1-Mar-20,ADL,CBR,2020,3,972,20327,123,49.9,10147,Adelaide - Canberra,15,Metropolitian
-1-Apr-20,ADL,CBR,2020,4,972,,,,,Adelaide - Canberra,16,Metropolitian
-1-May-20,ADL,CBR,2020,5,972,,,,,Adelaide - Canberra,17,Metropolitian
-1-Jun-20,ADL,CBR,2020,6,972,,,,,Adelaide - Canberra,18,Metropolitian
-1-Jul-20,ADL,CBR,2020,7,972,,,,,Adelaide - Canberra,19,Metropolitian
-1-Aug-20,ADL,CBR,2020,8,972,,,,,Adelaide - Canberra,20,Metropolitian
-1-Sep-20,ADL,CBR,2020,9,972,,,,,Adelaide - Canberra,21,Metropolitian
+1-Apr-20,ADL,CBR,2020,4,972,0,0,0,0,Adelaide - Canberra,16,Metropolitian
+1-May-20,ADL,CBR,2020,5,972,0,0,0,0,Adelaide - Canberra,17,Metropolitian
+1-Jun-20,ADL,CBR,2020,6,972,0,0,0,0,Adelaide - Canberra,18,Metropolitian
+1-Jul-20,ADL,CBR,2020,7,972,0,0,0,0,Adelaide - Canberra,19,Metropolitian
+1-Aug-20,ADL,CBR,2020,8,972,0,0,0,0,Adelaide - Canberra,20,Metropolitian
+1-Sep-20,ADL,CBR,2020,9,972,0,0,0,0,Adelaide - Canberra,21,Metropolitian
 1-Oct-20,ADL,CBR,2020,10,972,14979,96,64.1,9597,Adelaide - Canberra,22,Metropolitian
-1-Nov-20,ADL,CBR,2020,11,972,,,,,Adelaide - Canberra,23,Metropolitian
+1-Nov-20,ADL,CBR,2020,11,972,0,0,0,0,Adelaide - Canberra,23,Metropolitian
 1-Dec-20,ADL,CBR,2020,12,972,15364,98,61.3,9412,Adelaide - Canberra,24,Metropolitian
 1-Jan-21,ADL,CBR,2021,1,972,19412,120,48.9,9483,Adelaide - Canberra,25,Metropolitian
 1-Feb-21,ADL,CBR,2021,2,972,14460,90,64.3,9294,Adelaide - Canberra,26,Metropolitian
@@ -138,10 +138,10 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-May-20,ADL,MEL,2020,5,643,16108,192,38.3,6165,Adelaide - Melbourne,17,Metropolitian
 1-Jun-20,ADL,MEL,2020,6,643,16432,192,45.1,7413,Adelaide - Melbourne,18,Metropolitian
 1-Jul-20,ADL,MEL,2020,7,643,18710,215,22.1,4137,Adelaide - Melbourne,19,Metropolitian
-1-Aug-20,ADL,MEL,2020,8,643,,,,,Adelaide - Melbourne,20,Metropolitian
-1-Sep-20,ADL,MEL,2020,9,643,,,,,Adelaide - Melbourne,21,Metropolitian
-1-Oct-20,ADL,MEL,2020,10,643,,,,,Adelaide - Melbourne,22,Metropolitian
-1-Nov-20,ADL,MEL,2020,11,643,,,,,Adelaide - Melbourne,23,Metropolitian
+1-Aug-20,ADL,MEL,2020,8,643,0,0,0,0,Adelaide - Melbourne,20,Metropolitian
+1-Sep-20,ADL,MEL,2020,9,643,0,0,0,0,Adelaide - Melbourne,21,Metropolitian
+1-Oct-20,ADL,MEL,2020,10,643,0,0,0,0,Adelaide - Melbourne,22,Metropolitian
+1-Nov-20,ADL,MEL,2020,11,643,0,0,0,0,Adelaide - Melbourne,23,Metropolitian
 1-Dec-20,ADL,MEL,2020,12,643,88824,605,70.5,62656,Adelaide - Melbourne,24,Metropolitian
 1-Jan-21,ADL,MEL,2021,1,643,102228,658,70.1,71642,Adelaide - Melbourne,25,Metropolitian
 1-Feb-21,ADL,MEL,2021,2,643,64999,459,44.7,29080,Adelaide - Melbourne,26,Metropolitian
@@ -164,12 +164,12 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,ADL,OOL,2020,1,"1,607",22840,128,86.3,19708,Adelaide - Gold Coast,13,Metropolitian
 1-Feb-20,ADL,OOL,2020,2,"1,607",19410,109,83.4,16186,Adelaide - Gold Coast,14,Metropolitian
 1-Mar-20,ADL,OOL,2020,3,"1,607",16338,91,71.2,11638,Adelaide - Gold Coast,15,Metropolitian
-1-Apr-20,ADL,OOL,2020,4,"1,607",,,,,Adelaide - Gold Coast,16,Metropolitian
-1-May-20,ADL,OOL,2020,5,"1,607",,,,,Adelaide - Gold Coast,17,Metropolitian
-1-Jun-20,ADL,OOL,2020,6,"1,607",,,,,Adelaide - Gold Coast,18,Metropolitian
-1-Jul-20,ADL,OOL,2020,7,"1,607",,,,,Adelaide - Gold Coast,19,Metropolitian
-1-Aug-20,ADL,OOL,2020,8,"1,607",,,,,Adelaide - Gold Coast,20,Metropolitian
-1-Sep-20,ADL,OOL,2020,9,"1,607",,,,,Adelaide - Gold Coast,21,Metropolitian
+1-Apr-20,ADL,OOL,2020,4,"1,607",0,0,0,0,Adelaide - Gold Coast,16,Metropolitian
+1-May-20,ADL,OOL,2020,5,"1,607",0,0,0,0,Adelaide - Gold Coast,17,Metropolitian
+1-Jun-20,ADL,OOL,2020,6,"1,607",0,0,0,0,Adelaide - Gold Coast,18,Metropolitian
+1-Jul-20,ADL,OOL,2020,7,"1,607",0,0,0,0,Adelaide - Gold Coast,19,Metropolitian
+1-Aug-20,ADL,OOL,2020,8,"1,607",0,0,0,0,Adelaide - Gold Coast,20,Metropolitian
+1-Sep-20,ADL,OOL,2020,9,"1,607",0,0,0,0,Adelaide - Gold Coast,21,Metropolitian
 1-Oct-20,ADL,OOL,2020,10,"1,607",11252,62,86.6,9744,Adelaide - Gold Coast,22,Metropolitian
 1-Nov-20,ADL,OOL,2020,11,"1,607",,54,,,Adelaide - Gold Coast,23,Metropolitian
 1-Dec-20,ADL,OOL,2020,12,"1,607",16540,92,63.1,10434,Adelaide - Gold Coast,24,Metropolitian
@@ -195,13 +195,13 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,ADL,PER,2020,2,"2,120",64979,425,75.1,48805,Adelaide - Perth,14,Metropolitian
 1-Mar-20,ADL,PER,2020,3,"2,120",56845,380,62.1,35323,Adelaide - Perth,15,Metropolitian
 1-Apr-20,ADL,PER,2020,4,"2,120",3132,50,20.8,653,Adelaide - Perth,16,Metropolitian
-1-May-20,ADL,PER,2020,5,"2,120",,,,,Adelaide - Perth,17,Metropolitian
-1-Jun-20,ADL,PER,2020,6,"2,120",,,,,Adelaide - Perth,18,Metropolitian
-1-Jul-20,ADL,PER,2020,7,"2,120",,,,,Adelaide - Perth,19,Metropolitian
-1-Aug-20,ADL,PER,2020,8,"2,120",,,,,Adelaide - Perth,20,Metropolitian
-1-Sep-20,ADL,PER,2020,9,"2,120",,,,,Adelaide - Perth,21,Metropolitian
-1-Oct-20,ADL,PER,2020,10,"2,120",,,,,Adelaide - Perth,22,Metropolitian
-1-Nov-20,ADL,PER,2020,11,"2,120",,,,,Adelaide - Perth,23,Metropolitian
+1-May-20,ADL,PER,2020,5,"2,120",0,0,0,0,Adelaide - Perth,17,Metropolitian
+1-Jun-20,ADL,PER,2020,6,"2,120",0,0,0,0,Adelaide - Perth,18,Metropolitian
+1-Jul-20,ADL,PER,2020,7,"2,120",0,0,0,0,Adelaide - Perth,19,Metropolitian
+1-Aug-20,ADL,PER,2020,8,"2,120",0,0,0,0,Adelaide - Perth,20,Metropolitian
+1-Sep-20,ADL,PER,2020,9,"2,120",0,0,0,0,Adelaide - Perth,21,Metropolitian
+1-Oct-20,ADL,PER,2020,10,"2,120",0,0,0,0,Adelaide - Perth,22,Metropolitian
+1-Nov-20,ADL,PER,2020,11,"2,120",0,0,0,0,Adelaide - Perth,23,Metropolitian
 1-Dec-20,ADL,PER,2020,12,"2,120",18608,155,44.1,8215,Adelaide - Perth,24,Metropolitian
 1-Jan-21,ADL,PER,2021,1,"2,120",38783,248,68.6,26597,Adelaide - Perth,25,Metropolitian
 1-Feb-21,ADL,PER,2021,2,"2,120",33303,218,48.1,16029,Adelaide - Perth,26,Metropolitian
@@ -226,12 +226,12 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Mar-20,ADL,PLO,2020,3,246,19216,500,58.2,11183,Adelaide - Port Lincoln,15,Regional
 1-Apr-20,ADL,PLO,2020,4,246,2060,52,27.4,564,Adelaide - Port Lincoln,16,Regional
 1-May-20,ADL,PLO,2020,5,246,1560,38,59,920,Adelaide - Port Lincoln,17,Regional
-1-Jun-20,ADL,PLO,2020,6,246,,,,,Adelaide - Port Lincoln,18,Regional
-1-Jul-20,ADL,PLO,2020,7,246,,,,,Adelaide - Port Lincoln,19,Regional
-1-Aug-20,ADL,PLO,2020,8,246,,,,,Adelaide - Port Lincoln,20,Regional
-1-Sep-20,ADL,PLO,2020,9,246,,,,,Adelaide - Port Lincoln,21,Regional
+1-Jun-20,ADL,PLO,2020,6,246,0,0,0,0,Adelaide - Port Lincoln,18,Regional
+1-Jul-20,ADL,PLO,2020,7,246,0,0,0,0,Adelaide - Port Lincoln,19,Regional
+1-Aug-20,ADL,PLO,2020,8,246,0,0,0,0,Adelaide - Port Lincoln,20,Regional
+1-Sep-20,ADL,PLO,2020,9,246,0,0,0,0,Adelaide - Port Lincoln,21,Regional
 1-Oct-20,ADL,PLO,2020,10,246,10993,293,83.1,9137,Adelaide - Port Lincoln,22,Regional
-1-Nov-20,ADL,PLO,2020,11,246,,,,,Adelaide - Port Lincoln,23,Regional
+1-Nov-20,ADL,PLO,2020,11,246,0,0,0,0,Adelaide - Port Lincoln,23,Regional
 1-Dec-20,ADL,PLO,2020,12,246,13749,346,67.5,9286,Adelaide - Port Lincoln,24,Regional
 1-Jan-21,ADL,PLO,2021,1,246,13307,330,74.3,9882,Adelaide - Port Lincoln,25,Regional
 1-Feb-21,ADL,PLO,2021,2,246,13474,336,75.2,10130,Adelaide - Port Lincoln,26,Regional
@@ -255,8 +255,8 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,ADL,SYD,2020,2,"1,167",173652,"1,022",79.5,138027,Adelaide - Sydney,14,Metropolitian
 1-Mar-20,ADL,SYD,2020,3,"1,167",151952,902,65.3,99202,Adelaide - Sydney,15,Metropolitian
 1-Apr-20,ADL,SYD,2020,4,"1,167",12894,116,20.8,2687,Adelaide - Sydney,16,Metropolitian
-1-May-20,ADL,SYD,2020,5,"1,167",,,,,Adelaide - Sydney,17,Metropolitian
-1-Jun-20,ADL,SYD,2020,6,"1,167",,,,,Adelaide - Sydney,18,Metropolitian
+1-May-20,ADL,SYD,2020,5,"1,167",0,0,0,0,Adelaide - Sydney,17,Metropolitian
+1-Jun-20,ADL,SYD,2020,6,"1,167",0,0,0,0,Adelaide - Sydney,18,Metropolitian
 1-Jul-20,ADL,SYD,2020,7,"1,167",14764,134,62.9,9282,Adelaide - Sydney,19,Metropolitian
 1-Aug-20,ADL,SYD,2020,8,"1,167",13456,130,37.8,5082,Adelaide - Sydney,20,Metropolitian
 1-Sep-20,ADL,SYD,2020,9,"1,167",17461,150,59.1,10315,Adelaide - Sydney,21,Metropolitian
@@ -284,21 +284,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,ARM,SYD,2020,1,382,12292,285,65.6,8069,Armidale - Sydney,13,Regional
 1-Feb-20,ARM,SYD,2020,2,382,13936,335,63.4,8830,Armidale - Sydney,14,Regional
 1-Mar-20,ARM,SYD,2020,3,382,12310,296,45.3,5573,Armidale - Sydney,15,Regional
-1-Apr-20,ARM,SYD,2020,4,382,,,,,Armidale - Sydney,16,Regional
-1-May-20,ARM,SYD,2020,5,382,,,,,Armidale - Sydney,17,Regional
-1-Jun-20,ARM,SYD,2020,6,382,,,,,Armidale - Sydney,18,Regional
-1-Jul-20,ARM,SYD,2020,7,382,,,,,Armidale - Sydney,19,Regional
-1-Aug-20,ARM,SYD,2020,8,382,,,,,Armidale - Sydney,20,Regional
-1-Sep-20,ARM,SYD,2020,9,382,,,,,Armidale - Sydney,21,Regional
-1-Oct-20,ARM,SYD,2020,10,382,,,,,Armidale - Sydney,22,Regional
-1-Nov-20,ARM,SYD,2020,11,382,,,,,Armidale - Sydney,23,Regional
-1-Dec-20,ARM,SYD,2020,12,382,,,,,Armidale - Sydney,24,Regional
-1-Jan-21,ARM,SYD,2021,1,382,,,,,Armidale - Sydney,25,Regional
-1-Feb-21,ARM,SYD,2021,2,382,,,,,Armidale - Sydney,26,Regional
-1-Mar-21,ARM,SYD,2021,3,382,,,,,Armidale - Sydney,27,Regional
-1-Apr-21,ARM,SYD,2021,4,382,,,,,Armidale - Sydney,28,Regional
-1-May-21,ARM,SYD,2021,5,382,,,,,Armidale - Sydney,29,Regional
-1-Jun-21,ARM,SYD,2021,6,382,,,,,Armidale - Sydney,30,Regional
+1-Apr-20,ARM,SYD,2020,4,382,0,0,0,0,Armidale - Sydney,16,Regional
+1-May-20,ARM,SYD,2020,5,382,0,0,0,0,Armidale - Sydney,17,Regional
+1-Jun-20,ARM,SYD,2020,6,382,0,0,0,0,Armidale - Sydney,18,Regional
+1-Jul-20,ARM,SYD,2020,7,382,0,0,0,0,Armidale - Sydney,19,Regional
+1-Aug-20,ARM,SYD,2020,8,382,0,0,0,0,Armidale - Sydney,20,Regional
+1-Sep-20,ARM,SYD,2020,9,382,0,0,0,0,Armidale - Sydney,21,Regional
+1-Oct-20,ARM,SYD,2020,10,382,0,0,0,0,Armidale - Sydney,22,Regional
+1-Nov-20,ARM,SYD,2020,11,382,0,0,0,0,Armidale - Sydney,23,Regional
+1-Dec-20,ARM,SYD,2020,12,382,0,0,0,0,Armidale - Sydney,24,Regional
+1-Jan-21,ARM,SYD,2021,1,382,0,0,0,0,Armidale - Sydney,25,Regional
+1-Feb-21,ARM,SYD,2021,2,382,0,0,0,0,Armidale - Sydney,26,Regional
+1-Mar-21,ARM,SYD,2021,3,382,0,0,0,0,Armidale - Sydney,27,Regional
+1-Apr-21,ARM,SYD,2021,4,382,0,0,0,0,Armidale - Sydney,28,Regional
+1-May-21,ARM,SYD,2021,5,382,0,0,0,0,Armidale - Sydney,29,Regional
+1-Jun-21,ARM,SYD,2021,6,382,0,0,0,0,Armidale - Sydney,30,Regional
 1-Jan-19,ASP,DRW,2019,1,"1,305",11443,99,44.5,5091,Alice Springs - Darwin,1,Regional
 1-Feb-19,ASP,DRW,2019,2,"1,305",14071,116,50.3,7075,Alice Springs - Darwin,2,Regional
 1-Mar-19,ASP,DRW,2019,3,"1,305",17770,137,48.2,8561,Alice Springs - Darwin,3,Regional
@@ -312,83 +312,83 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Nov-19,ASP,DRW,2019,11,"1,305",13542,137,62.7,8494,Alice Springs - Darwin,11,Regional
 1-Dec-19,ASP,DRW,2019,12,"1,305",9858,103,59.6,5874,Alice Springs - Darwin,12,Regional
 1-Jan-20,ASP,DRW,2020,1,"1,305",8522,88,55.5,4726,Alice Springs - Darwin,13,Regional
-1-Feb-20,ASP,DRW,2020,2,"1,305",,,,,Alice Springs - Darwin,14,Regional
-1-Mar-20,ASP,DRW,2020,3,"1,305",,,,,Alice Springs - Darwin,15,Regional
-1-Apr-20,ASP,DRW,2020,4,"1,305",,,,,Alice Springs - Darwin,16,Regional
-1-May-20,ASP,DRW,2020,5,"1,305",,,,,Alice Springs - Darwin,17,Regional
-1-Jun-20,ASP,DRW,2020,6,"1,305",,,,,Alice Springs - Darwin,18,Regional
-1-Jul-20,ASP,DRW,2020,7,"1,305",,,,,Alice Springs - Darwin,19,Regional
-1-Aug-20,ASP,DRW,2020,8,"1,305",,,,,Alice Springs - Darwin,20,Regional
-1-Sep-20,ASP,DRW,2020,9,"1,305",,,,,Alice Springs - Darwin,21,Regional
-1-Oct-20,ASP,DRW,2020,10,"1,305",,,,,Alice Springs - Darwin,22,Regional
-1-Nov-20,ASP,DRW,2020,11,"1,305",,,,,Alice Springs - Darwin,23,Regional
-1-Dec-20,ASP,DRW,2020,12,"1,305",,,,,Alice Springs - Darwin,24,Regional
-1-Jan-21,ASP,DRW,2021,1,"1,305",,,,,Alice Springs - Darwin,25,Regional
-1-Feb-21,ASP,DRW,2021,2,"1,305",,,,,Alice Springs - Darwin,26,Regional
-1-Mar-21,ASP,DRW,2021,3,"1,305",,,,,Alice Springs - Darwin,27,Regional
-1-Apr-21,ASP,DRW,2021,4,"1,305",,,,,Alice Springs - Darwin,28,Regional
-1-May-21,ASP,DRW,2021,5,"1,305",,,,,Alice Springs - Darwin,29,Regional
-1-Jun-21,ASP,DRW,2021,6,"1,305",,,,,Alice Springs - Darwin,30,Regional
-1-Jan-19,ASP,MEL,2019,1,"1,860",,,,,Alice Springs - Melbourne,1,Regional
-1-Feb-19,ASP,MEL,2019,2,"1,860",,,,,Alice Springs - Melbourne,2,Regional
-1-Mar-19,ASP,MEL,2019,3,"1,860",,,,,Alice Springs - Melbourne,3,Regional
-1-Apr-19,ASP,MEL,2019,4,"1,860",,,,,Alice Springs - Melbourne,4,Regional
-1-May-19,ASP,MEL,2019,5,"1,860",,,,,Alice Springs - Melbourne,5,Regional
-1-Jun-19,ASP,MEL,2019,6,"1,860",,,,,Alice Springs - Melbourne,6,Regional
-1-Jul-19,ASP,MEL,2019,7,"1,860",,,,,Alice Springs - Melbourne,7,Regional
-1-Aug-19,ASP,MEL,2019,8,"1,860",,,,,Alice Springs - Melbourne,8,Regional
-1-Sep-19,ASP,MEL,2019,9,"1,860",,,,,Alice Springs - Melbourne,9,Regional
-1-Oct-19,ASP,MEL,2019,10,"1,860",,,,,Alice Springs - Melbourne,10,Regional
-1-Nov-19,ASP,MEL,2019,11,"1,860",,,,,Alice Springs - Melbourne,11,Regional
-1-Dec-19,ASP,MEL,2019,12,"1,860",,,,,Alice Springs - Melbourne,12,Regional
-1-Jan-20,ASP,MEL,2020,1,"1,860",,,,,Alice Springs - Melbourne,13,Regional
-1-Feb-20,ASP,MEL,2020,2,"1,860",,,,,Alice Springs - Melbourne,14,Regional
-1-Mar-20,ASP,MEL,2020,3,"1,860",,,,,Alice Springs - Melbourne,15,Regional
-1-Apr-20,ASP,MEL,2020,4,"1,860",,,,,Alice Springs - Melbourne,16,Regional
-1-May-20,ASP,MEL,2020,5,"1,860",,,,,Alice Springs - Melbourne,17,Regional
-1-Jun-20,ASP,MEL,2020,6,"1,860",,,,,Alice Springs - Melbourne,18,Regional
-1-Jul-20,ASP,MEL,2020,7,"1,860",,,,,Alice Springs - Melbourne,19,Regional
-1-Aug-20,ASP,MEL,2020,8,"1,860",,,,,Alice Springs - Melbourne,20,Regional
-1-Sep-20,ASP,MEL,2020,9,"1,860",,,,,Alice Springs - Melbourne,21,Regional
-1-Oct-20,ASP,MEL,2020,10,"1,860",,,,,Alice Springs - Melbourne,22,Regional
-1-Nov-20,ASP,MEL,2020,11,"1,860",,,,,Alice Springs - Melbourne,23,Regional
-1-Dec-20,ASP,MEL,2020,12,"1,860",,,,,Alice Springs - Melbourne,24,Regional
-1-Jan-21,ASP,MEL,2021,1,"1,860",,,,,Alice Springs - Melbourne,25,Regional
-1-Feb-21,ASP,MEL,2021,2,"1,860",,,,,Alice Springs - Melbourne,26,Regional
-1-Mar-21,ASP,MEL,2021,3,"1,860",,,,,Alice Springs - Melbourne,27,Regional
-1-Apr-21,ASP,MEL,2021,4,"1,860",,,,,Alice Springs - Melbourne,28,Regional
-1-May-21,ASP,MEL,2021,5,"1,860",,,,,Alice Springs - Melbourne,29,Regional
-1-Jun-21,ASP,MEL,2021,6,"1,860",,,,,Alice Springs - Melbourne,30,Regional
-1-Jan-19,ASP,SYD,2019,1,"2,022",,,,,Alice Springs - Sydney,1,Regional
-1-Feb-19,ASP,SYD,2019,2,"2,022",,,,,Alice Springs - Sydney,2,Regional
-1-Mar-19,ASP,SYD,2019,3,"2,022",,,,,Alice Springs - Sydney,3,Regional
-1-Apr-19,ASP,SYD,2019,4,"2,022",,,,,Alice Springs - Sydney,4,Regional
-1-May-19,ASP,SYD,2019,5,"2,022",,,,,Alice Springs - Sydney,5,Regional
-1-Jun-19,ASP,SYD,2019,6,"2,022",,,,,Alice Springs - Sydney,6,Regional
-1-Jul-19,ASP,SYD,2019,7,"2,022",,,,,Alice Springs - Sydney,7,Regional
-1-Aug-19,ASP,SYD,2019,8,"2,022",,,,,Alice Springs - Sydney,8,Regional
-1-Sep-19,ASP,SYD,2019,9,"2,022",,,,,Alice Springs - Sydney,9,Regional
-1-Oct-19,ASP,SYD,2019,10,"2,022",,,,,Alice Springs - Sydney,10,Regional
-1-Nov-19,ASP,SYD,2019,11,"2,022",,,,,Alice Springs - Sydney,11,Regional
-1-Dec-19,ASP,SYD,2019,12,"2,022",,,,,Alice Springs - Sydney,12,Regional
-1-Jan-20,ASP,SYD,2020,1,"2,022",,,,,Alice Springs - Sydney,13,Regional
-1-Feb-20,ASP,SYD,2020,2,"2,022",,,,,Alice Springs - Sydney,14,Regional
-1-Mar-20,ASP,SYD,2020,3,"2,022",,,,,Alice Springs - Sydney,15,Regional
-1-Apr-20,ASP,SYD,2020,4,"2,022",,,,,Alice Springs - Sydney,16,Regional
-1-May-20,ASP,SYD,2020,5,"2,022",,,,,Alice Springs - Sydney,17,Regional
-1-Jun-20,ASP,SYD,2020,6,"2,022",,,,,Alice Springs - Sydney,18,Regional
-1-Jul-20,ASP,SYD,2020,7,"2,022",,,,,Alice Springs - Sydney,19,Regional
-1-Aug-20,ASP,SYD,2020,8,"2,022",,,,,Alice Springs - Sydney,20,Regional
-1-Sep-20,ASP,SYD,2020,9,"2,022",,,,,Alice Springs - Sydney,21,Regional
-1-Oct-20,ASP,SYD,2020,10,"2,022",,,,,Alice Springs - Sydney,22,Regional
-1-Nov-20,ASP,SYD,2020,11,"2,022",,,,,Alice Springs - Sydney,23,Regional
-1-Dec-20,ASP,SYD,2020,12,"2,022",,,,,Alice Springs - Sydney,24,Regional
-1-Jan-21,ASP,SYD,2021,1,"2,022",,,,,Alice Springs - Sydney,25,Regional
-1-Feb-21,ASP,SYD,2021,2,"2,022",,,,,Alice Springs - Sydney,26,Regional
-1-Mar-21,ASP,SYD,2021,3,"2,022",,,,,Alice Springs - Sydney,27,Regional
-1-Apr-21,ASP,SYD,2021,4,"2,022",,,,,Alice Springs - Sydney,28,Regional
-1-May-21,ASP,SYD,2021,5,"2,022",,,,,Alice Springs - Sydney,29,Regional
-1-Jun-21,ASP,SYD,2021,6,"2,022",,,,,Alice Springs - Sydney,30,Regional
+1-Feb-20,ASP,DRW,2020,2,"1,305",0,0,0,0,Alice Springs - Darwin,14,Regional
+1-Mar-20,ASP,DRW,2020,3,"1,305",0,0,0,0,Alice Springs - Darwin,15,Regional
+1-Apr-20,ASP,DRW,2020,4,"1,305",0,0,0,0,Alice Springs - Darwin,16,Regional
+1-May-20,ASP,DRW,2020,5,"1,305",0,0,0,0,Alice Springs - Darwin,17,Regional
+1-Jun-20,ASP,DRW,2020,6,"1,305",0,0,0,0,Alice Springs - Darwin,18,Regional
+1-Jul-20,ASP,DRW,2020,7,"1,305",0,0,0,0,Alice Springs - Darwin,19,Regional
+1-Aug-20,ASP,DRW,2020,8,"1,305",0,0,0,0,Alice Springs - Darwin,20,Regional
+1-Sep-20,ASP,DRW,2020,9,"1,305",0,0,0,0,Alice Springs - Darwin,21,Regional
+1-Oct-20,ASP,DRW,2020,10,"1,305",0,0,0,0,Alice Springs - Darwin,22,Regional
+1-Nov-20,ASP,DRW,2020,11,"1,305",0,0,0,0,Alice Springs - Darwin,23,Regional
+1-Dec-20,ASP,DRW,2020,12,"1,305",0,0,0,0,Alice Springs - Darwin,24,Regional
+1-Jan-21,ASP,DRW,2021,1,"1,305",0,0,0,0,Alice Springs - Darwin,25,Regional
+1-Feb-21,ASP,DRW,2021,2,"1,305",0,0,0,0,Alice Springs - Darwin,26,Regional
+1-Mar-21,ASP,DRW,2021,3,"1,305",0,0,0,0,Alice Springs - Darwin,27,Regional
+1-Apr-21,ASP,DRW,2021,4,"1,305",0,0,0,0,Alice Springs - Darwin,28,Regional
+1-May-21,ASP,DRW,2021,5,"1,305",0,0,0,0,Alice Springs - Darwin,29,Regional
+1-Jun-21,ASP,DRW,2021,6,"1,305",0,0,0,0,Alice Springs - Darwin,30,Regional
+1-Jan-19,ASP,MEL,2019,1,"1,860",0,0,0,0,Alice Springs - Melbourne,1,Regional
+1-Feb-19,ASP,MEL,2019,2,"1,860",0,0,0,0,Alice Springs - Melbourne,2,Regional
+1-Mar-19,ASP,MEL,2019,3,"1,860",0,0,0,0,Alice Springs - Melbourne,3,Regional
+1-Apr-19,ASP,MEL,2019,4,"1,860",0,0,0,0,Alice Springs - Melbourne,4,Regional
+1-May-19,ASP,MEL,2019,5,"1,860",0,0,0,0,Alice Springs - Melbourne,5,Regional
+1-Jun-19,ASP,MEL,2019,6,"1,860",0,0,0,0,Alice Springs - Melbourne,6,Regional
+1-Jul-19,ASP,MEL,2019,7,"1,860",0,0,0,0,Alice Springs - Melbourne,7,Regional
+1-Aug-19,ASP,MEL,2019,8,"1,860",0,0,0,0,Alice Springs - Melbourne,8,Regional
+1-Sep-19,ASP,MEL,2019,9,"1,860",0,0,0,0,Alice Springs - Melbourne,9,Regional
+1-Oct-19,ASP,MEL,2019,10,"1,860",0,0,0,0,Alice Springs - Melbourne,10,Regional
+1-Nov-19,ASP,MEL,2019,11,"1,860",0,0,0,0,Alice Springs - Melbourne,11,Regional
+1-Dec-19,ASP,MEL,2019,12,"1,860",0,0,0,0,Alice Springs - Melbourne,12,Regional
+1-Jan-20,ASP,MEL,2020,1,"1,860",0,0,0,0,Alice Springs - Melbourne,13,Regional
+1-Feb-20,ASP,MEL,2020,2,"1,860",0,0,0,0,Alice Springs - Melbourne,14,Regional
+1-Mar-20,ASP,MEL,2020,3,"1,860",0,0,0,0,Alice Springs - Melbourne,15,Regional
+1-Apr-20,ASP,MEL,2020,4,"1,860",0,0,0,0,Alice Springs - Melbourne,16,Regional
+1-May-20,ASP,MEL,2020,5,"1,860",0,0,0,0,Alice Springs - Melbourne,17,Regional
+1-Jun-20,ASP,MEL,2020,6,"1,860",0,0,0,0,Alice Springs - Melbourne,18,Regional
+1-Jul-20,ASP,MEL,2020,7,"1,860",0,0,0,0,Alice Springs - Melbourne,19,Regional
+1-Aug-20,ASP,MEL,2020,8,"1,860",0,0,0,0,Alice Springs - Melbourne,20,Regional
+1-Sep-20,ASP,MEL,2020,9,"1,860",0,0,0,0,Alice Springs - Melbourne,21,Regional
+1-Oct-20,ASP,MEL,2020,10,"1,860",0,0,0,0,Alice Springs - Melbourne,22,Regional
+1-Nov-20,ASP,MEL,2020,11,"1,860",0,0,0,0,Alice Springs - Melbourne,23,Regional
+1-Dec-20,ASP,MEL,2020,12,"1,860",0,0,0,0,Alice Springs - Melbourne,24,Regional
+1-Jan-21,ASP,MEL,2021,1,"1,860",0,0,0,0,Alice Springs - Melbourne,25,Regional
+1-Feb-21,ASP,MEL,2021,2,"1,860",0,0,0,0,Alice Springs - Melbourne,26,Regional
+1-Mar-21,ASP,MEL,2021,3,"1,860",0,0,0,0,Alice Springs - Melbourne,27,Regional
+1-Apr-21,ASP,MEL,2021,4,"1,860",0,0,0,0,Alice Springs - Melbourne,28,Regional
+1-May-21,ASP,MEL,2021,5,"1,860",0,0,0,0,Alice Springs - Melbourne,29,Regional
+1-Jun-21,ASP,MEL,2021,6,"1,860",0,0,0,0,Alice Springs - Melbourne,30,Regional
+1-Jan-19,ASP,SYD,2019,1,"2,022",0,0,0,0,Alice Springs - Sydney,1,Regional
+1-Feb-19,ASP,SYD,2019,2,"2,022",0,0,0,0,Alice Springs - Sydney,2,Regional
+1-Mar-19,ASP,SYD,2019,3,"2,022",0,0,0,0,Alice Springs - Sydney,3,Regional
+1-Apr-19,ASP,SYD,2019,4,"2,022",0,0,0,0,Alice Springs - Sydney,4,Regional
+1-May-19,ASP,SYD,2019,5,"2,022",0,0,0,0,Alice Springs - Sydney,5,Regional
+1-Jun-19,ASP,SYD,2019,6,"2,022",0,0,0,0,Alice Springs - Sydney,6,Regional
+1-Jul-19,ASP,SYD,2019,7,"2,022",0,0,0,0,Alice Springs - Sydney,7,Regional
+1-Aug-19,ASP,SYD,2019,8,"2,022",0,0,0,0,Alice Springs - Sydney,8,Regional
+1-Sep-19,ASP,SYD,2019,9,"2,022",0,0,0,0,Alice Springs - Sydney,9,Regional
+1-Oct-19,ASP,SYD,2019,10,"2,022",0,0,0,0,Alice Springs - Sydney,10,Regional
+1-Nov-19,ASP,SYD,2019,11,"2,022",0,0,0,0,Alice Springs - Sydney,11,Regional
+1-Dec-19,ASP,SYD,2019,12,"2,022",0,0,0,0,Alice Springs - Sydney,12,Regional
+1-Jan-20,ASP,SYD,2020,1,"2,022",0,0,0,0,Alice Springs - Sydney,13,Regional
+1-Feb-20,ASP,SYD,2020,2,"2,022",0,0,0,0,Alice Springs - Sydney,14,Regional
+1-Mar-20,ASP,SYD,2020,3,"2,022",0,0,0,0,Alice Springs - Sydney,15,Regional
+1-Apr-20,ASP,SYD,2020,4,"2,022",0,0,0,0,Alice Springs - Sydney,16,Regional
+1-May-20,ASP,SYD,2020,5,"2,022",0,0,0,0,Alice Springs - Sydney,17,Regional
+1-Jun-20,ASP,SYD,2020,6,"2,022",0,0,0,0,Alice Springs - Sydney,18,Regional
+1-Jul-20,ASP,SYD,2020,7,"2,022",0,0,0,0,Alice Springs - Sydney,19,Regional
+1-Aug-20,ASP,SYD,2020,8,"2,022",0,0,0,0,Alice Springs - Sydney,20,Regional
+1-Sep-20,ASP,SYD,2020,9,"2,022",0,0,0,0,Alice Springs - Sydney,21,Regional
+1-Oct-20,ASP,SYD,2020,10,"2,022",0,0,0,0,Alice Springs - Sydney,22,Regional
+1-Nov-20,ASP,SYD,2020,11,"2,022",0,0,0,0,Alice Springs - Sydney,23,Regional
+1-Dec-20,ASP,SYD,2020,12,"2,022",0,0,0,0,Alice Springs - Sydney,24,Regional
+1-Jan-21,ASP,SYD,2021,1,"2,022",0,0,0,0,Alice Springs - Sydney,25,Regional
+1-Feb-21,ASP,SYD,2021,2,"2,022",0,0,0,0,Alice Springs - Sydney,26,Regional
+1-Mar-21,ASP,SYD,2021,3,"2,022",0,0,0,0,Alice Springs - Sydney,27,Regional
+1-Apr-21,ASP,SYD,2021,4,"2,022",0,0,0,0,Alice Springs - Sydney,28,Regional
+1-May-21,ASP,SYD,2021,5,"2,022",0,0,0,0,Alice Springs - Sydney,29,Regional
+1-Jun-21,ASP,SYD,2021,6,"2,022",0,0,0,0,Alice Springs - Sydney,30,Regional
 1-Jan-19,AYQ,SYD,2019,1,"2,181",20608,116,64.1,13211,Ayers Rock - Sydney,1,Regional
 1-Feb-19,AYQ,SYD,2019,2,"2,181",18024,104,69.4,12502,Ayers Rock - Sydney,2,Regional
 1-Mar-19,AYQ,SYD,2019,3,"2,181",20088,114,82,16481,Ayers Rock - Sydney,3,Regional
@@ -404,21 +404,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,AYQ,SYD,2020,1,"2,181",20240,114,56.7,11470,Ayers Rock - Sydney,13,Regional
 1-Feb-20,AYQ,SYD,2020,2,"2,181",18220,104,52.7,9602,Ayers Rock - Sydney,14,Regional
 1-Mar-20,AYQ,SYD,2020,3,"2,181",16168,91,50.8,8217,Ayers Rock - Sydney,15,Regional
-1-Apr-20,AYQ,SYD,2020,4,"2,181",,,,,Ayers Rock - Sydney,16,Regional
-1-May-20,AYQ,SYD,2020,5,"2,181",,,,,Ayers Rock - Sydney,17,Regional
-1-Jun-20,AYQ,SYD,2020,6,"2,181",,,,,Ayers Rock - Sydney,18,Regional
-1-Jul-20,AYQ,SYD,2020,7,"2,181",,,,,Ayers Rock - Sydney,19,Regional
-1-Aug-20,AYQ,SYD,2020,8,"2,181",,,,,Ayers Rock - Sydney,20,Regional
-1-Sep-20,AYQ,SYD,2020,9,"2,181",,,,,Ayers Rock - Sydney,21,Regional
-1-Oct-20,AYQ,SYD,2020,10,"2,181",,,,,Ayers Rock - Sydney,22,Regional
-1-Nov-20,AYQ,SYD,2020,11,"2,181",,,,,Ayers Rock - Sydney,23,Regional
-1-Dec-20,AYQ,SYD,2020,12,"2,181",,,,,Ayers Rock - Sydney,24,Regional
-1-Jan-21,AYQ,SYD,2021,1,"2,181",,,,,Ayers Rock - Sydney,25,Regional
-1-Feb-21,AYQ,SYD,2021,2,"2,181",,,,,Ayers Rock - Sydney,26,Regional
-1-Mar-21,AYQ,SYD,2021,3,"2,181",,,,,Ayers Rock - Sydney,27,Regional
-1-Apr-21,AYQ,SYD,2021,4,"2,181",,,,,Ayers Rock - Sydney,28,Regional
-1-May-21,AYQ,SYD,2021,5,"2,181",,,,,Ayers Rock - Sydney,29,Regional
-1-Jun-21,AYQ,SYD,2021,6,"2,181",,,,,Ayers Rock - Sydney,30,Regional
+1-Apr-20,AYQ,SYD,2020,4,"2,181",0,0,0,0,Ayers Rock - Sydney,16,Regional
+1-May-20,AYQ,SYD,2020,5,"2,181",0,0,0,0,Ayers Rock - Sydney,17,Regional
+1-Jun-20,AYQ,SYD,2020,6,"2,181",0,0,0,0,Ayers Rock - Sydney,18,Regional
+1-Jul-20,AYQ,SYD,2020,7,"2,181",0,0,0,0,Ayers Rock - Sydney,19,Regional
+1-Aug-20,AYQ,SYD,2020,8,"2,181",0,0,0,0,Ayers Rock - Sydney,20,Regional
+1-Sep-20,AYQ,SYD,2020,9,"2,181",0,0,0,0,Ayers Rock - Sydney,21,Regional
+1-Oct-20,AYQ,SYD,2020,10,"2,181",0,0,0,0,Ayers Rock - Sydney,22,Regional
+1-Nov-20,AYQ,SYD,2020,11,"2,181",0,0,0,0,Ayers Rock - Sydney,23,Regional
+1-Dec-20,AYQ,SYD,2020,12,"2,181",0,0,0,0,Ayers Rock - Sydney,24,Regional
+1-Jan-21,AYQ,SYD,2021,1,"2,181",0,0,0,0,Ayers Rock - Sydney,25,Regional
+1-Feb-21,AYQ,SYD,2021,2,"2,181",0,0,0,0,Ayers Rock - Sydney,26,Regional
+1-Mar-21,AYQ,SYD,2021,3,"2,181",0,0,0,0,Ayers Rock - Sydney,27,Regional
+1-Apr-21,AYQ,SYD,2021,4,"2,181",0,0,0,0,Ayers Rock - Sydney,28,Regional
+1-May-21,AYQ,SYD,2021,5,"2,181",0,0,0,0,Ayers Rock - Sydney,29,Regional
+1-Jun-21,AYQ,SYD,2021,6,"2,181",0,0,0,0,Ayers Rock - Sydney,30,Regional
 1-Jan-19,BDB,BNE,2019,1,287,17992,278,61.7,11095,Brisbane - Bundaberg,1,Regional
 1-Feb-19,BDB,BNE,2019,2,287,17828,278,62.9,11209,Brisbane - Bundaberg,2,Regional
 1-Mar-19,BDB,BNE,2019,3,287,19460,304,66.2,12875,Brisbane - Bundaberg,3,Regional
@@ -435,20 +435,20 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,BDB,BNE,2020,2,287,16822,272,68.2,11476,Brisbane - Bundaberg,14,Regional
 1-Mar-20,BDB,BNE,2020,3,287,15770,253,52.1,8209,Brisbane - Bundaberg,15,Regional
 1-Apr-20,BDB,BNE,2020,4,287,3748,50,11.3,423,Brisbane - Bundaberg,16,Regional
-1-May-20,BDB,BNE,2020,5,287,,,,,Brisbane - Bundaberg,17,Regional
-1-Jun-20,BDB,BNE,2020,6,287,,,,,Brisbane - Bundaberg,18,Regional
-1-Jul-20,BDB,BNE,2020,7,287,,,,,Brisbane - Bundaberg,19,Regional
-1-Aug-20,BDB,BNE,2020,8,287,,,,,Brisbane - Bundaberg,20,Regional
-1-Sep-20,BDB,BNE,2020,9,287,,,,,Brisbane - Bundaberg,21,Regional
-1-Oct-20,BDB,BNE,2020,10,287,,,,,Brisbane - Bundaberg,22,Regional
-1-Nov-20,BDB,BNE,2020,11,287,,,,,Brisbane - Bundaberg,23,Regional
-1-Dec-20,BDB,BNE,2020,12,287,,,,,Brisbane - Bundaberg,24,Regional
-1-Jan-21,BDB,BNE,2021,1,287,,,,,Brisbane - Bundaberg,25,Regional
-1-Feb-21,BDB,BNE,2021,2,287,,,,,Brisbane - Bundaberg,26,Regional
-1-Mar-21,BDB,BNE,2021,3,287,,,,,Brisbane - Bundaberg,27,Regional
-1-Apr-21,BDB,BNE,2021,4,287,,,,,Brisbane - Bundaberg,28,Regional
-1-May-21,BDB,BNE,2021,5,287,,,,,Brisbane - Bundaberg,29,Regional
-1-Jun-21,BDB,BNE,2021,6,287,,,,,Brisbane - Bundaberg,30,Regional
+1-May-20,BDB,BNE,2020,5,287,0,0,0,0,Brisbane - Bundaberg,17,Regional
+1-Jun-20,BDB,BNE,2020,6,287,0,0,0,0,Brisbane - Bundaberg,18,Regional
+1-Jul-20,BDB,BNE,2020,7,287,0,0,0,0,Brisbane - Bundaberg,19,Regional
+1-Aug-20,BDB,BNE,2020,8,287,0,0,0,0,Brisbane - Bundaberg,20,Regional
+1-Sep-20,BDB,BNE,2020,9,287,0,0,0,0,Brisbane - Bundaberg,21,Regional
+1-Oct-20,BDB,BNE,2020,10,287,0,0,0,0,Brisbane - Bundaberg,22,Regional
+1-Nov-20,BDB,BNE,2020,11,287,0,0,0,0,Brisbane - Bundaberg,23,Regional
+1-Dec-20,BDB,BNE,2020,12,287,0,0,0,0,Brisbane - Bundaberg,24,Regional
+1-Jan-21,BDB,BNE,2021,1,287,0,0,0,0,Brisbane - Bundaberg,25,Regional
+1-Feb-21,BDB,BNE,2021,2,287,0,0,0,0,Brisbane - Bundaberg,26,Regional
+1-Mar-21,BDB,BNE,2021,3,287,0,0,0,0,Brisbane - Bundaberg,27,Regional
+1-Apr-21,BDB,BNE,2021,4,287,0,0,0,0,Brisbane - Bundaberg,28,Regional
+1-May-21,BDB,BNE,2021,5,287,0,0,0,0,Brisbane - Bundaberg,29,Regional
+1-Jun-21,BDB,BNE,2021,6,287,0,0,0,0,Brisbane - Bundaberg,30,Regional
 1-Jan-19,BME,PER,2019,1,"1,677",33288,293,67.5,22472,Broome - Perth,1,Regional
 1-Feb-19,BME,PER,2019,2,"1,677",29065,254,62,18021,Broome - Perth,2,Regional
 1-Mar-19,BME,PER,2019,3,"1,677",33013,283,66.9,22083,Broome - Perth,3,Regional
@@ -494,8 +494,8 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,CBR,2020,1,956,72743,530,72.3,52607,Brisbane - Canberra,13,Metropolitian
 1-Feb-20,BNE,CBR,2020,2,956,66408,492,68.7,45616,Brisbane - Canberra,14,Metropolitian
 1-Mar-20,BNE,CBR,2020,3,956,57097,422,56.6,32315,Brisbane - Canberra,15,Metropolitian
-1-Apr-20,BNE,CBR,2020,4,956,,,,,Brisbane - Canberra,16,Metropolitian
-1-May-20,BNE,CBR,2020,5,956,,,,,Brisbane - Canberra,17,Metropolitian
+1-Apr-20,BNE,CBR,2020,4,956,0,0,0,0,Brisbane - Canberra,16,Metropolitian
+1-May-20,BNE,CBR,2020,5,956,0,0,0,0,Brisbane - Canberra,17,Metropolitian
 1-Jun-20,BNE,CBR,2020,6,956,7404,78,54.1,4003,Brisbane - Canberra,18,Metropolitian
 1-Jul-20,BNE,CBR,2020,7,956,14508,134,78.5,11389,Brisbane - Canberra,19,Metropolitian
 1-Aug-20,BNE,CBR,2020,8,956,13260,110,46.9,6221,Brisbane - Canberra,20,Metropolitian
@@ -554,9 +554,9 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,DRW,2020,1,"2,852",37710,230,74.9,28226,Brisbane - Darwin,13,Metropolitian
 1-Feb-20,BNE,DRW,2020,2,"2,852",26502,169,74.9,19858,Brisbane - Darwin,14,Metropolitian
 1-Mar-20,BNE,DRW,2020,3,"2,852",23024,151,65.7,15128,Brisbane - Darwin,15,Metropolitian
-1-Apr-20,BNE,DRW,2020,4,"2,852",,,,,Brisbane - Darwin,16,Metropolitian
-1-May-20,BNE,DRW,2020,5,"2,852",,,,,Brisbane - Darwin,17,Metropolitian
-1-Jun-20,BNE,DRW,2020,6,"2,852",,,,,Brisbane - Darwin,18,Metropolitian
+1-Apr-20,BNE,DRW,2020,4,"2,852",0,0,0,0,Brisbane - Darwin,16,Metropolitian
+1-May-20,BNE,DRW,2020,5,"2,852",0,0,0,0,Brisbane - Darwin,17,Metropolitian
+1-Jun-20,BNE,DRW,2020,6,"2,852",0,0,0,0,Brisbane - Darwin,18,Metropolitian
 1-Jul-20,BNE,DRW,2020,7,"2,852",12144,112,66.4,8066,Brisbane - Darwin,19,Metropolitian
 1-Aug-20,BNE,DRW,2020,8,"2,852",17348,130,63.8,11060,Brisbane - Darwin,20,Metropolitian
 1-Sep-20,BNE,DRW,2020,9,"2,852",21524,140,73.4,15789,Brisbane - Darwin,21,Metropolitian
@@ -584,16 +584,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,EMD,2020,1,653,23574,350,67,15792,Brisbane - Emerald,13,Regional
 1-Feb-20,BNE,EMD,2020,2,653,23606,347,65.8,15540,Brisbane - Emerald,14,Regional
 1-Mar-20,BNE,EMD,2020,3,653,22850,349,57.1,13052,Brisbane - Emerald,15,Regional
-1-Apr-20,BNE,EMD,2020,4,653,,,,,Brisbane - Emerald,16,Regional
-1-May-20,BNE,EMD,2020,5,653,,,,,Brisbane - Emerald,17,Regional
-1-Jun-20,BNE,EMD,2020,6,653,,,,,Brisbane - Emerald,18,Regional
-1-Jul-20,BNE,EMD,2020,7,653,,,,,Brisbane - Emerald,19,Regional
-1-Aug-20,BNE,EMD,2020,8,653,,,,,Brisbane - Emerald,20,Regional
-1-Sep-20,BNE,EMD,2020,9,653,,,,,Brisbane - Emerald,21,Regional
-1-Oct-20,BNE,EMD,2020,10,653,,,,,Brisbane - Emerald,22,Regional
-1-Nov-20,BNE,EMD,2020,11,653,,,,,Brisbane - Emerald,23,Regional
+1-Apr-20,BNE,EMD,2020,4,653,0,0,0,0,Brisbane - Emerald,16,Regional
+1-May-20,BNE,EMD,2020,5,653,0,0,0,0,Brisbane - Emerald,17,Regional
+1-Jun-20,BNE,EMD,2020,6,653,0,0,0,0,Brisbane - Emerald,18,Regional
+1-Jul-20,BNE,EMD,2020,7,653,0,0,0,0,Brisbane - Emerald,19,Regional
+1-Aug-20,BNE,EMD,2020,8,653,0,0,0,0,Brisbane - Emerald,20,Regional
+1-Sep-20,BNE,EMD,2020,9,653,0,0,0,0,Brisbane - Emerald,21,Regional
+1-Oct-20,BNE,EMD,2020,10,653,0,0,0,0,Brisbane - Emerald,22,Regional
+1-Nov-20,BNE,EMD,2020,11,653,0,0,0,0,Brisbane - Emerald,23,Regional
 1-Dec-20,BNE,EMD,2020,12,653,20700,316,46.9,9708,Brisbane - Emerald,24,Regional
-1-Jan-21,BNE,EMD,2021,1,653,,,,,Brisbane - Emerald,25,Regional
+1-Jan-21,BNE,EMD,2021,1,653,0,0,0,0,Brisbane - Emerald,25,Regional
 1-Feb-21,BNE,EMD,2021,2,653,18888,290,51.7,9771,Brisbane - Emerald,26,Regional
 1-Mar-21,BNE,EMD,2021,3,653,22476,346,56.7,12752,Brisbane - Emerald,27,Regional
 1-Apr-21,BNE,EMD,2021,4,653,20762,315,60.3,12519,Brisbane - Emerald,28,Regional
@@ -617,9 +617,9 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-20,BNE,GLT,2020,4,434,8320,110,12.2,1015,Brisbane - Gladstone,16,Regional
 1-May-20,BNE,GLT,2020,5,434,3412,44,39.3,1342,Brisbane - Gladstone,17,Regional
 1-Jun-20,BNE,GLT,2020,6,434,4172,54,57.1,2384,Brisbane - Gladstone,18,Regional
-1-Jul-20,BNE,GLT,2020,7,434,,,,,Brisbane - Gladstone,19,Regional
-1-Aug-20,BNE,GLT,2020,8,434,,,,,Brisbane - Gladstone,20,Regional
-1-Sep-20,BNE,GLT,2020,9,434,,,,,Brisbane - Gladstone,21,Regional
+1-Jul-20,BNE,GLT,2020,7,434,0,0,0,0,Brisbane - Gladstone,19,Regional
+1-Aug-20,BNE,GLT,2020,8,434,0,0,0,0,Brisbane - Gladstone,20,Regional
+1-Sep-20,BNE,GLT,2020,9,434,0,0,0,0,Brisbane - Gladstone,21,Regional
 1-Oct-20,BNE,GLT,2020,10,434,18698,243,45.9,8580,Brisbane - Gladstone,22,Regional
 1-Nov-20,BNE,GLT,2020,11,434,19824,258,49.6,9851,Brisbane - Gladstone,23,Regional
 1-Dec-20,BNE,GLT,2020,12,434,20744,272,56.4,11708,Brisbane - Gladstone,24,Regional
@@ -644,13 +644,13 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,HBA,2020,1,"1,791",31110,174,86.8,27011,Brisbane - Hobart,13,Metropolitian
 1-Feb-20,BNE,HBA,2020,2,"1,791",23212,131,84.1,19518,Brisbane - Hobart,14,Metropolitian
 1-Mar-20,BNE,HBA,2020,3,"1,791",19558,110,72.2,14112,Brisbane - Hobart,15,Metropolitian
-1-Apr-20,BNE,HBA,2020,4,"1,791",,,,,Brisbane - Hobart,16,Metropolitian
-1-May-20,BNE,HBA,2020,5,"1,791",,,,,Brisbane - Hobart,17,Metropolitian
-1-Jun-20,BNE,HBA,2020,6,"1,791",,,,,Brisbane - Hobart,18,Metropolitian
-1-Jul-20,BNE,HBA,2020,7,"1,791",,,,,Brisbane - Hobart,19,Metropolitian
-1-Aug-20,BNE,HBA,2020,8,"1,791",,,,,Brisbane - Hobart,20,Metropolitian
-1-Sep-20,BNE,HBA,2020,9,"1,791",,,,,Brisbane - Hobart,21,Metropolitian
-1-Oct-20,BNE,HBA,2020,10,"1,791",,,,,Brisbane - Hobart,22,Metropolitian
+1-Apr-20,BNE,HBA,2020,4,"1,791",0,0,0,0,Brisbane - Hobart,16,Metropolitian
+1-May-20,BNE,HBA,2020,5,"1,791",0,0,0,0,Brisbane - Hobart,17,Metropolitian
+1-Jun-20,BNE,HBA,2020,6,"1,791",0,0,0,0,Brisbane - Hobart,18,Metropolitian
+1-Jul-20,BNE,HBA,2020,7,"1,791",0,0,0,0,Brisbane - Hobart,19,Metropolitian
+1-Aug-20,BNE,HBA,2020,8,"1,791",0,0,0,0,Brisbane - Hobart,20,Metropolitian
+1-Sep-20,BNE,HBA,2020,9,"1,791",0,0,0,0,Brisbane - Hobart,21,Metropolitian
+1-Oct-20,BNE,HBA,2020,10,"1,791",0,0,0,0,Brisbane - Hobart,22,Metropolitian
 1-Nov-20,BNE,HBA,2020,11,"1,791",13592,74,90,12236,Brisbane - Hobart,23,Metropolitian
 1-Dec-20,BNE,HBA,2020,12,"1,791",35418,218,75.7,26820,Brisbane - Hobart,24,Metropolitian
 1-Jan-21,BNE,HBA,2021,1,"1,791",36146,222,61.9,22391,Brisbane - Hobart,25,Metropolitian
@@ -674,12 +674,12 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,HTI,2020,1,888,15571,123,74.9,11666,Brisbane - Hamilton Island,13,Regional
 1-Feb-20,BNE,HTI,2020,2,888,14256,114,62.3,8878,Brisbane - Hamilton Island,14,Regional
 1-Mar-20,BNE,HTI,2020,3,888,12078,97,54.5,6578,Brisbane - Hamilton Island,15,Regional
-1-Apr-20,BNE,HTI,2020,4,888,,,,,Brisbane - Hamilton Island,16,Regional
-1-May-20,BNE,HTI,2020,5,888,,,,,Brisbane - Hamilton Island,17,Regional
-1-Jun-20,BNE,HTI,2020,6,888,,,,,Brisbane - Hamilton Island,18,Regional
-1-Jul-20,BNE,HTI,2020,7,888,,,,,Brisbane - Hamilton Island,19,Regional
-1-Aug-20,BNE,HTI,2020,8,888,,,,,Brisbane - Hamilton Island,20,Regional
-1-Sep-20,BNE,HTI,2020,9,888,,,,,Brisbane - Hamilton Island,21,Regional
+1-Apr-20,BNE,HTI,2020,4,888,0,0,0,0,Brisbane - Hamilton Island,16,Regional
+1-May-20,BNE,HTI,2020,5,888,0,0,0,0,Brisbane - Hamilton Island,17,Regional
+1-Jun-20,BNE,HTI,2020,6,888,0,0,0,0,Brisbane - Hamilton Island,18,Regional
+1-Jul-20,BNE,HTI,2020,7,888,0,0,0,0,Brisbane - Hamilton Island,19,Regional
+1-Aug-20,BNE,HTI,2020,8,888,0,0,0,0,Brisbane - Hamilton Island,20,Regional
+1-Sep-20,BNE,HTI,2020,9,888,0,0,0,0,Brisbane - Hamilton Island,21,Regional
 1-Oct-20,BNE,HTI,2020,10,888,24903,160,72.2,17984,Brisbane - Hamilton Island,22,Regional
 1-Nov-20,BNE,HTI,2020,11,888,24999,144,75.5,18863,Brisbane - Hamilton Island,23,Regional
 1-Dec-20,BNE,HTI,2020,12,888,33471,210,66.8,22349,Brisbane - Hamilton Island,24,Regional
@@ -705,50 +705,50 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,BNE,ISA,2020,2,"1,573",15886,134,66.8,10614,Brisbane - Mount Isa,14,Regional
 1-Mar-20,BNE,ISA,2020,3,"1,573",14788,122,61.4,9073,Brisbane - Mount Isa,15,Regional
 1-Apr-20,BNE,ISA,2020,4,"1,573",5700,36,39.3,2240,Brisbane - Mount Isa,16,Regional
-1-May-20,BNE,ISA,2020,5,"1,573",,,,,Brisbane - Mount Isa,17,Regional
-1-Jun-20,BNE,ISA,2020,6,"1,573",,,,,Brisbane - Mount Isa,18,Regional
-1-Jul-20,BNE,ISA,2020,7,"1,573",,,,,Brisbane - Mount Isa,19,Regional
-1-Aug-20,BNE,ISA,2020,8,"1,573",,,,,Brisbane - Mount Isa,20,Regional
-1-Sep-20,BNE,ISA,2020,9,"1,573",,,,,Brisbane - Mount Isa,21,Regional
-1-Oct-20,BNE,ISA,2020,10,"1,573",,,,,Brisbane - Mount Isa,22,Regional
+1-May-20,BNE,ISA,2020,5,"1,573",0,0,0,0,Brisbane - Mount Isa,17,Regional
+1-Jun-20,BNE,ISA,2020,6,"1,573",0,0,0,0,Brisbane - Mount Isa,18,Regional
+1-Jul-20,BNE,ISA,2020,7,"1,573",0,0,0,0,Brisbane - Mount Isa,19,Regional
+1-Aug-20,BNE,ISA,2020,8,"1,573",0,0,0,0,Brisbane - Mount Isa,20,Regional
+1-Sep-20,BNE,ISA,2020,9,"1,573",0,0,0,0,Brisbane - Mount Isa,21,Regional
+1-Oct-20,BNE,ISA,2020,10,"1,573",0,0,0,0,Brisbane - Mount Isa,22,Regional
 1-Nov-20,BNE,ISA,2020,11,"1,573",19312,124,45.2,8728,Brisbane - Mount Isa,23,Regional
 1-Dec-20,BNE,ISA,2020,12,"1,573",18987,119,48.7,9238,Brisbane - Mount Isa,24,Regional
-1-Jan-21,BNE,ISA,2021,1,"1,573",,,,,Brisbane - Mount Isa,25,Regional
-1-Feb-21,BNE,ISA,2021,2,"1,573",,,,,Brisbane - Mount Isa,26,Regional
+1-Jan-21,BNE,ISA,2021,1,"1,573",0,0,0,0,Brisbane - Mount Isa,25,Regional
+1-Feb-21,BNE,ISA,2021,2,"1,573",0,0,0,0,Brisbane - Mount Isa,26,Regional
 1-Mar-21,BNE,ISA,2021,3,"1,573",21655,137,42.4,9179,Brisbane - Mount Isa,27,Regional
 1-Apr-21,BNE,ISA,2021,4,"1,573",19369,163,49.4,9566,Brisbane - Mount Isa,28,Regional
 1-May-21,BNE,ISA,2021,5,"1,573",19450,168,53.4,10377,Brisbane - Mount Isa,29,Regional
 1-Jun-21,BNE,ISA,2021,6,"1,573",20398,178,52.9,10792,Brisbane - Mount Isa,30,Regional
-1-Jan-19,BNE,LST,2021,1,"1,664",,,,,Brisbane - Launceston,1,Regional
-1-Feb-19,BNE,LST,2021,2,"1,664",,,,,Brisbane - Launceston,2,Regional
-1-Mar-19,BNE,LST,2021,3,"1,664",,,,,Brisbane - Launceston,3,Regional
-1-Apr-19,BNE,LST,2021,4,"1,664",,,,,Brisbane - Launceston,4,Regional
-1-May-19,BNE,LST,2021,5,"1,664",,,,,Brisbane - Launceston,5,Regional
-1-Jun-19,BNE,LST,2021,6,"1,664",,,,,Brisbane - Launceston,6,Regional
-1-Jul-19,BNE,LST,2021,7,"1,664",,,,,Brisbane - Launceston,7,Regional
-1-Aug-19,BNE,LST,2021,8,"1,664",,,,,Brisbane - Launceston,8,Regional
-1-Sep-19,BNE,LST,2021,9,"1,664",,,,,Brisbane - Launceston,9,Regional
-1-Oct-19,BNE,LST,2021,10,"1,664",,,,,Brisbane - Launceston,10,Regional
-1-Nov-19,BNE,LST,2021,11,"1,664",,,,,Brisbane - Launceston,11,Regional
-1-Dec-19,BNE,LST,2021,12,"1,664",,,,,Brisbane - Launceston,12,Regional
-1-Jan-20,BNE,LST,2021,1,"1,664",,,,,Brisbane - Launceston,13,Regional
-1-Feb-20,BNE,LST,2021,2,"1,664",,,,,Brisbane - Launceston,14,Regional
-1-Mar-20,BNE,LST,2021,3,"1,664",,,,,Brisbane - Launceston,15,Regional
-1-Apr-20,BNE,LST,2021,4,"1,664",,,,,Brisbane - Launceston,16,Regional
-1-May-20,BNE,LST,2021,5,"1,664",,,,,Brisbane - Launceston,17,Regional
-1-Jun-20,BNE,LST,2021,6,"1,664",,,,,Brisbane - Launceston,18,Regional
-1-Jul-20,BNE,LST,2021,7,"1,664",,,,,Brisbane - Launceston,19,Regional
-1-Aug-20,BNE,LST,2021,8,"1,664",,,,,Brisbane - Launceston,20,Regional
-1-Sep-20,BNE,LST,2021,9,"1,664",,,,,Brisbane - Launceston,21,Regional
-1-Oct-20,BNE,LST,2021,10,"1,664",,,,,Brisbane - Launceston,22,Regional
-1-Nov-20,BNE,LST,2021,11,"1,664",,,,,Brisbane - Launceston,23,Regional
-1-Dec-20,BNE,LST,2021,12,"1,664",,,,,Brisbane - Launceston,24,Regional
-1-Jan-21,BNE,LST,2021,1,"1,664",,,,,Brisbane - Launceston,25,Regional
-1-Feb-21,BNE,LST,2021,2,"1,664",,,,,Brisbane - Launceston,26,Regional
+1-Jan-19,BNE,LST,2021,1,"1,664",0,0,0,0,Brisbane - Launceston,1,Regional
+1-Feb-19,BNE,LST,2021,2,"1,664",0,0,0,0,Brisbane - Launceston,2,Regional
+1-Mar-19,BNE,LST,2021,3,"1,664",0,0,0,0,Brisbane - Launceston,3,Regional
+1-Apr-19,BNE,LST,2021,4,"1,664",0,0,0,0,Brisbane - Launceston,4,Regional
+1-May-19,BNE,LST,2021,5,"1,664",0,0,0,0,Brisbane - Launceston,5,Regional
+1-Jun-19,BNE,LST,2021,6,"1,664",0,0,0,0,Brisbane - Launceston,6,Regional
+1-Jul-19,BNE,LST,2021,7,"1,664",0,0,0,0,Brisbane - Launceston,7,Regional
+1-Aug-19,BNE,LST,2021,8,"1,664",0,0,0,0,Brisbane - Launceston,8,Regional
+1-Sep-19,BNE,LST,2021,9,"1,664",0,0,0,0,Brisbane - Launceston,9,Regional
+1-Oct-19,BNE,LST,2021,10,"1,664",0,0,0,0,Brisbane - Launceston,10,Regional
+1-Nov-19,BNE,LST,2021,11,"1,664",0,0,0,0,Brisbane - Launceston,11,Regional
+1-Dec-19,BNE,LST,2021,12,"1,664",0,0,0,0,Brisbane - Launceston,12,Regional
+1-Jan-20,BNE,LST,2021,1,"1,664",0,0,0,0,Brisbane - Launceston,13,Regional
+1-Feb-20,BNE,LST,2021,2,"1,664",0,0,0,0,Brisbane - Launceston,14,Regional
+1-Mar-20,BNE,LST,2021,3,"1,664",0,0,0,0,Brisbane - Launceston,15,Regional
+1-Apr-20,BNE,LST,2021,4,"1,664",0,0,0,0,Brisbane - Launceston,16,Regional
+1-May-20,BNE,LST,2021,5,"1,664",0,0,0,0,Brisbane - Launceston,17,Regional
+1-Jun-20,BNE,LST,2021,6,"1,664",0,0,0,0,Brisbane - Launceston,18,Regional
+1-Jul-20,BNE,LST,2021,7,"1,664",0,0,0,0,Brisbane - Launceston,19,Regional
+1-Aug-20,BNE,LST,2021,8,"1,664",0,0,0,0,Brisbane - Launceston,20,Regional
+1-Sep-20,BNE,LST,2021,9,"1,664",0,0,0,0,Brisbane - Launceston,21,Regional
+1-Oct-20,BNE,LST,2021,10,"1,664",0,0,0,0,Brisbane - Launceston,22,Regional
+1-Nov-20,BNE,LST,2021,11,"1,664",0,0,0,0,Brisbane - Launceston,23,Regional
+1-Dec-20,BNE,LST,2021,12,"1,664",0,0,0,0,Brisbane - Launceston,24,Regional
+1-Jan-21,BNE,LST,2021,1,"1,664",0,0,0,0,Brisbane - Launceston,25,Regional
+1-Feb-21,BNE,LST,2021,2,"1,664",0,0,0,0,Brisbane - Launceston,26,Regional
 1-Mar-21,BNE,LST,2021,3,"1,664",16348,90,76.2,12455,Brisbane - Launceston,27,Regional
 1-Apr-21,BNE,LST,2021,4,"1,664",15289,84,70.2,10736,Brisbane - Launceston,28,Regional
-1-May-21,BNE,LST,2021,5,"1,664",,,,,Brisbane - Launceston,29,Regional
-1-Jun-21,BNE,LST,2021,6,"1,664",,,,,Brisbane - Launceston,30,Regional
+1-May-21,BNE,LST,2021,5,"1,664",0,0,0,0,Brisbane - Launceston,29,Regional
+1-Jun-21,BNE,LST,2021,6,"1,664",0,0,0,0,Brisbane - Launceston,30,Regional
 1-Jan-19,BNE,MEL,2019,1,"1,381",366670,2216,80.9,296590,Brisbane - Melbourne,1,Metropolitian
 1-Feb-19,BNE,MEL,2019,2,"1,381",325515,1956,78.6,255981,Brisbane - Melbourne,2,Metropolitian
 1-Mar-19,BNE,MEL,2019,3,"1,381",363871,2133,81.2,295315,Brisbane - Melbourne,3,Metropolitian
@@ -809,36 +809,36 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,BNE,MKY,2021,4,797,69362,479,71.7,49731,Brisbane - Mackay,28,Regional
 1-May-21,BNE,MKY,2021,5,797,73314,482,77.1,56522,Brisbane - Mackay,29,Regional
 1-Jun-21,BNE,MKY,2021,6,797,79696,503,67.1,53451,Brisbane - Mackay,30,Regional
-1-Jan-19,BNE,MOV,2019,1,780,,,,,Brisbane - Moranbah,1,Regional
-1-Feb-19,BNE,MOV,2019,2,780,,,,,Brisbane - Moranbah,2,Regional
-1-Mar-19,BNE,MOV,2019,3,780,,,,,Brisbane - Moranbah,3,Regional
-1-Apr-19,BNE,MOV,2019,4,780,,,,,Brisbane - Moranbah,4,Regional
-1-May-19,BNE,MOV,2019,5,780,,,,,Brisbane - Moranbah,5,Regional
-1-Jun-19,BNE,MOV,2019,6,780,,,,,Brisbane - Moranbah,6,Regional
-1-Jul-19,BNE,MOV,2019,7,780,,,,,Brisbane - Moranbah,7,Regional
-1-Aug-19,BNE,MOV,2019,8,780,,,,,Brisbane - Moranbah,8,Regional
-1-Sep-19,BNE,MOV,2019,9,780,,,,,Brisbane - Moranbah,9,Regional
-1-Oct-19,BNE,MOV,2019,10,780,,,,,Brisbane - Moranbah,10,Regional
-1-Nov-19,BNE,MOV,2019,11,780,,,,,Brisbane - Moranbah,11,Regional
-1-Dec-19,BNE,MOV,2019,12,780,,,,,Brisbane - Moranbah,12,Regional
-1-Jan-20,BNE,MOV,2020,1,780,,,,,Brisbane - Moranbah,13,Regional
-1-Feb-20,BNE,MOV,2020,2,780,,,,,Brisbane - Moranbah,14,Regional
-1-Mar-20,BNE,MOV,2020,3,780,,,,,Brisbane - Moranbah,15,Regional
-1-Apr-20,BNE,MOV,2020,4,780,,,,,Brisbane - Moranbah,16,Regional
-1-May-20,BNE,MOV,2020,5,780,,,,,Brisbane - Moranbah,17,Regional
-1-Jun-20,BNE,MOV,2020,6,780,,,,,Brisbane - Moranbah,18,Regional
-1-Jul-20,BNE,MOV,2020,7,780,,,,,Brisbane - Moranbah,19,Regional
-1-Aug-20,BNE,MOV,2020,8,780,,,,,Brisbane - Moranbah,20,Regional
-1-Sep-20,BNE,MOV,2020,9,780,,,,,Brisbane - Moranbah,21,Regional
-1-Oct-20,BNE,MOV,2020,10,780,,,,,Brisbane - Moranbah,22,Regional
-1-Nov-20,BNE,MOV,2020,11,780,,,,,Brisbane - Moranbah,23,Regional
-1-Dec-20,BNE,MOV,2020,12,780,,,,,Brisbane - Moranbah,24,Regional
-1-Jan-21,BNE,MOV,2021,1,780,,,,,Brisbane - Moranbah,25,Regional
-1-Feb-21,BNE,MOV,2021,2,780,,,,,Brisbane - Moranbah,26,Regional
-1-Mar-21,BNE,MOV,2021,3,780,,,,,Brisbane - Moranbah,27,Regional
-1-Apr-21,BNE,MOV,2021,4,780,,,,,Brisbane - Moranbah,28,Regional
-1-May-21,BNE,MOV,2021,5,780,,,,,Brisbane - Moranbah,29,Regional
-1-Jun-21,BNE,MOV,2021,6,780,,,,,Brisbane - Moranbah,30,Regional
+1-Jan-19,BNE,MOV,2019,1,780,0,0,0,0,Brisbane - Moranbah,1,Regional
+1-Feb-19,BNE,MOV,2019,2,780,0,0,0,0,Brisbane - Moranbah,2,Regional
+1-Mar-19,BNE,MOV,2019,3,780,0,0,0,0,Brisbane - Moranbah,3,Regional
+1-Apr-19,BNE,MOV,2019,4,780,0,0,0,0,Brisbane - Moranbah,4,Regional
+1-May-19,BNE,MOV,2019,5,780,0,0,0,0,Brisbane - Moranbah,5,Regional
+1-Jun-19,BNE,MOV,2019,6,780,0,0,0,0,Brisbane - Moranbah,6,Regional
+1-Jul-19,BNE,MOV,2019,7,780,0,0,0,0,Brisbane - Moranbah,7,Regional
+1-Aug-19,BNE,MOV,2019,8,780,0,0,0,0,Brisbane - Moranbah,8,Regional
+1-Sep-19,BNE,MOV,2019,9,780,0,0,0,0,Brisbane - Moranbah,9,Regional
+1-Oct-19,BNE,MOV,2019,10,780,0,0,0,0,Brisbane - Moranbah,10,Regional
+1-Nov-19,BNE,MOV,2019,11,780,0,0,0,0,Brisbane - Moranbah,11,Regional
+1-Dec-19,BNE,MOV,2019,12,780,0,0,0,0,Brisbane - Moranbah,12,Regional
+1-Jan-20,BNE,MOV,2020,1,780,0,0,0,0,Brisbane - Moranbah,13,Regional
+1-Feb-20,BNE,MOV,2020,2,780,0,0,0,0,Brisbane - Moranbah,14,Regional
+1-Mar-20,BNE,MOV,2020,3,780,0,0,0,0,Brisbane - Moranbah,15,Regional
+1-Apr-20,BNE,MOV,2020,4,780,0,0,0,0,Brisbane - Moranbah,16,Regional
+1-May-20,BNE,MOV,2020,5,780,0,0,0,0,Brisbane - Moranbah,17,Regional
+1-Jun-20,BNE,MOV,2020,6,780,0,0,0,0,Brisbane - Moranbah,18,Regional
+1-Jul-20,BNE,MOV,2020,7,780,0,0,0,0,Brisbane - Moranbah,19,Regional
+1-Aug-20,BNE,MOV,2020,8,780,0,0,0,0,Brisbane - Moranbah,20,Regional
+1-Sep-20,BNE,MOV,2020,9,780,0,0,0,0,Brisbane - Moranbah,21,Regional
+1-Oct-20,BNE,MOV,2020,10,780,0,0,0,0,Brisbane - Moranbah,22,Regional
+1-Nov-20,BNE,MOV,2020,11,780,0,0,0,0,Brisbane - Moranbah,23,Regional
+1-Dec-20,BNE,MOV,2020,12,780,0,0,0,0,Brisbane - Moranbah,24,Regional
+1-Jan-21,BNE,MOV,2021,1,780,0,0,0,0,Brisbane - Moranbah,25,Regional
+1-Feb-21,BNE,MOV,2021,2,780,0,0,0,0,Brisbane - Moranbah,26,Regional
+1-Mar-21,BNE,MOV,2021,3,780,0,0,0,0,Brisbane - Moranbah,27,Regional
+1-Apr-21,BNE,MOV,2021,4,780,0,0,0,0,Brisbane - Moranbah,28,Regional
+1-May-21,BNE,MOV,2021,5,780,0,0,0,0,Brisbane - Moranbah,29,Regional
+1-Jun-21,BNE,MOV,2021,6,780,0,0,0,0,Brisbane - Moranbah,30,Regional
 1-Jan-19,BNE,NTL,2019,1,614,62800,487,73.7,46272,Brisbane - Newcastle,1,Regional
 1-Feb-19,BNE,NTL,2019,2,614,61484,460,69.5,42728,Brisbane - Newcastle,2,Regional
 1-Mar-19,BNE,NTL,2019,3,614,69716,492,72.4,50475,Brisbane - Newcastle,3,Regional
@@ -854,9 +854,9 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,NTL,2020,1,614,67543,474,72.8,49190,Brisbane - Newcastle,13,Regional
 1-Feb-20,BNE,NTL,2020,2,614,61476,453,71.6,44035,Brisbane - Newcastle,14,Regional
 1-Mar-20,BNE,NTL,2020,3,614,50828,376,58.1,29530,Brisbane - Newcastle,15,Regional
-1-Apr-20,BNE,NTL,2020,4,614,,,,,Brisbane - Newcastle,16,Regional
-1-May-20,BNE,NTL,2020,5,614,,,,,Brisbane - Newcastle,17,Regional
-1-Jun-20,BNE,NTL,2020,6,614,,,,,Brisbane - Newcastle,18,Regional
+1-Apr-20,BNE,NTL,2020,4,614,0,0,0,0,Brisbane - Newcastle,16,Regional
+1-May-20,BNE,NTL,2020,5,614,0,0,0,0,Brisbane - Newcastle,17,Regional
+1-Jun-20,BNE,NTL,2020,6,614,0,0,0,0,Brisbane - Newcastle,18,Regional
 1-Jul-20,BNE,NTL,2020,7,614,14932,105,63.2,9430,Brisbane - Newcastle,19,Regional
 1-Aug-20,BNE,NTL,2020,8,614,10644,72,39,4152,Brisbane - Newcastle,20,Regional
 1-Sep-20,BNE,NTL,2020,9,614,,42,,,Brisbane - Newcastle,21,Regional
@@ -885,12 +885,12 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,BNE,PER,2020,2,"3,615",88720,484,79.7,70677,Brisbane - Perth,14,Metropolitian
 1-Mar-20,BNE,PER,2020,3,"3,615",84965,464,66.7,56710,Brisbane - Perth,15,Metropolitian
 1-Apr-20,BNE,PER,2020,4,"3,615",8364,48,25.3,2115,Brisbane - Perth,16,Metropolitian
-1-May-20,BNE,PER,2020,5,"3,615",,,,,Brisbane - Perth,17,Metropolitian
-1-Jun-20,BNE,PER,2020,6,"3,615",,,,,Brisbane - Perth,18,Metropolitian
-1-Jul-20,BNE,PER,2020,7,"3,615",,,,,Brisbane - Perth,19,Metropolitian
-1-Aug-20,BNE,PER,2020,8,"3,615",,,,,Brisbane - Perth,20,Metropolitian
-1-Sep-20,BNE,PER,2020,9,"3,615",,,,,Brisbane - Perth,21,Metropolitian
-1-Oct-20,BNE,PER,2020,10,"3,615",,,,,Brisbane - Perth,22,Metropolitian
+1-May-20,BNE,PER,2020,5,"3,615",0,0,0,0,Brisbane - Perth,17,Metropolitian
+1-Jun-20,BNE,PER,2020,6,"3,615",0,0,0,0,Brisbane - Perth,18,Metropolitian
+1-Jul-20,BNE,PER,2020,7,"3,615",0,0,0,0,Brisbane - Perth,19,Metropolitian
+1-Aug-20,BNE,PER,2020,8,"3,615",0,0,0,0,Brisbane - Perth,20,Metropolitian
+1-Sep-20,BNE,PER,2020,9,"3,615",0,0,0,0,Brisbane - Perth,21,Metropolitian
+1-Oct-20,BNE,PER,2020,10,"3,615",0,0,0,0,Brisbane - Perth,22,Metropolitian
 1-Nov-20,BNE,PER,2020,11,"3,615",28852,166,65,18756,Brisbane - Perth,23,Metropolitian
 1-Dec-20,BNE,PER,2020,12,"3,615",53666,309,79.4,42637,Brisbane - Perth,24,Metropolitian
 1-Jan-21,BNE,PER,2021,1,"3,615",42438,256,58.5,24808,Brisbane - Perth,25,Metropolitian
@@ -914,8 +914,8 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,BNE,PPP,2020,1,895,30974,174,82.9,25664,Brisbane - Proserpine,13,Regional
 1-Feb-20,BNE,PPP,2020,2,895,22002,123,79.4,17471,Brisbane - Proserpine,14,Regional
 1-Mar-20,BNE,PPP,2020,3,895,21036,118,65.1,13687,Brisbane - Proserpine,15,Regional
-1-Apr-20,BNE,PPP,2020,4,895,,,,,Brisbane - Proserpine,16,Regional
-1-May-20,BNE,PPP,2020,5,895,,,,,Brisbane - Proserpine,17,Regional
+1-Apr-20,BNE,PPP,2020,4,895,0,0,0,0,Brisbane - Proserpine,16,Regional
+1-May-20,BNE,PPP,2020,5,895,0,0,0,0,Brisbane - Proserpine,17,Regional
 1-Jun-20,BNE,PPP,2020,6,895,3444,24,68.5,2358,Brisbane - Proserpine,18,Regional
 1-Jul-20,BNE,PPP,2020,7,895,19816,126,70.9,14052,Brisbane - Proserpine,19,Regional
 1-Aug-20,BNE,PPP,2020,8,895,18936,117,67.9,12850,Brisbane - Proserpine,20,Regional
@@ -1038,10 +1038,10 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-May-20,CBR,MEL,2020,5,470,7628,70,36,2748,Canberra - Melbourne,17,Metropolitian
 1-Jun-20,CBR,MEL,2020,6,470,11514,117,50.4,5806,Canberra - Melbourne,18,Metropolitian
 1-Jul-20,CBR,MEL,2020,7,470,9834,90,22.6,2219,Canberra - Melbourne,19,Metropolitian
-1-Aug-20,CBR,MEL,2020,8,470,,,,,Canberra - Melbourne,20,Metropolitian
-1-Sep-20,CBR,MEL,2020,9,470,,,,,Canberra - Melbourne,21,Metropolitian
-1-Oct-20,CBR,MEL,2020,10,470,,,,,Canberra - Melbourne,22,Metropolitian
-1-Nov-20,CBR,MEL,2020,11,470,,,,,Canberra - Melbourne,23,Metropolitian
+1-Aug-20,CBR,MEL,2020,8,470,0,0,0,0,Canberra - Melbourne,20,Metropolitian
+1-Sep-20,CBR,MEL,2020,9,470,0,0,0,0,Canberra - Melbourne,21,Metropolitian
+1-Oct-20,CBR,MEL,2020,10,470,0,0,0,0,Canberra - Melbourne,22,Metropolitian
+1-Nov-20,CBR,MEL,2020,11,470,0,0,0,0,Canberra - Melbourne,23,Metropolitian
 1-Dec-20,CBR,MEL,2020,12,470,39617,303,68.1,26961,Canberra - Melbourne,24,Metropolitian
 1-Jan-21,CBR,MEL,2021,1,470,45007,345,53.5,24089,Canberra - Melbourne,25,Metropolitian
 1-Feb-21,CBR,MEL,2021,2,470,43974,350,48.1,20558,Canberra - Melbourne,26,Metropolitian
@@ -1049,33 +1049,33 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,CBR,MEL,2021,4,470,65904,495,70.6,46501,Canberra - Melbourne,28,Metropolitian
 1-May-21,CBR,MEL,2021,5,470,81122,601,55.1,44707,Canberra - Melbourne,29,Metropolitian
 1-Jun-21,CBR,MEL,2021,6,470,39499,300,41.4,16351,Canberra - Melbourne,30,Metropolitian
-1-Jan-19,CBR,OOL,2019,1,892,,,,,Canberra - Gold Coast,1,Metropolitian
-1-Feb-19,CBR,OOL,2019,2,892,,,,,Canberra - Gold Coast,2,Metropolitian
-1-Mar-19,CBR,OOL,2019,3,892,,,,,Canberra - Gold Coast,3,Metropolitian
-1-Apr-19,CBR,OOL,2019,4,892,,,,,Canberra - Gold Coast,4,Metropolitian
-1-May-19,CBR,OOL,2019,5,892,,,,,Canberra - Gold Coast,5,Metropolitian
-1-Jun-19,CBR,OOL,2019,6,892,,,,,Canberra - Gold Coast,6,Metropolitian
-1-Jul-19,CBR,OOL,2019,7,892,,,,,Canberra - Gold Coast,7,Metropolitian
-1-Aug-19,CBR,OOL,2019,8,892,,,,,Canberra - Gold Coast,8,Metropolitian
-1-Sep-19,CBR,OOL,2019,9,892,,,,,Canberra - Gold Coast,9,Metropolitian
-1-Oct-19,CBR,OOL,2019,10,892,,,,,Canberra - Gold Coast,10,Metropolitian
-1-Nov-19,CBR,OOL,2019,11,892,,,,,Canberra - Gold Coast,11,Metropolitian
-1-Dec-19,CBR,OOL,2019,12,892,,,,,Canberra - Gold Coast,12,Metropolitian
-1-Jan-20,CBR,OOL,2020,1,892,,,,,Canberra - Gold Coast,13,Metropolitian
-1-Feb-20,CBR,OOL,2020,2,892,,,,,Canberra - Gold Coast,14,Metropolitian
-1-Mar-20,CBR,OOL,2020,3,892,,,,,Canberra - Gold Coast,15,Metropolitian
-1-Apr-20,CBR,OOL,2020,4,892,,,,,Canberra - Gold Coast,16,Metropolitian
-1-May-20,CBR,OOL,2020,5,892,,,,,Canberra - Gold Coast,17,Metropolitian
-1-Jun-20,CBR,OOL,2020,6,892,,,,,Canberra - Gold Coast,18,Metropolitian
-1-Jul-20,CBR,OOL,2020,7,892,,,,,Canberra - Gold Coast,19,Metropolitian
-1-Aug-20,CBR,OOL,2020,8,892,,,,,Canberra - Gold Coast,20,Metropolitian
-1-Sep-20,CBR,OOL,2020,9,892,,,,,Canberra - Gold Coast,21,Metropolitian
-1-Oct-20,CBR,OOL,2020,10,892,,,,,Canberra - Gold Coast,22,Metropolitian
-1-Nov-20,CBR,OOL,2020,11,892,,,,,Canberra - Gold Coast,23,Metropolitian
-1-Dec-20,CBR,OOL,2020,12,892,,,,,Canberra - Gold Coast,24,Metropolitian
-1-Jan-21,CBR,OOL,2021,1,892,,,,,Canberra - Gold Coast,25,Metropolitian
-1-Feb-21,CBR,OOL,2021,2,892,,,,,Canberra - Gold Coast,26,Metropolitian
-1-Mar-21,CBR,OOL,2021,3,892,,,,,Canberra - Gold Coast,27,Metropolitian
+1-Jan-19,CBR,OOL,2019,1,892,0,0,0,0,Canberra - Gold Coast,1,Metropolitian
+1-Feb-19,CBR,OOL,2019,2,892,0,0,0,0,Canberra - Gold Coast,2,Metropolitian
+1-Mar-19,CBR,OOL,2019,3,892,0,0,0,0,Canberra - Gold Coast,3,Metropolitian
+1-Apr-19,CBR,OOL,2019,4,892,0,0,0,0,Canberra - Gold Coast,4,Metropolitian
+1-May-19,CBR,OOL,2019,5,892,0,0,0,0,Canberra - Gold Coast,5,Metropolitian
+1-Jun-19,CBR,OOL,2019,6,892,0,0,0,0,Canberra - Gold Coast,6,Metropolitian
+1-Jul-19,CBR,OOL,2019,7,892,0,0,0,0,Canberra - Gold Coast,7,Metropolitian
+1-Aug-19,CBR,OOL,2019,8,892,0,0,0,0,Canberra - Gold Coast,8,Metropolitian
+1-Sep-19,CBR,OOL,2019,9,892,0,0,0,0,Canberra - Gold Coast,9,Metropolitian
+1-Oct-19,CBR,OOL,2019,10,892,0,0,0,0,Canberra - Gold Coast,10,Metropolitian
+1-Nov-19,CBR,OOL,2019,11,892,0,0,0,0,Canberra - Gold Coast,11,Metropolitian
+1-Dec-19,CBR,OOL,2019,12,892,0,0,0,0,Canberra - Gold Coast,12,Metropolitian
+1-Jan-20,CBR,OOL,2020,1,892,0,0,0,0,Canberra - Gold Coast,13,Metropolitian
+1-Feb-20,CBR,OOL,2020,2,892,0,0,0,0,Canberra - Gold Coast,14,Metropolitian
+1-Mar-20,CBR,OOL,2020,3,892,0,0,0,0,Canberra - Gold Coast,15,Metropolitian
+1-Apr-20,CBR,OOL,2020,4,892,0,0,0,0,Canberra - Gold Coast,16,Metropolitian
+1-May-20,CBR,OOL,2020,5,892,0,0,0,0,Canberra - Gold Coast,17,Metropolitian
+1-Jun-20,CBR,OOL,2020,6,892,0,0,0,0,Canberra - Gold Coast,18,Metropolitian
+1-Jul-20,CBR,OOL,2020,7,892,0,0,0,0,Canberra - Gold Coast,19,Metropolitian
+1-Aug-20,CBR,OOL,2020,8,892,0,0,0,0,Canberra - Gold Coast,20,Metropolitian
+1-Sep-20,CBR,OOL,2020,9,892,0,0,0,0,Canberra - Gold Coast,21,Metropolitian
+1-Oct-20,CBR,OOL,2020,10,892,0,0,0,0,Canberra - Gold Coast,22,Metropolitian
+1-Nov-20,CBR,OOL,2020,11,892,0,0,0,0,Canberra - Gold Coast,23,Metropolitian
+1-Dec-20,CBR,OOL,2020,12,892,0,0,0,0,Canberra - Gold Coast,24,Metropolitian
+1-Jan-21,CBR,OOL,2021,1,892,0,0,0,0,Canberra - Gold Coast,25,Metropolitian
+1-Feb-21,CBR,OOL,2021,2,892,0,0,0,0,Canberra - Gold Coast,26,Metropolitian
+1-Mar-21,CBR,OOL,2021,3,892,0,0,0,0,Canberra - Gold Coast,27,Metropolitian
 1-Apr-21,CBR,OOL,2021,4,892,17774,124,66.3,11787,Canberra - Gold Coast,28,Metropolitian
 1-May-21,CBR,OOL,2021,5,892,17655,123,66.3,11710,Canberra - Gold Coast,29,Metropolitian
 1-Jun-21,CBR,OOL,2021,6,892,17146,119,69.1,11840,Canberra - Gold Coast,30,Metropolitian
@@ -1094,16 +1094,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,CBR,SYD,2020,1,236,66756,914,73.9,49339,Canberra - Sydney,13,Metropolitian
 1-Feb-20,CBR,SYD,2020,2,236,99748,"1,298",73.4,73238,Canberra - Sydney,14,Metropolitian
 1-Mar-20,CBR,SYD,2020,3,236,79624,"1,071",54,43011,Canberra - Sydney,15,Metropolitian
-1-Apr-20,CBR,SYD,2020,4,236,,,,,Canberra - Sydney,16,Metropolitian
-1-May-20,CBR,SYD,2020,5,236,,,,,Canberra - Sydney,17,Metropolitian
-1-Jun-20,CBR,SYD,2020,6,236,,,,,Canberra - Sydney,18,Metropolitian
-1-Jul-20,CBR,SYD,2020,7,236,,,,,Canberra - Sydney,19,Metropolitian
-1-Aug-20,CBR,SYD,2020,8,236,,,,,Canberra - Sydney,20,Metropolitian
-1-Sep-20,CBR,SYD,2020,9,236,,,,,Canberra - Sydney,21,Metropolitian
-1-Oct-20,CBR,SYD,2020,10,236,,,,,Canberra - Sydney,22,Metropolitian
-1-Nov-20,CBR,SYD,2020,11,236,,,,,Canberra - Sydney,23,Metropolitian
-1-Dec-20,CBR,SYD,2020,12,236,,,,,Canberra - Sydney,24,Metropolitian
-1-Jan-21,CBR,SYD,2021,1,236,,,,,Canberra - Sydney,25,Metropolitian
+1-Apr-20,CBR,SYD,2020,4,236,0,0,0,0,Canberra - Sydney,16,Metropolitian
+1-May-20,CBR,SYD,2020,5,236,0,0,0,0,Canberra - Sydney,17,Metropolitian
+1-Jun-20,CBR,SYD,2020,6,236,0,0,0,0,Canberra - Sydney,18,Metropolitian
+1-Jul-20,CBR,SYD,2020,7,236,0,0,0,0,Canberra - Sydney,19,Metropolitian
+1-Aug-20,CBR,SYD,2020,8,236,0,0,0,0,Canberra - Sydney,20,Metropolitian
+1-Sep-20,CBR,SYD,2020,9,236,0,0,0,0,Canberra - Sydney,21,Metropolitian
+1-Oct-20,CBR,SYD,2020,10,236,0,0,0,0,Canberra - Sydney,22,Metropolitian
+1-Nov-20,CBR,SYD,2020,11,236,0,0,0,0,Canberra - Sydney,23,Metropolitian
+1-Dec-20,CBR,SYD,2020,12,236,0,0,0,0,Canberra - Sydney,24,Metropolitian
+1-Jan-21,CBR,SYD,2021,1,236,0,0,0,0,Canberra - Sydney,25,Metropolitian
 1-Feb-21,CBR,SYD,2021,2,236,32952,393,49.2,16228,Canberra - Sydney,26,Metropolitian
 1-Mar-21,CBR,SYD,2021,3,236,34029,426,66.9,22779,Canberra - Sydney,27,Metropolitian
 1-Apr-21,CBR,SYD,2021,4,236,39357,544,59.9,23583,Canberra - Sydney,28,Metropolitian
@@ -1124,16 +1124,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,CFS,SYD,2020,1,443,37131,398,72.2,26798,Coffs Harbour - Sydney,13,Regional
 1-Feb-20,CFS,SYD,2020,2,443,32072,373,74.4,23863,Coffs Harbour - Sydney,14,Regional
 1-Mar-20,CFS,SYD,2020,3,443,28518,357,57.3,16353,Coffs Harbour - Sydney,15,Regional
-1-Apr-20,CFS,SYD,2020,4,443,,,,,Coffs Harbour - Sydney,16,Regional
-1-May-20,CFS,SYD,2020,5,443,,,,,Coffs Harbour - Sydney,17,Regional
-1-Jun-20,CFS,SYD,2020,6,443,,,,,Coffs Harbour - Sydney,18,Regional
-1-Jul-20,CFS,SYD,2020,7,443,,,,,Coffs Harbour - Sydney,19,Regional
-1-Aug-20,CFS,SYD,2020,8,443,,,,,Coffs Harbour - Sydney,20,Regional
-1-Sep-20,CFS,SYD,2020,9,443,,,,,Coffs Harbour - Sydney,21,Regional
-1-Oct-20,CFS,SYD,2020,10,443,,,,,Coffs Harbour - Sydney,22,Regional
+1-Apr-20,CFS,SYD,2020,4,443,0,0,0,0,Coffs Harbour - Sydney,16,Regional
+1-May-20,CFS,SYD,2020,5,443,0,0,0,0,Coffs Harbour - Sydney,17,Regional
+1-Jun-20,CFS,SYD,2020,6,443,0,0,0,0,Coffs Harbour - Sydney,18,Regional
+1-Jul-20,CFS,SYD,2020,7,443,0,0,0,0,Coffs Harbour - Sydney,19,Regional
+1-Aug-20,CFS,SYD,2020,8,443,0,0,0,0,Coffs Harbour - Sydney,20,Regional
+1-Sep-20,CFS,SYD,2020,9,443,0,0,0,0,Coffs Harbour - Sydney,21,Regional
+1-Oct-20,CFS,SYD,2020,10,443,0,0,0,0,Coffs Harbour - Sydney,22,Regional
 1-Nov-20,CFS,SYD,2020,11,443,15218,213,57.3,8725,Coffs Harbour - Sydney,23,Regional
 1-Dec-20,CFS,SYD,2020,12,443,17740,242,61.9,10988,Coffs Harbour - Sydney,24,Regional
-1-Jan-21,CFS,SYD,2021,1,443,,,,,Coffs Harbour - Sydney,25,Regional
+1-Jan-21,CFS,SYD,2021,1,443,0,0,0,0,Coffs Harbour - Sydney,25,Regional
 1-Feb-21,CFS,SYD,2021,2,443,17646,233,54.2,9559,Coffs Harbour - Sydney,26,Regional
 1-Mar-21,CFS,SYD,2021,3,443,26480,350,59,15634,Coffs Harbour - Sydney,27,Regional
 1-Apr-21,CFS,SYD,2021,4,443,26628,430,60.1,16015,Coffs Harbour - Sydney,28,Regional
@@ -1154,14 +1154,14 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,CNS,MEL,2020,1,"2,311",68498,366,91.3,62543,Cairns - Melbourne,13,Regional
 1-Feb-20,CNS,MEL,2020,2,"2,311",58748,305,68.6,40301,Cairns - Melbourne,14,Regional
 1-Mar-20,CNS,MEL,2020,3,"2,311",48539,253,68.2,33116,Cairns - Melbourne,15,Regional
-1-Apr-20,CNS,MEL,2020,4,"2,311",,,,,Cairns - Melbourne,16,Regional
-1-May-20,CNS,MEL,2020,5,"2,311",,,,,Cairns - Melbourne,17,Regional
-1-Jun-20,CNS,MEL,2020,6,"2,311",,,,,Cairns - Melbourne,18,Regional
-1-Jul-20,CNS,MEL,2020,7,"2,311",,,,,Cairns - Melbourne,19,Regional
-1-Aug-20,CNS,MEL,2020,8,"2,311",,,,,Cairns - Melbourne,20,Regional
-1-Sep-20,CNS,MEL,2020,9,"2,311",,,,,Cairns - Melbourne,21,Regional
-1-Oct-20,CNS,MEL,2020,10,"2,311",,,,,Cairns - Melbourne,22,Regional
-1-Nov-20,CNS,MEL,2020,11,"2,311",,,,,Cairns - Melbourne,23,Regional
+1-Apr-20,CNS,MEL,2020,4,"2,311",0,0,0,0,Cairns - Melbourne,16,Regional
+1-May-20,CNS,MEL,2020,5,"2,311",0,0,0,0,Cairns - Melbourne,17,Regional
+1-Jun-20,CNS,MEL,2020,6,"2,311",0,0,0,0,Cairns - Melbourne,18,Regional
+1-Jul-20,CNS,MEL,2020,7,"2,311",0,0,0,0,Cairns - Melbourne,19,Regional
+1-Aug-20,CNS,MEL,2020,8,"2,311",0,0,0,0,Cairns - Melbourne,20,Regional
+1-Sep-20,CNS,MEL,2020,9,"2,311",0,0,0,0,Cairns - Melbourne,21,Regional
+1-Oct-20,CNS,MEL,2020,10,"2,311",0,0,0,0,Cairns - Melbourne,22,Regional
+1-Nov-20,CNS,MEL,2020,11,"2,311",0,0,0,0,Cairns - Melbourne,23,Regional
 1-Dec-20,CNS,MEL,2020,12,"2,311",33930,172,75,25461,Cairns - Melbourne,24,Regional
 1-Jan-21,CNS,MEL,2021,1,"2,311",50873,269,74.2,37740,Cairns - Melbourne,25,Regional
 1-Feb-21,CNS,MEL,2021,2,"2,311",22644,125,52.3,11838,Cairns - Melbourne,26,Regional
@@ -1184,16 +1184,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,CNS,SYD,2020,1,"1,971",111910,585,88.8,99432,Cairns - Sydney,13,Regional
 1-Feb-20,CNS,SYD,2020,2,"1,971",87672,453,65.9,57804,Cairns - Sydney,14,Regional
 1-Mar-20,CNS,SYD,2020,3,"1,971",70156,362,61.8,43391,Cairns - Sydney,15,Regional
-1-Apr-20,CNS,SYD,2020,4,"1,971",,,,,Cairns - Sydney,16,Regional
-1-May-20,CNS,SYD,2020,5,"1,971",,,,,Cairns - Sydney,17,Regional
-1-Jun-20,CNS,SYD,2020,6,"1,971",,,,,Cairns - Sydney,18,Regional
+1-Apr-20,CNS,SYD,2020,4,"1,971",0,0,0,0,Cairns - Sydney,16,Regional
+1-May-20,CNS,SYD,2020,5,"1,971",0,0,0,0,Cairns - Sydney,17,Regional
+1-Jun-20,CNS,SYD,2020,6,"1,971",0,0,0,0,Cairns - Sydney,18,Regional
 1-Jul-20,CNS,SYD,2020,7,"1,971",34631,194,69.7,24123,Cairns - Sydney,19,Regional
-1-Aug-20,CNS,SYD,2020,8,"1,971",,,,,Cairns - Sydney,20,Regional
-1-Sep-20,CNS,SYD,2020,9,"1,971",,,,,Cairns - Sydney,21,Regional
-1-Oct-20,CNS,SYD,2020,10,"1,971",,,,,Cairns - Sydney,22,Regional
-1-Nov-20,CNS,SYD,2020,11,"1,971",,,,,Cairns - Sydney,23,Regional
+1-Aug-20,CNS,SYD,2020,8,"1,971",0,0,0,0,Cairns - Sydney,20,Regional
+1-Sep-20,CNS,SYD,2020,9,"1,971",0,0,0,0,Cairns - Sydney,21,Regional
+1-Oct-20,CNS,SYD,2020,10,"1,971",0,0,0,0,Cairns - Sydney,22,Regional
+1-Nov-20,CNS,SYD,2020,11,"1,971",0,0,0,0,Cairns - Sydney,23,Regional
 1-Dec-20,CNS,SYD,2020,12,"1,971",36250,204,51.1,18508,Cairns - Sydney,24,Regional
-1-Jan-21,CNS,SYD,2021,1,"1,971",,,,,Cairns - Sydney,25,Regional
+1-Jan-21,CNS,SYD,2021,1,"1,971",0,0,0,0,Cairns - Sydney,25,Regional
 1-Feb-21,CNS,SYD,2021,2,"1,971",18244,110,69.6,12694,Cairns - Sydney,26,Regional
 1-Mar-21,CNS,SYD,2021,3,"1,971",38386,220,75.9,29145,Cairns - Sydney,27,Regional
 1-Apr-21,CNS,SYD,2021,4,"1,971",96841,494,66.2,64120,Cairns - Sydney,28,Regional
@@ -1215,20 +1215,20 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,CNS,TSV,2020,2,284,19547,311,51.2,10007,Cairns - Townsville,14,Regional
 1-Mar-20,CNS,TSV,2020,3,284,19518,320,40.9,7987,Cairns - Townsville,15,Regional
 1-Apr-20,CNS,TSV,2020,4,284,5055,98,25.8,1303,Cairns - Townsville,16,Regional
-1-May-20,CNS,TSV,2020,5,284,,,,,Cairns - Townsville,17,Regional
-1-Jun-20,CNS,TSV,2020,6,284,,,,,Cairns - Townsville,18,Regional
-1-Jul-20,CNS,TSV,2020,7,284,,,,,Cairns - Townsville,19,Regional
-1-Aug-20,CNS,TSV,2020,8,284,,,,,Cairns - Townsville,20,Regional
-1-Sep-20,CNS,TSV,2020,9,284,,,,,Cairns - Townsville,21,Regional
-1-Oct-20,CNS,TSV,2020,10,284,,,,,Cairns - Townsville,22,Regional
-1-Nov-20,CNS,TSV,2020,11,284,,,,,Cairns - Townsville,23,Regional
-1-Dec-20,CNS,TSV,2020,12,284,,,,,Cairns - Townsville,24,Regional
-1-Jan-21,CNS,TSV,2021,1,284,,,,,Cairns - Townsville,25,Regional
-1-Feb-21,CNS,TSV,2021,2,284,,,,,Cairns - Townsville,26,Regional
-1-Mar-21,CNS,TSV,2021,3,284,,,,,Cairns - Townsville,27,Regional
-1-Apr-21,CNS,TSV,2021,4,284,,,,,Cairns - Townsville,28,Regional
-1-May-21,CNS,TSV,2021,5,284,,,,,Cairns - Townsville,29,Regional
-1-Jun-21,CNS,TSV,2021,6,284,,,,,Cairns - Townsville,30,Regional
+1-May-20,CNS,TSV,2020,5,284,0,0,0,0,Cairns - Townsville,17,Regional
+1-Jun-20,CNS,TSV,2020,6,284,0,0,0,0,Cairns - Townsville,18,Regional
+1-Jul-20,CNS,TSV,2020,7,284,0,0,0,0,Cairns - Townsville,19,Regional
+1-Aug-20,CNS,TSV,2020,8,284,0,0,0,0,Cairns - Townsville,20,Regional
+1-Sep-20,CNS,TSV,2020,9,284,0,0,0,0,Cairns - Townsville,21,Regional
+1-Oct-20,CNS,TSV,2020,10,284,0,0,0,0,Cairns - Townsville,22,Regional
+1-Nov-20,CNS,TSV,2020,11,284,0,0,0,0,Cairns - Townsville,23,Regional
+1-Dec-20,CNS,TSV,2020,12,284,0,0,0,0,Cairns - Townsville,24,Regional
+1-Jan-21,CNS,TSV,2021,1,284,0,0,0,0,Cairns - Townsville,25,Regional
+1-Feb-21,CNS,TSV,2021,2,284,0,0,0,0,Cairns - Townsville,26,Regional
+1-Mar-21,CNS,TSV,2021,3,284,0,0,0,0,Cairns - Townsville,27,Regional
+1-Apr-21,CNS,TSV,2021,4,284,0,0,0,0,Cairns - Townsville,28,Regional
+1-May-21,CNS,TSV,2021,5,284,0,0,0,0,Cairns - Townsville,29,Regional
+1-Jun-21,CNS,TSV,2021,6,284,0,0,0,0,Cairns - Townsville,30,Regional
 1-Jan-19,DBO,SYD,2019,1,310,18076,383,64.2,11606,Dubbo - Sydney,1,Regional
 1-Feb-19,DBO,SYD,2019,2,310,21124,456,65.6,13852,Dubbo - Sydney,2,Regional
 1-Mar-19,DBO,SYD,2019,3,310,23694,515,68.4,16202,Dubbo - Sydney,3,Regional
@@ -1246,15 +1246,15 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Mar-20,DBO,SYD,2020,3,310,19857,449,49.6,9859,Dubbo - Sydney,15,Regional
 1-Apr-20,DBO,SYD,2020,4,310,2699,70,18.5,498,Dubbo - Sydney,16,Regional
 1-May-20,DBO,SYD,2020,5,310,2009,58,42.1,846,Dubbo - Sydney,17,Regional
-1-Jun-20,DBO,SYD,2020,6,310,,,,,Dubbo - Sydney,18,Regional
-1-Jul-20,DBO,SYD,2020,7,310,,,,,Dubbo - Sydney,19,Regional
-1-Aug-20,DBO,SYD,2020,8,310,,,,,Dubbo - Sydney,20,Regional
-1-Sep-20,DBO,SYD,2020,9,310,,,,,Dubbo - Sydney,21,Regional
-1-Oct-20,DBO,SYD,2020,10,310,,,,,Dubbo - Sydney,22,Regional
-1-Nov-20,DBO,SYD,2020,11,310,,,,,Dubbo - Sydney,23,Regional
-1-Dec-20,DBO,SYD,2020,12,310,,,,,Dubbo - Sydney,24,Regional
-1-Jan-21,DBO,SYD,2021,1,310,,,,,Dubbo - Sydney,25,Regional
-1-Feb-21,DBO,SYD,2021,2,310,,,,,Dubbo - Sydney,26,Regional
+1-Jun-20,DBO,SYD,2020,6,310,0,0,0,0,Dubbo - Sydney,18,Regional
+1-Jul-20,DBO,SYD,2020,7,310,0,0,0,0,Dubbo - Sydney,19,Regional
+1-Aug-20,DBO,SYD,2020,8,310,0,0,0,0,Dubbo - Sydney,20,Regional
+1-Sep-20,DBO,SYD,2020,9,310,0,0,0,0,Dubbo - Sydney,21,Regional
+1-Oct-20,DBO,SYD,2020,10,310,0,0,0,0,Dubbo - Sydney,22,Regional
+1-Nov-20,DBO,SYD,2020,11,310,0,0,0,0,Dubbo - Sydney,23,Regional
+1-Dec-20,DBO,SYD,2020,12,310,0,0,0,0,Dubbo - Sydney,24,Regional
+1-Jan-21,DBO,SYD,2021,1,310,0,0,0,0,Dubbo - Sydney,25,Regional
+1-Feb-21,DBO,SYD,2021,2,310,0,0,0,0,Dubbo - Sydney,26,Regional
 1-Mar-21,DBO,SYD,2021,3,310,17760,355,53.8,9550,Dubbo - Sydney,27,Regional
 1-Apr-21,DBO,SYD,2021,4,310,17396,354,60.8,10573,Dubbo - Sydney,28,Regional
 1-May-21,DBO,SYD,2021,5,310,19830,395,61.7,12242,Dubbo - Sydney,29,Regional
@@ -1274,21 +1274,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,DRW,MEL,2020,1,"3,131",29543,166,75.7,22363,Darwin - Melbourne,13,Metropolitian
 1-Feb-20,DRW,MEL,2020,2,"3,131",24609,140,73.7,18136,Darwin - Melbourne,14,Metropolitian
 1-Mar-20,DRW,MEL,2020,3,"3,131",22096,126,66.8,14761,Darwin - Melbourne,15,Metropolitian
-1-Apr-20,DRW,MEL,2020,4,"3,131",,,,,Darwin - Melbourne,16,Metropolitian
-1-May-20,DRW,MEL,2020,5,"3,131",,,,,Darwin - Melbourne,17,Metropolitian
-1-Jun-20,DRW,MEL,2020,6,"3,131",,,,,Darwin - Melbourne,18,Metropolitian
-1-Jul-20,DRW,MEL,2020,7,"3,131",,,,,Darwin - Melbourne,19,Metropolitian
-1-Aug-20,DRW,MEL,2020,8,"3,131",,,,,Darwin - Melbourne,20,Metropolitian
-1-Sep-20,DRW,MEL,2020,9,"3,131",,,,,Darwin - Melbourne,21,Metropolitian
-1-Oct-20,DRW,MEL,2020,10,"3,131",,,,,Darwin - Melbourne,22,Metropolitian
-1-Nov-20,DRW,MEL,2020,11,"3,131",,,,,Darwin - Melbourne,23,Metropolitian
-1-Dec-20,DRW,MEL,2020,12,"3,131",,,,,Darwin - Melbourne,24,Metropolitian
-1-Jan-21,DRW,MEL,2021,1,"3,131",,,,,Darwin - Melbourne,25,Metropolitian
-1-Feb-21,DRW,MEL,2021,2,"3,131",,,,,Darwin - Melbourne,26,Metropolitian
-1-Mar-21,DRW,MEL,2021,3,"3,131",,,,,Darwin - Melbourne,27,Metropolitian
-1-Apr-21,DRW,MEL,2021,4,"3,131",,,,,Darwin - Melbourne,28,Metropolitian
-1-May-21,DRW,MEL,2021,5,"3,131",,,,,Darwin - Melbourne,29,Metropolitian
-1-Jun-21,DRW,MEL,2021,6,"3,131",,,,,Darwin - Melbourne,30,Metropolitian
+1-Apr-20,DRW,MEL,2020,4,"3,131",0,0,0,0,Darwin - Melbourne,16,Metropolitian
+1-May-20,DRW,MEL,2020,5,"3,131",0,0,0,0,Darwin - Melbourne,17,Metropolitian
+1-Jun-20,DRW,MEL,2020,6,"3,131",0,0,0,0,Darwin - Melbourne,18,Metropolitian
+1-Jul-20,DRW,MEL,2020,7,"3,131",0,0,0,0,Darwin - Melbourne,19,Metropolitian
+1-Aug-20,DRW,MEL,2020,8,"3,131",0,0,0,0,Darwin - Melbourne,20,Metropolitian
+1-Sep-20,DRW,MEL,2020,9,"3,131",0,0,0,0,Darwin - Melbourne,21,Metropolitian
+1-Oct-20,DRW,MEL,2020,10,"3,131",0,0,0,0,Darwin - Melbourne,22,Metropolitian
+1-Nov-20,DRW,MEL,2020,11,"3,131",0,0,0,0,Darwin - Melbourne,23,Metropolitian
+1-Dec-20,DRW,MEL,2020,12,"3,131",0,0,0,0,Darwin - Melbourne,24,Metropolitian
+1-Jan-21,DRW,MEL,2021,1,"3,131",0,0,0,0,Darwin - Melbourne,25,Metropolitian
+1-Feb-21,DRW,MEL,2021,2,"3,131",0,0,0,0,Darwin - Melbourne,26,Metropolitian
+1-Mar-21,DRW,MEL,2021,3,"3,131",0,0,0,0,Darwin - Melbourne,27,Metropolitian
+1-Apr-21,DRW,MEL,2021,4,"3,131",0,0,0,0,Darwin - Melbourne,28,Metropolitian
+1-May-21,DRW,MEL,2021,5,"3,131",0,0,0,0,Darwin - Melbourne,29,Metropolitian
+1-Jun-21,DRW,MEL,2021,6,"3,131",0,0,0,0,Darwin - Melbourne,30,Metropolitian
 1-Jan-19,DRW,PER,2019,1,"2,651",21423,124,62.3,13346,Darwin - Perth,1,Metropolitian
 1-Feb-19,DRW,PER,2019,2,"2,651",19198,111,59.1,11345,Darwin - Perth,2,Metropolitian
 1-Mar-19,DRW,PER,2019,3,"2,651",21363,124,60.9,13019,Darwin - Perth,3,Metropolitian
@@ -1305,16 +1305,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,DRW,PER,2020,2,"2,651",20016,116,55,11018,Darwin - Perth,14,Metropolitian
 1-Mar-20,DRW,PER,2020,3,"2,651",18528,108,48.2,8935,Darwin - Perth,15,Metropolitian
 1-Apr-20,DRW,PER,2020,4,"2,651",1196,8,21.5,257,Darwin - Perth,16,Metropolitian
-1-May-20,DRW,PER,2020,5,"2,651",,,,,Darwin - Perth,17,Metropolitian
-1-Jun-20,DRW,PER,2020,6,"2,651",,,,,Darwin - Perth,18,Metropolitian
-1-Jul-20,DRW,PER,2020,7,"2,651",,,,,Darwin - Perth,19,Metropolitian
-1-Aug-20,DRW,PER,2020,8,"2,651",,,,,Darwin - Perth,20,Metropolitian
-1-Sep-20,DRW,PER,2020,9,"2,651",,,,,Darwin - Perth,21,Metropolitian
-1-Oct-20,DRW,PER,2020,10,"2,651",,,,,Darwin - Perth,22,Metropolitian
-1-Nov-20,DRW,PER,2020,11,"2,651",,,,,Darwin - Perth,23,Metropolitian
-1-Dec-20,DRW,PER,2020,12,"2,651",,,,,Darwin - Perth,24,Metropolitian
+1-May-20,DRW,PER,2020,5,"2,651",0,0,0,0,Darwin - Perth,17,Metropolitian
+1-Jun-20,DRW,PER,2020,6,"2,651",0,0,0,0,Darwin - Perth,18,Metropolitian
+1-Jul-20,DRW,PER,2020,7,"2,651",0,0,0,0,Darwin - Perth,19,Metropolitian
+1-Aug-20,DRW,PER,2020,8,"2,651",0,0,0,0,Darwin - Perth,20,Metropolitian
+1-Sep-20,DRW,PER,2020,9,"2,651",0,0,0,0,Darwin - Perth,21,Metropolitian
+1-Oct-20,DRW,PER,2020,10,"2,651",0,0,0,0,Darwin - Perth,22,Metropolitian
+1-Nov-20,DRW,PER,2020,11,"2,651",0,0,0,0,Darwin - Perth,23,Metropolitian
+1-Dec-20,DRW,PER,2020,12,"2,651",0,0,0,0,Darwin - Perth,24,Metropolitian
 1-Jan-21,DRW,PER,2021,1,"2,651",11852,76,68.7,8147,Darwin - Perth,25,Metropolitian
-1-Feb-21,DRW,PER,2021,2,"2,651",,,,,Darwin - Perth,26,Metropolitian
+1-Feb-21,DRW,PER,2021,2,"2,651",0,0,0,0,Darwin - Perth,26,Metropolitian
 1-Mar-21,DRW,PER,2021,3,"2,651",17248,108,49.8,8597,Darwin - Perth,27,Metropolitian
 1-Apr-21,DRW,PER,2021,4,"2,651",17160,110,66.2,11357,Darwin - Perth,28,Metropolitian
 1-May-21,DRW,PER,2021,5,"2,651",18662,120,71,13257,Darwin - Perth,29,Metropolitian
@@ -1334,21 +1334,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,DRW,SYD,2020,1,"3,155",27826,161,72.3,20109,Darwin - Sydney,13,Metropolitian
 1-Feb-20,DRW,SYD,2020,2,"3,155",20376,117,69.1,14082,Darwin - Sydney,14,Metropolitian
 1-Mar-20,DRW,SYD,2020,3,"3,155",26798,146,62,16628,Darwin - Sydney,15,Metropolitian
-1-Apr-20,DRW,SYD,2020,4,"3,155",,,,,Darwin - Sydney,16,Metropolitian
-1-May-20,DRW,SYD,2020,5,"3,155",,,,,Darwin - Sydney,17,Metropolitian
-1-Jun-20,DRW,SYD,2020,6,"3,155",,,,,Darwin - Sydney,18,Metropolitian
-1-Jul-20,DRW,SYD,2020,7,"3,155",,,,,Darwin - Sydney,19,Metropolitian
-1-Aug-20,DRW,SYD,2020,8,"3,155",,,,,Darwin - Sydney,20,Metropolitian
-1-Sep-20,DRW,SYD,2020,9,"3,155",,,,,Darwin - Sydney,21,Metropolitian
-1-Oct-20,DRW,SYD,2020,10,"3,155",,,,,Darwin - Sydney,22,Metropolitian
-1-Nov-20,DRW,SYD,2020,11,"3,155",,,,,Darwin - Sydney,23,Metropolitian
-1-Dec-20,DRW,SYD,2020,12,"3,155",,,,,Darwin - Sydney,24,Metropolitian
-1-Jan-21,DRW,SYD,2021,1,"3,155",,,,,Darwin - Sydney,25,Metropolitian
-1-Feb-21,DRW,SYD,2021,2,"3,155",,,,,Darwin - Sydney,26,Metropolitian
-1-Mar-21,DRW,SYD,2021,3,"3,155",,,,,Darwin - Sydney,27,Metropolitian
-1-Apr-21,DRW,SYD,2021,4,"3,155",,,,,Darwin - Sydney,28,Metropolitian
-1-May-21,DRW,SYD,2021,5,"3,155",,,,,Darwin - Sydney,29,Metropolitian
-1-Jun-21,DRW,SYD,2021,6,"3,155",,,,,Darwin - Sydney,30,Metropolitian
+1-Apr-20,DRW,SYD,2020,4,"3,155",0,0,0,0,Darwin - Sydney,16,Metropolitian
+1-May-20,DRW,SYD,2020,5,"3,155",0,0,0,0,Darwin - Sydney,17,Metropolitian
+1-Jun-20,DRW,SYD,2020,6,"3,155",0,0,0,0,Darwin - Sydney,18,Metropolitian
+1-Jul-20,DRW,SYD,2020,7,"3,155",0,0,0,0,Darwin - Sydney,19,Metropolitian
+1-Aug-20,DRW,SYD,2020,8,"3,155",0,0,0,0,Darwin - Sydney,20,Metropolitian
+1-Sep-20,DRW,SYD,2020,9,"3,155",0,0,0,0,Darwin - Sydney,21,Metropolitian
+1-Oct-20,DRW,SYD,2020,10,"3,155",0,0,0,0,Darwin - Sydney,22,Metropolitian
+1-Nov-20,DRW,SYD,2020,11,"3,155",0,0,0,0,Darwin - Sydney,23,Metropolitian
+1-Dec-20,DRW,SYD,2020,12,"3,155",0,0,0,0,Darwin - Sydney,24,Metropolitian
+1-Jan-21,DRW,SYD,2021,1,"3,155",0,0,0,0,Darwin - Sydney,25,Metropolitian
+1-Feb-21,DRW,SYD,2021,2,"3,155",0,0,0,0,Darwin - Sydney,26,Metropolitian
+1-Mar-21,DRW,SYD,2021,3,"3,155",0,0,0,0,Darwin - Sydney,27,Metropolitian
+1-Apr-21,DRW,SYD,2021,4,"3,155",0,0,0,0,Darwin - Sydney,28,Metropolitian
+1-May-21,DRW,SYD,2021,5,"3,155",0,0,0,0,Darwin - Sydney,29,Metropolitian
+1-Jun-21,DRW,SYD,2021,6,"3,155",0,0,0,0,Darwin - Sydney,30,Metropolitian
 1-Jan-19,GET,PER,2019,1,370,16400,164,46.1,7562,Geraldton - Perth,1,Regional
 1-Feb-19,GET,PER,2019,2,370,13600,136,62,8431,Geraldton - Perth,2,Regional
 1-Mar-19,GET,PER,2019,3,370,15000,150,61.8,9266,Geraldton - Perth,3,Regional
@@ -1356,29 +1356,29 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-May-19,GET,PER,2019,5,370,15800,158,62.2,9834,Geraldton - Perth,5,Regional
 1-Jun-19,GET,PER,2019,6,370,15000,150,56.8,8516,Geraldton - Perth,6,Regional
 1-Jul-19,GET,PER,2019,7,370,14200,142,61.5,8733,Geraldton - Perth,7,Regional
-1-Aug-19,GET,PER,2019,8,370,,,,,Geraldton - Perth,8,Regional
-1-Sep-19,GET,PER,2019,9,370,,,,,Geraldton - Perth,9,Regional
-1-Oct-19,GET,PER,2019,10,370,,,,,Geraldton - Perth,10,Regional
-1-Nov-19,GET,PER,2019,11,370,,,,,Geraldton - Perth,11,Regional
-1-Dec-19,GET,PER,2019,12,370,,,,,Geraldton - Perth,12,Regional
-1-Jan-20,GET,PER,2020,1,370,,,,,Geraldton - Perth,13,Regional
-1-Feb-20,GET,PER,2020,2,370,,,,,Geraldton - Perth,14,Regional
-1-Mar-20,GET,PER,2020,3,370,,,,,Geraldton - Perth,15,Regional
-1-Apr-20,GET,PER,2020,4,370,,,,,Geraldton - Perth,16,Regional
-1-May-20,GET,PER,2020,5,370,,,,,Geraldton - Perth,17,Regional
-1-Jun-20,GET,PER,2020,6,370,,,,,Geraldton - Perth,18,Regional
-1-Jul-20,GET,PER,2020,7,370,,,,,Geraldton - Perth,19,Regional
-1-Aug-20,GET,PER,2020,8,370,,,,,Geraldton - Perth,20,Regional
-1-Sep-20,GET,PER,2020,9,370,,,,,Geraldton - Perth,21,Regional
-1-Oct-20,GET,PER,2020,10,370,,,,,Geraldton - Perth,22,Regional
-1-Nov-20,GET,PER,2020,11,370,,,,,Geraldton - Perth,23,Regional
-1-Dec-20,GET,PER,2020,12,370,,,,,Geraldton - Perth,24,Regional
-1-Jan-21,GET,PER,2021,1,370,,,,,Geraldton - Perth,25,Regional
-1-Feb-21,GET,PER,2021,2,370,,,,,Geraldton - Perth,26,Regional
-1-Mar-21,GET,PER,2021,3,370,,,,,Geraldton - Perth,27,Regional
-1-Apr-21,GET,PER,2021,4,370,,,,,Geraldton - Perth,28,Regional
-1-May-21,GET,PER,2021,5,370,,,,,Geraldton - Perth,29,Regional
-1-Jun-21,GET,PER,2021,6,370,,,,,Geraldton - Perth,30,Regional
+1-Aug-19,GET,PER,2019,8,370,0,0,0,0,Geraldton - Perth,8,Regional
+1-Sep-19,GET,PER,2019,9,370,0,0,0,0,Geraldton - Perth,9,Regional
+1-Oct-19,GET,PER,2019,10,370,0,0,0,0,Geraldton - Perth,10,Regional
+1-Nov-19,GET,PER,2019,11,370,0,0,0,0,Geraldton - Perth,11,Regional
+1-Dec-19,GET,PER,2019,12,370,0,0,0,0,Geraldton - Perth,12,Regional
+1-Jan-20,GET,PER,2020,1,370,0,0,0,0,Geraldton - Perth,13,Regional
+1-Feb-20,GET,PER,2020,2,370,0,0,0,0,Geraldton - Perth,14,Regional
+1-Mar-20,GET,PER,2020,3,370,0,0,0,0,Geraldton - Perth,15,Regional
+1-Apr-20,GET,PER,2020,4,370,0,0,0,0,Geraldton - Perth,16,Regional
+1-May-20,GET,PER,2020,5,370,0,0,0,0,Geraldton - Perth,17,Regional
+1-Jun-20,GET,PER,2020,6,370,0,0,0,0,Geraldton - Perth,18,Regional
+1-Jul-20,GET,PER,2020,7,370,0,0,0,0,Geraldton - Perth,19,Regional
+1-Aug-20,GET,PER,2020,8,370,0,0,0,0,Geraldton - Perth,20,Regional
+1-Sep-20,GET,PER,2020,9,370,0,0,0,0,Geraldton - Perth,21,Regional
+1-Oct-20,GET,PER,2020,10,370,0,0,0,0,Geraldton - Perth,22,Regional
+1-Nov-20,GET,PER,2020,11,370,0,0,0,0,Geraldton - Perth,23,Regional
+1-Dec-20,GET,PER,2020,12,370,0,0,0,0,Geraldton - Perth,24,Regional
+1-Jan-21,GET,PER,2021,1,370,0,0,0,0,Geraldton - Perth,25,Regional
+1-Feb-21,GET,PER,2021,2,370,0,0,0,0,Geraldton - Perth,26,Regional
+1-Mar-21,GET,PER,2021,3,370,0,0,0,0,Geraldton - Perth,27,Regional
+1-Apr-21,GET,PER,2021,4,370,0,0,0,0,Geraldton - Perth,28,Regional
+1-May-21,GET,PER,2021,5,370,0,0,0,0,Geraldton - Perth,29,Regional
+1-Jun-21,GET,PER,2021,6,370,0,0,0,0,Geraldton - Perth,30,Regional
 1-Jan-19,HBA,MEL,2019,1,618,207296,1128,79.2,164170,Hobart - Melbourne,1,Metropolitian
 1-Feb-19,HBA,MEL,2019,2,618,172134,927,82.5,142073,Hobart - Melbourne,2,Metropolitian
 1-Mar-19,HBA,MEL,2019,3,618,190438,1024,79.1,150729,Hobart - Melbourne,3,Metropolitian
@@ -1394,14 +1394,14 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,HBA,MEL,2020,1,618,199133,1095,83.6,166385,Hobart - Melbourne,13,Metropolitian
 1-Feb-20,HBA,MEL,2020,2,618,174480,948,77.6,135458,Hobart - Melbourne,14,Metropolitian
 1-Mar-20,HBA,MEL,2020,3,618,138577,772,65.3,90499,Hobart - Melbourne,15,Metropolitian
-1-Apr-20,HBA,MEL,2020,4,618,,,,,Hobart - Melbourne,16,Metropolitian
-1-May-20,HBA,MEL,2020,5,618,,,,,Hobart - Melbourne,17,Metropolitian
-1-Jun-20,HBA,MEL,2020,6,618,,,,,Hobart - Melbourne,18,Metropolitian
-1-Jul-20,HBA,MEL,2020,7,618,,,,,Hobart - Melbourne,19,Metropolitian
-1-Aug-20,HBA,MEL,2020,8,618,,,,,Hobart - Melbourne,20,Metropolitian
-1-Sep-20,HBA,MEL,2020,9,618,,,,,Hobart - Melbourne,21,Metropolitian
-1-Oct-20,HBA,MEL,2020,10,618,,,,,Hobart - Melbourne,22,Metropolitian
-1-Nov-20,HBA,MEL,2020,11,618,,,,,Hobart - Melbourne,23,Metropolitian
+1-Apr-20,HBA,MEL,2020,4,618,0,0,0,0,Hobart - Melbourne,16,Metropolitian
+1-May-20,HBA,MEL,2020,5,618,0,0,0,0,Hobart - Melbourne,17,Metropolitian
+1-Jun-20,HBA,MEL,2020,6,618,0,0,0,0,Hobart - Melbourne,18,Metropolitian
+1-Jul-20,HBA,MEL,2020,7,618,0,0,0,0,Hobart - Melbourne,19,Metropolitian
+1-Aug-20,HBA,MEL,2020,8,618,0,0,0,0,Hobart - Melbourne,20,Metropolitian
+1-Sep-20,HBA,MEL,2020,9,618,0,0,0,0,Hobart - Melbourne,21,Metropolitian
+1-Oct-20,HBA,MEL,2020,10,618,0,0,0,0,Hobart - Melbourne,22,Metropolitian
+1-Nov-20,HBA,MEL,2020,11,618,0,0,0,0,Hobart - Melbourne,23,Metropolitian
 1-Dec-20,HBA,MEL,2020,12,618,84457,489,64.6,54520,Hobart - Melbourne,24,Metropolitian
 1-Jan-21,HBA,MEL,2021,1,618,111654,673,66.2,73873,Hobart - Melbourne,25,Metropolitian
 1-Feb-21,HBA,MEL,2021,2,618,61032,393,60.9,37140,Hobart - Melbourne,26,Metropolitian
@@ -1424,51 +1424,51 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,HBA,SYD,2020,1,"1,039",87473,539,87.8,76832,Hobart - Sydney,13,Metropolitian
 1-Feb-20,HBA,SYD,2020,2,"1,039",76967,470,79.2,60943,Hobart - Sydney,14,Metropolitian
 1-Mar-20,HBA,SYD,2020,3,"1,039",58464,356,68.6,40098,Hobart - Sydney,15,Metropolitian
-1-Apr-20,HBA,SYD,2020,4,"1,039",,,,,Hobart - Sydney,16,Metropolitian
-1-May-20,HBA,SYD,2020,5,"1,039",,,,,Hobart - Sydney,17,Metropolitian
-1-Jun-20,HBA,SYD,2020,6,"1,039",,,,,Hobart - Sydney,18,Metropolitian
-1-Jul-20,HBA,SYD,2020,7,"1,039",,,,,Hobart - Sydney,19,Metropolitian
-1-Aug-20,HBA,SYD,2020,8,"1,039",,,,,Hobart - Sydney,20,Metropolitian
-1-Sep-20,HBA,SYD,2020,9,"1,039",,,,,Hobart - Sydney,21,Metropolitian
-1-Oct-20,HBA,SYD,2020,10,"1,039",,,,,Hobart - Sydney,22,Metropolitian
+1-Apr-20,HBA,SYD,2020,4,"1,039",0,0,0,0,Hobart - Sydney,16,Metropolitian
+1-May-20,HBA,SYD,2020,5,"1,039",0,0,0,0,Hobart - Sydney,17,Metropolitian
+1-Jun-20,HBA,SYD,2020,6,"1,039",0,0,0,0,Hobart - Sydney,18,Metropolitian
+1-Jul-20,HBA,SYD,2020,7,"1,039",0,0,0,0,Hobart - Sydney,19,Metropolitian
+1-Aug-20,HBA,SYD,2020,8,"1,039",0,0,0,0,Hobart - Sydney,20,Metropolitian
+1-Sep-20,HBA,SYD,2020,9,"1,039",0,0,0,0,Hobart - Sydney,21,Metropolitian
+1-Oct-20,HBA,SYD,2020,10,"1,039",0,0,0,0,Hobart - Sydney,22,Metropolitian
 1-Nov-20,HBA,SYD,2020,11,"1,039",32730,197,65.5,21429,Hobart - Sydney,23,Metropolitian
 1-Dec-20,HBA,SYD,2020,12,"1,039",59530,346,50.4,30020,Hobart - Sydney,24,Metropolitian
-1-Jan-21,HBA,SYD,2021,1,"1,039",,,,,Hobart - Sydney,25,Metropolitian
+1-Jan-21,HBA,SYD,2021,1,"1,039",0,0,0,0,Hobart - Sydney,25,Metropolitian
 1-Feb-21,HBA,SYD,2021,2,"1,039",36548,200,67.2,24565,Hobart - Sydney,26,Metropolitian
 1-Mar-21,HBA,SYD,2021,3,"1,039",68829,390,61.6,42399,Hobart - Sydney,27,Metropolitian
 1-Apr-21,HBA,SYD,2021,4,"1,039",78120,444,74.6,58251,Hobart - Sydney,28,Metropolitian
 1-May-21,HBA,SYD,2021,5,"1,039",63148,364,71.8,45354,Hobart - Sydney,29,Metropolitian
 1-Jun-21,HBA,SYD,2021,6,"1,039",62043,351,74.1,45971,Hobart - Sydney,30,Metropolitian
-1-Jan-19,HTI,MEL,2019,1,,,,,,Hamilton Island - Melbourne,1,Regional
-1-Feb-19,HTI,MEL,2019,2,,,,,,Hamilton Island - Melbourne,2,Regional
-1-Mar-19,HTI,MEL,2019,3,,,,,,Hamilton Island - Melbourne,3,Regional
-1-Apr-19,HTI,MEL,2019,4,,,,,,Hamilton Island - Melbourne,4,Regional
-1-May-19,HTI,MEL,2019,5,,,,,,Hamilton Island - Melbourne,5,Regional
-1-Jun-19,HTI,MEL,2019,6,,,,,,Hamilton Island - Melbourne,6,Regional
-1-Jul-19,HTI,MEL,2019,7,,,,,,Hamilton Island - Melbourne,7,Regional
-1-Aug-19,HTI,MEL,2019,8,,,,,,Hamilton Island - Melbourne,8,Regional
-1-Sep-19,HTI,MEL,2019,9,,,,,,Hamilton Island - Melbourne,9,Regional
-1-Oct-19,HTI,MEL,2019,10,,,,,,Hamilton Island - Melbourne,10,Regional
+1-Jan-19,HTI,MEL,2019,1,,0,0,0,0,Hamilton Island - Melbourne,1,Regional
+1-Feb-19,HTI,MEL,2019,2,,0,0,0,0,Hamilton Island - Melbourne,2,Regional
+1-Mar-19,HTI,MEL,2019,3,,0,0,0,0,Hamilton Island - Melbourne,3,Regional
+1-Apr-19,HTI,MEL,2019,4,,0,0,0,0,Hamilton Island - Melbourne,4,Regional
+1-May-19,HTI,MEL,2019,5,,0,0,0,0,Hamilton Island - Melbourne,5,Regional
+1-Jun-19,HTI,MEL,2019,6,,0,0,0,0,Hamilton Island - Melbourne,6,Regional
+1-Jul-19,HTI,MEL,2019,7,,0,0,0,0,Hamilton Island - Melbourne,7,Regional
+1-Aug-19,HTI,MEL,2019,8,,0,0,0,0,Hamilton Island - Melbourne,8,Regional
+1-Sep-19,HTI,MEL,2019,9,,0,0,0,0,Hamilton Island - Melbourne,9,Regional
+1-Oct-19,HTI,MEL,2019,10,,0,0,0,0,Hamilton Island - Melbourne,10,Regional
 1-Nov-19,HTI,MEL,2019,11,"1,965",11866,68,69.4,8232,Hamilton Island - Melbourne,11,Regional
 1-Dec-19,HTI,MEL,2019,12,"1,965",12148,71,66.5,8078,Hamilton Island - Melbourne,12,Regional
 1-Jan-20,HTI,MEL,2020,1,"1,965",13112,76,71.5,9378,Hamilton Island - Melbourne,13,Regional
 1-Feb-20,HTI,MEL,2020,2,"1,965",8645,50,52,4499,Hamilton Island - Melbourne,14,Regional
 1-Mar-20,HTI,MEL,2020,3,"1,965",6570,38,55.6,3655,Hamilton Island - Melbourne,15,Regional
-1-Apr-20,HTI,MEL,2020,4,"1,965",,,,,Hamilton Island - Melbourne,16,Regional
-1-May-20,HTI,MEL,2020,5,"1,965",,,,,Hamilton Island - Melbourne,17,Regional
-1-Jun-20,HTI,MEL,2020,6,"1,965",,,,,Hamilton Island - Melbourne,18,Regional
-1-Jul-20,HTI,MEL,2020,7,"1,965",,,,,Hamilton Island - Melbourne,19,Regional
-1-Aug-20,HTI,MEL,2020,8,"1,965",,,,,Hamilton Island - Melbourne,20,Regional
-1-Sep-20,HTI,MEL,2020,9,"1,965",,,,,Hamilton Island - Melbourne,21,Regional
-1-Oct-20,HTI,MEL,2020,10,"1,965",,,,,Hamilton Island - Melbourne,22,Regional
-1-Nov-20,HTI,MEL,2020,11,"1,965",,,,,Hamilton Island - Melbourne,23,Regional
-1-Dec-20,HTI,MEL,2020,12,"1,965",,,,,Hamilton Island - Melbourne,24,Regional
-1-Jan-21,HTI,MEL,2021,1,"1,965",,,,,Hamilton Island - Melbourne,25,Regional
-1-Feb-21,HTI,MEL,2021,2,"1,965",,,,,Hamilton Island - Melbourne,26,Regional
-1-Mar-21,HTI,MEL,2021,3,"1,965",,,,,Hamilton Island - Melbourne,27,Regional
-1-Apr-21,HTI,MEL,2021,4,"1,965",,,,,Hamilton Island - Melbourne,28,Regional
-1-May-21,HTI,MEL,2021,5,"1,965",,,,,Hamilton Island - Melbourne,29,Regional
-1-Jun-21,HTI,MEL,2021,6,"1,965",,,,,Hamilton Island - Melbourne,30,Regional
+1-Apr-20,HTI,MEL,2020,4,"1,965",0,0,0,0,Hamilton Island - Melbourne,16,Regional
+1-May-20,HTI,MEL,2020,5,"1,965",0,0,0,0,Hamilton Island - Melbourne,17,Regional
+1-Jun-20,HTI,MEL,2020,6,"1,965",0,0,0,0,Hamilton Island - Melbourne,18,Regional
+1-Jul-20,HTI,MEL,2020,7,"1,965",0,0,0,0,Hamilton Island - Melbourne,19,Regional
+1-Aug-20,HTI,MEL,2020,8,"1,965",0,0,0,0,Hamilton Island - Melbourne,20,Regional
+1-Sep-20,HTI,MEL,2020,9,"1,965",0,0,0,0,Hamilton Island - Melbourne,21,Regional
+1-Oct-20,HTI,MEL,2020,10,"1,965",0,0,0,0,Hamilton Island - Melbourne,22,Regional
+1-Nov-20,HTI,MEL,2020,11,"1,965",0,0,0,0,Hamilton Island - Melbourne,23,Regional
+1-Dec-20,HTI,MEL,2020,12,"1,965",0,0,0,0,Hamilton Island - Melbourne,24,Regional
+1-Jan-21,HTI,MEL,2021,1,"1,965",0,0,0,0,Hamilton Island - Melbourne,25,Regional
+1-Feb-21,HTI,MEL,2021,2,"1,965",0,0,0,0,Hamilton Island - Melbourne,26,Regional
+1-Mar-21,HTI,MEL,2021,3,"1,965",0,0,0,0,Hamilton Island - Melbourne,27,Regional
+1-Apr-21,HTI,MEL,2021,4,"1,965",0,0,0,0,Hamilton Island - Melbourne,28,Regional
+1-May-21,HTI,MEL,2021,5,"1,965",0,0,0,0,Hamilton Island - Melbourne,29,Regional
+1-Jun-21,HTI,MEL,2021,6,"1,965",0,0,0,0,Hamilton Island - Melbourne,30,Regional
 1-Jan-19,HTI,SYD,2019,1,"1,526",30187,182,70.9,21393,Hamilton Island - Sydney,1,Regional
 1-Feb-19,HTI,SYD,2019,2,"1,526",19135,118,76.1,14563,Hamilton Island - Sydney,2,Regional
 1-Mar-19,HTI,SYD,2019,3,"1,526",21628,134,65.9,14258,Hamilton Island - Sydney,3,Regional
@@ -1484,17 +1484,17 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,HTI,SYD,2020,1,"1,526",30228,184,83.6,25257,Hamilton Island - Sydney,13,Regional
 1-Feb-20,HTI,SYD,2020,2,"1,526",20984,134,69.2,14529,Hamilton Island - Sydney,14,Regional
 1-Mar-20,HTI,SYD,2020,3,"1,526",19100,121,62,11840,Hamilton Island - Sydney,15,Regional
-1-Apr-20,HTI,SYD,2020,4,"1,526",,,,,Hamilton Island - Sydney,16,Regional
-1-May-20,HTI,SYD,2020,5,"1,526",,,,,Hamilton Island - Sydney,17,Regional
-1-Jun-20,HTI,SYD,2020,6,"1,526",,,,,Hamilton Island - Sydney,18,Regional
-1-Jul-20,HTI,SYD,2020,7,"1,526",,,,,Hamilton Island - Sydney,19,Regional
-1-Aug-20,HTI,SYD,2020,8,"1,526",,,,,Hamilton Island - Sydney,20,Regional
-1-Sep-20,HTI,SYD,2020,9,"1,526",,,,,Hamilton Island - Sydney,21,Regional
-1-Oct-20,HTI,SYD,2020,10,"1,526",,,,,Hamilton Island - Sydney,22,Regional
-1-Nov-20,HTI,SYD,2020,11,"1,526",,,,,Hamilton Island - Sydney,23,Regional
-1-Dec-20,HTI,SYD,2020,12,"1,526",,,,,Hamilton Island - Sydney,24,Regional
-1-Jan-21,HTI,SYD,2021,1,"1,526",,,,,Hamilton Island - Sydney,25,Regional
-1-Feb-21,HTI,SYD,2021,2,"1,526",,,,,Hamilton Island - Sydney,26,Regional
+1-Apr-20,HTI,SYD,2020,4,"1,526",0,0,0,0,Hamilton Island - Sydney,16,Regional
+1-May-20,HTI,SYD,2020,5,"1,526",0,0,0,0,Hamilton Island - Sydney,17,Regional
+1-Jun-20,HTI,SYD,2020,6,"1,526",0,0,0,0,Hamilton Island - Sydney,18,Regional
+1-Jul-20,HTI,SYD,2020,7,"1,526",0,0,0,0,Hamilton Island - Sydney,19,Regional
+1-Aug-20,HTI,SYD,2020,8,"1,526",0,0,0,0,Hamilton Island - Sydney,20,Regional
+1-Sep-20,HTI,SYD,2020,9,"1,526",0,0,0,0,Hamilton Island - Sydney,21,Regional
+1-Oct-20,HTI,SYD,2020,10,"1,526",0,0,0,0,Hamilton Island - Sydney,22,Regional
+1-Nov-20,HTI,SYD,2020,11,"1,526",0,0,0,0,Hamilton Island - Sydney,23,Regional
+1-Dec-20,HTI,SYD,2020,12,"1,526",0,0,0,0,Hamilton Island - Sydney,24,Regional
+1-Jan-21,HTI,SYD,2021,1,"1,526",0,0,0,0,Hamilton Island - Sydney,25,Regional
+1-Feb-21,HTI,SYD,2021,2,"1,526",0,0,0,0,Hamilton Island - Sydney,26,Regional
 1-Mar-21,HTI,SYD,2021,3,"1,526",24674,139,68,16783,Hamilton Island - Sydney,27,Regional
 1-Apr-21,HTI,SYD,2021,4,"1,526",32442,183,63.2,20499,Hamilton Island - Sydney,28,Regional
 1-May-21,HTI,SYD,2021,5,"1,526",27568,156,71.4,19673,Hamilton Island - Sydney,29,Regional
@@ -1574,14 +1574,14 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,LST,MEL,2020,1,476,119580,861,84.1,100569,Launceston - Melbourne,13,Regional
 1-Feb-20,LST,MEL,2020,2,476,100658,741,76.2,76723,Launceston - Melbourne,14,Regional
 1-Mar-20,LST,MEL,2020,3,476,76030,618,67.4,51238,Launceston - Melbourne,15,Regional
-1-Apr-20,LST,MEL,2020,4,476,,,,,Launceston - Melbourne,16,Regional
-1-May-20,LST,MEL,2020,5,476,,,,,Launceston - Melbourne,17,Regional
-1-Jun-20,LST,MEL,2020,6,476,,,,,Launceston - Melbourne,18,Regional
-1-Jul-20,LST,MEL,2020,7,476,,,,,Launceston - Melbourne,19,Regional
-1-Aug-20,LST,MEL,2020,8,476,,,,,Launceston - Melbourne,20,Regional
-1-Sep-20,LST,MEL,2020,9,476,,,,,Launceston - Melbourne,21,Regional
-1-Oct-20,LST,MEL,2020,10,476,,,,,Launceston - Melbourne,22,Regional
-1-Nov-20,LST,MEL,2020,11,476,,,,,Launceston - Melbourne,23,Regional
+1-Apr-20,LST,MEL,2020,4,476,0,0,0,0,Launceston - Melbourne,16,Regional
+1-May-20,LST,MEL,2020,5,476,0,0,0,0,Launceston - Melbourne,17,Regional
+1-Jun-20,LST,MEL,2020,6,476,0,0,0,0,Launceston - Melbourne,18,Regional
+1-Jul-20,LST,MEL,2020,7,476,0,0,0,0,Launceston - Melbourne,19,Regional
+1-Aug-20,LST,MEL,2020,8,476,0,0,0,0,Launceston - Melbourne,20,Regional
+1-Sep-20,LST,MEL,2020,9,476,0,0,0,0,Launceston - Melbourne,21,Regional
+1-Oct-20,LST,MEL,2020,10,476,0,0,0,0,Launceston - Melbourne,22,Regional
+1-Nov-20,LST,MEL,2020,11,476,0,0,0,0,Launceston - Melbourne,23,Regional
 1-Dec-20,LST,MEL,2020,12,476,55558,481,68.6,38122,Launceston - Melbourne,24,Regional
 1-Jan-21,LST,MEL,2021,1,476,79208,573,59.7,47282,Launceston - Melbourne,25,Regional
 1-Feb-21,LST,MEL,2021,2,476,41064,358,55.6,22818,Launceston - Melbourne,26,Regional
@@ -1604,16 +1604,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,LST,SYD,2020,1,914,33809,187,90,30423,Launceston - Sydney,13,Regional
 1-Feb-20,LST,SYD,2020,2,914,29080,161,83.7,24345,Launceston - Sydney,14,Regional
 1-Mar-20,LST,SYD,2020,3,914,22708,126,72.9,16551,Launceston - Sydney,15,Regional
-1-Apr-20,LST,SYD,2020,4,914,,,,,Launceston - Sydney,16,Regional
-1-May-20,LST,SYD,2020,5,914,,,,,Launceston - Sydney,17,Regional
-1-Jun-20,LST,SYD,2020,6,914,,,,,Launceston - Sydney,18,Regional
-1-Jul-20,LST,SYD,2020,7,914,,,,,Launceston - Sydney,19,Regional
-1-Aug-20,LST,SYD,2020,8,914,,,,,Launceston - Sydney,20,Regional
-1-Sep-20,LST,SYD,2020,9,914,,,,,Launceston - Sydney,21,Regional
-1-Oct-20,LST,SYD,2020,10,914,,,,,Launceston - Sydney,22,Regional
+1-Apr-20,LST,SYD,2020,4,914,0,0,0,0,Launceston - Sydney,16,Regional
+1-May-20,LST,SYD,2020,5,914,0,0,0,0,Launceston - Sydney,17,Regional
+1-Jun-20,LST,SYD,2020,6,914,0,0,0,0,Launceston - Sydney,18,Regional
+1-Jul-20,LST,SYD,2020,7,914,0,0,0,0,Launceston - Sydney,19,Regional
+1-Aug-20,LST,SYD,2020,8,914,0,0,0,0,Launceston - Sydney,20,Regional
+1-Sep-20,LST,SYD,2020,9,914,0,0,0,0,Launceston - Sydney,21,Regional
+1-Oct-20,LST,SYD,2020,10,914,0,0,0,0,Launceston - Sydney,22,Regional
 1-Nov-20,LST,SYD,2020,11,914,15664,86,65.4,10247,Launceston - Sydney,23,Regional
 1-Dec-20,LST,SYD,2020,12,914,31808,186,56.2,17870,Launceston - Sydney,24,Regional
-1-Jan-21,LST,SYD,2021,1,914,,,,,Launceston - Sydney,25,Regional
+1-Jan-21,LST,SYD,2021,1,914,0,0,0,0,Launceston - Sydney,25,Regional
 1-Feb-21,LST,SYD,2021,2,914,24212,132,60.9,14735,Launceston - Sydney,26,Regional
 1-Mar-21,LST,SYD,2021,3,914,34296,198,69,23660,Launceston - Sydney,27,Regional
 1-Apr-21,LST,SYD,2021,4,914,34238,204,81.1,27769,Launceston - Sydney,28,Regional
@@ -1634,14 +1634,14 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,MCY,MEL,2020,1,"1,454",50026,282,91,45517,Melbourne - Sunshine Coast,13,Regional
 1-Feb-20,MCY,MEL,2020,2,"1,454",42168,236,83.8,35354,Melbourne - Sunshine Coast,14,Regional
 1-Mar-20,MCY,MEL,2020,3,"1,454",37840,212,75.6,28603,Melbourne - Sunshine Coast,15,Regional
-1-Apr-20,MCY,MEL,2020,4,"1,454",,,,,Melbourne - Sunshine Coast,16,Regional
-1-May-20,MCY,MEL,2020,5,"1,454",,,,,Melbourne - Sunshine Coast,17,Regional
-1-Jun-20,MCY,MEL,2020,6,"1,454",,,,,Melbourne - Sunshine Coast,18,Regional
-1-Jul-20,MCY,MEL,2020,7,"1,454",,,,,Melbourne - Sunshine Coast,19,Regional
-1-Aug-20,MCY,MEL,2020,8,"1,454",,,,,Melbourne - Sunshine Coast,20,Regional
-1-Sep-20,MCY,MEL,2020,9,"1,454",,,,,Melbourne - Sunshine Coast,21,Regional
-1-Oct-20,MCY,MEL,2020,10,"1,454",,,,,Melbourne - Sunshine Coast,22,Regional
-1-Nov-20,MCY,MEL,2020,11,"1,454",,,,,Melbourne - Sunshine Coast,23,Regional
+1-Apr-20,MCY,MEL,2020,4,"1,454",0,0,0,0,Melbourne - Sunshine Coast,16,Regional
+1-May-20,MCY,MEL,2020,5,"1,454",0,0,0,0,Melbourne - Sunshine Coast,17,Regional
+1-Jun-20,MCY,MEL,2020,6,"1,454",0,0,0,0,Melbourne - Sunshine Coast,18,Regional
+1-Jul-20,MCY,MEL,2020,7,"1,454",0,0,0,0,Melbourne - Sunshine Coast,19,Regional
+1-Aug-20,MCY,MEL,2020,8,"1,454",0,0,0,0,Melbourne - Sunshine Coast,20,Regional
+1-Sep-20,MCY,MEL,2020,9,"1,454",0,0,0,0,Melbourne - Sunshine Coast,21,Regional
+1-Oct-20,MCY,MEL,2020,10,"1,454",0,0,0,0,Melbourne - Sunshine Coast,22,Regional
+1-Nov-20,MCY,MEL,2020,11,"1,454",0,0,0,0,Melbourne - Sunshine Coast,23,Regional
 1-Dec-20,MCY,MEL,2020,12,"1,454",30082,176,82.5,24817,Melbourne - Sunshine Coast,24,Regional
 1-Jan-21,MCY,MEL,2021,1,"1,454",59132,352,77.4,45797,Melbourne - Sunshine Coast,25,Regional
 1-Feb-21,MCY,MEL,2021,2,"1,454",30600,184,56.9,17405,Melbourne - Sunshine Coast,26,Regional
@@ -1664,16 +1664,16 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,MCY,SYD,2020,1,837,57858,372,91.9,53185,Sunshine Coast - Sydney,13,Regional
 1-Feb-20,MCY,SYD,2020,2,837,51610,331,83.6,43142,Sunshine Coast - Sydney,14,Regional
 1-Mar-20,MCY,SYD,2020,3,837,45896,297,68.1,31271,Sunshine Coast - Sydney,15,Regional
-1-Apr-20,MCY,SYD,2020,4,837,,,,,Sunshine Coast - Sydney,16,Regional
-1-May-20,MCY,SYD,2020,5,837,,,,,Sunshine Coast - Sydney,17,Regional
-1-Jun-20,MCY,SYD,2020,6,837,,,,,Sunshine Coast - Sydney,18,Regional
-1-Jul-20,MCY,SYD,2020,7,837,,,,,Sunshine Coast - Sydney,19,Regional
-1-Aug-20,MCY,SYD,2020,8,837,,,,,Sunshine Coast - Sydney,20,Regional
-1-Sep-20,MCY,SYD,2020,9,837,,,,,Sunshine Coast - Sydney,21,Regional
-1-Oct-20,MCY,SYD,2020,10,837,,,,,Sunshine Coast - Sydney,22,Regional
-1-Nov-20,MCY,SYD,2020,11,837,,,,,Sunshine Coast - Sydney,23,Regional
+1-Apr-20,MCY,SYD,2020,4,837,0,0,0,0,Sunshine Coast - Sydney,16,Regional
+1-May-20,MCY,SYD,2020,5,837,0,0,0,0,Sunshine Coast - Sydney,17,Regional
+1-Jun-20,MCY,SYD,2020,6,837,0,0,0,0,Sunshine Coast - Sydney,18,Regional
+1-Jul-20,MCY,SYD,2020,7,837,0,0,0,0,Sunshine Coast - Sydney,19,Regional
+1-Aug-20,MCY,SYD,2020,8,837,0,0,0,0,Sunshine Coast - Sydney,20,Regional
+1-Sep-20,MCY,SYD,2020,9,837,0,0,0,0,Sunshine Coast - Sydney,21,Regional
+1-Oct-20,MCY,SYD,2020,10,837,0,0,0,0,Sunshine Coast - Sydney,22,Regional
+1-Nov-20,MCY,SYD,2020,11,837,0,0,0,0,Sunshine Coast - Sydney,23,Regional
 1-Dec-20,MCY,SYD,2020,12,837,28460,174,63,17922,Sunshine Coast - Sydney,24,Regional
-1-Jan-21,MCY,SYD,2021,1,837,,,,,Sunshine Coast - Sydney,25,Regional
+1-Jan-21,MCY,SYD,2021,1,837,0,0,0,0,Sunshine Coast - Sydney,25,Regional
 1-Feb-21,MCY,SYD,2021,2,837,26026,165,79.4,20652,Sunshine Coast - Sydney,26,Regional
 1-Mar-21,MCY,SYD,2021,3,837,50798,328,74.4,37786,Sunshine Coast - Sydney,27,Regional
 1-Apr-21,MCY,SYD,2021,4,837,70605,424,80.2,56650,Sunshine Coast - Sydney,28,Regional
@@ -1697,18 +1697,18 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-20,MEL,MQL,2020,4,457,2390,41,20.8,497,Melbourne - Mildura,16,Regional
 1-May-20,MEL,MQL,2020,5,457,1794,34,42.1,756,Melbourne - Mildura,17,Regional
 1-Jun-20,MEL,MQL,2020,6,457,2815,48,61.2,1723,Melbourne - Mildura,18,Regional
-1-Jul-20,MEL,MQL,2020,7,457,,,,,Melbourne - Mildura,19,Regional
-1-Aug-20,MEL,MQL,2020,8,457,,,,,Melbourne - Mildura,20,Regional
-1-Sep-20,MEL,MQL,2020,9,457,,,,,Melbourne - Mildura,21,Regional
-1-Oct-20,MEL,MQL,2020,10,457,,,,,Melbourne - Mildura,22,Regional
-1-Nov-20,MEL,MQL,2020,11,457,,,,,Melbourne - Mildura,23,Regional
-1-Dec-20,MEL,MQL,2020,12,457,,,,,Melbourne - Mildura,24,Regional
-1-Jan-21,MEL,MQL,2021,1,457,,,,,Melbourne - Mildura,25,Regional
-1-Feb-21,MEL,MQL,2021,2,457,,,,,Melbourne - Mildura,26,Regional
-1-Mar-21,MEL,MQL,2021,3,457,,,,,Melbourne - Mildura,27,Regional
+1-Jul-20,MEL,MQL,2020,7,457,0,0,0,0,Melbourne - Mildura,19,Regional
+1-Aug-20,MEL,MQL,2020,8,457,0,0,0,0,Melbourne - Mildura,20,Regional
+1-Sep-20,MEL,MQL,2020,9,457,0,0,0,0,Melbourne - Mildura,21,Regional
+1-Oct-20,MEL,MQL,2020,10,457,0,0,0,0,Melbourne - Mildura,22,Regional
+1-Nov-20,MEL,MQL,2020,11,457,0,0,0,0,Melbourne - Mildura,23,Regional
+1-Dec-20,MEL,MQL,2020,12,457,0,0,0,0,Melbourne - Mildura,24,Regional
+1-Jan-21,MEL,MQL,2021,1,457,0,0,0,0,Melbourne - Mildura,25,Regional
+1-Feb-21,MEL,MQL,2021,2,457,0,0,0,0,Melbourne - Mildura,26,Regional
+1-Mar-21,MEL,MQL,2021,3,457,0,0,0,0,Melbourne - Mildura,27,Regional
 1-Apr-21,MEL,MQL,2021,4,457,16202,373,60.3,9777,Melbourne - Mildura,28,Regional
 1-May-21,MEL,MQL,2021,5,457,16276,378,58.8,9569,Melbourne - Mildura,29,Regional
-1-Jun-21,MEL,MQL,2021,6,457,,,,,Melbourne - Mildura,30,Regional
+1-Jun-21,MEL,MQL,2021,6,457,0,0,0,0,Melbourne - Mildura,30,Regional
 1-Jan-19,MEL,NTL,2019,1,836,55063,304,82.8,45569,Melbourne - Newcastle,1,Regional
 1-Feb-19,MEL,NTL,2019,2,836,40537,224,85.5,34670,Melbourne - Newcastle,2,Regional
 1-Mar-19,MEL,NTL,2019,3,836,46886,258,86.5,40535,Melbourne - Newcastle,3,Regional
@@ -1724,21 +1724,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,MEL,NTL,2020,1,836,46874,257,87.6,41065,Melbourne - Newcastle,13,Regional
 1-Feb-20,MEL,NTL,2020,2,836,41487,228,84.4,35026,Melbourne - Newcastle,14,Regional
 1-Mar-20,MEL,NTL,2020,3,836,33384,184,69.2,23086,Melbourne - Newcastle,15,Regional
-1-Apr-20,MEL,NTL,2020,4,836,,,,,Melbourne - Newcastle,16,Regional
-1-May-20,MEL,NTL,2020,5,836,,,,,Melbourne - Newcastle,17,Regional
-1-Jun-20,MEL,NTL,2020,6,836,,,,,Melbourne - Newcastle,18,Regional
-1-Jul-20,MEL,NTL,2020,7,836,,,,,Melbourne - Newcastle,19,Regional
-1-Aug-20,MEL,NTL,2020,8,836,,,,,Melbourne - Newcastle,20,Regional
-1-Sep-20,MEL,NTL,2020,9,836,,,,,Melbourne - Newcastle,21,Regional
-1-Oct-20,MEL,NTL,2020,10,836,,,,,Melbourne - Newcastle,22,Regional
-1-Nov-20,MEL,NTL,2020,11,836,,,,,Melbourne - Newcastle,23,Regional
+1-Apr-20,MEL,NTL,2020,4,836,0,0,0,0,Melbourne - Newcastle,16,Regional
+1-May-20,MEL,NTL,2020,5,836,0,0,0,0,Melbourne - Newcastle,17,Regional
+1-Jun-20,MEL,NTL,2020,6,836,0,0,0,0,Melbourne - Newcastle,18,Regional
+1-Jul-20,MEL,NTL,2020,7,836,0,0,0,0,Melbourne - Newcastle,19,Regional
+1-Aug-20,MEL,NTL,2020,8,836,0,0,0,0,Melbourne - Newcastle,20,Regional
+1-Sep-20,MEL,NTL,2020,9,836,0,0,0,0,Melbourne - Newcastle,21,Regional
+1-Oct-20,MEL,NTL,2020,10,836,0,0,0,0,Melbourne - Newcastle,22,Regional
+1-Nov-20,MEL,NTL,2020,11,836,0,0,0,0,Melbourne - Newcastle,23,Regional
 1-Dec-20,MEL,NTL,2020,12,836,37888,206,59.5,22539,Melbourne - Newcastle,24,Regional
-1-Jan-21,MEL,NTL,2021,1,836,,,,,Melbourne - Newcastle,25,Regional
+1-Jan-21,MEL,NTL,2021,1,836,0,0,0,0,Melbourne - Newcastle,25,Regional
 1-Feb-21,MEL,NTL,2021,2,836,17940,99,59.8,10735,Melbourne - Newcastle,26,Regional
 1-Mar-21,MEL,NTL,2021,3,836,36460,215,60,21876,Melbourne - Newcastle,27,Regional
 1-Apr-21,MEL,NTL,2021,4,836,49651,304,67.2,33356,Melbourne - Newcastle,28,Regional
 1-May-21,MEL,NTL,2021,5,836,41666,260,61.6,25662,Melbourne - Newcastle,29,Regional
-1-Jun-21,MEL,NTL,2021,6,836,,,,,Melbourne - Newcastle,30,Regional
+1-Jun-21,MEL,NTL,2021,6,836,0,0,0,0,Melbourne - Newcastle,30,Regional
 1-Jan-19,MEL,OOL,2019,1,"1,330",232755,1236,88.7,206458,Gold Coast - Melbourne,1,Metropolitian
 1-Feb-19,MEL,OOL,2019,2,"1,330",160715,846,88.2,141685,Gold Coast - Melbourne,2,Metropolitian
 1-Mar-19,MEL,OOL,2019,3,"1,330",177718,941,89.2,158450,Gold Coast - Melbourne,3,Metropolitian
@@ -1754,14 +1754,14 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,MEL,OOL,2020,1,"1,330",211986,1123,92.8,196680,Gold Coast - Melbourne,13,Metropolitian
 1-Feb-20,MEL,OOL,2020,2,"1,330",163571,862,83.3,136318,Gold Coast - Melbourne,14,Metropolitian
 1-Mar-20,MEL,OOL,2020,3,"1,330",141244,754,72.2,101976,Gold Coast - Melbourne,15,Metropolitian
-1-Apr-20,MEL,OOL,2020,4,"1,330",,,,,Gold Coast - Melbourne,16,Metropolitian
-1-May-20,MEL,OOL,2020,5,"1,330",,,,,Gold Coast - Melbourne,17,Metropolitian
-1-Jun-20,MEL,OOL,2020,6,"1,330",,,,,Gold Coast - Melbourne,18,Metropolitian
-1-Jul-20,MEL,OOL,2020,7,"1,330",,,,,Gold Coast - Melbourne,19,Metropolitian
-1-Aug-20,MEL,OOL,2020,8,"1,330",,,,,Gold Coast - Melbourne,20,Metropolitian
-1-Sep-20,MEL,OOL,2020,9,"1,330",,,,,Gold Coast - Melbourne,21,Metropolitian
-1-Oct-20,MEL,OOL,2020,10,"1,330",,,,,Gold Coast - Melbourne,22,Metropolitian
-1-Nov-20,MEL,OOL,2020,11,"1,330",,,,,Gold Coast - Melbourne,23,Metropolitian
+1-Apr-20,MEL,OOL,2020,4,"1,330",0,0,0,0,Gold Coast - Melbourne,16,Metropolitian
+1-May-20,MEL,OOL,2020,5,"1,330",0,0,0,0,Gold Coast - Melbourne,17,Metropolitian
+1-Jun-20,MEL,OOL,2020,6,"1,330",0,0,0,0,Gold Coast - Melbourne,18,Metropolitian
+1-Jul-20,MEL,OOL,2020,7,"1,330",0,0,0,0,Gold Coast - Melbourne,19,Metropolitian
+1-Aug-20,MEL,OOL,2020,8,"1,330",0,0,0,0,Gold Coast - Melbourne,20,Metropolitian
+1-Sep-20,MEL,OOL,2020,9,"1,330",0,0,0,0,Gold Coast - Melbourne,21,Metropolitian
+1-Oct-20,MEL,OOL,2020,10,"1,330",0,0,0,0,Gold Coast - Melbourne,22,Metropolitian
+1-Nov-20,MEL,OOL,2020,11,"1,330",0,0,0,0,Gold Coast - Melbourne,23,Metropolitian
 1-Dec-20,MEL,OOL,2020,12,"1,330",96135,504,81.8,78612,Gold Coast - Melbourne,24,Metropolitian
 1-Jan-21,MEL,OOL,2021,1,"1,330",165414,865,76,125662,Gold Coast - Melbourne,25,Metropolitian
 1-Feb-21,MEL,OOL,2021,2,"1,330",78006,409,62.7,48932,Gold Coast - Melbourne,26,Metropolitian
@@ -1790,12 +1790,12 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jul-20,MEL,PER,2020,7,"2,706",22953,163,17.4,3986,Melbourne - Perth,19,Metropolitian
 1-Aug-20,MEL,PER,2020,8,"2,706",16150,132,12.4,2006,Melbourne - Perth,20,Metropolitian
 1-Sep-20,MEL,PER,2020,9,"2,706",14910,151,15.9,2370,Melbourne - Perth,21,Metropolitian
-1-Oct-20,MEL,PER,2020,10,"2,706",,,,,Melbourne - Perth,22,Metropolitian
-1-Nov-20,MEL,PER,2020,11,"2,706",,,,,Melbourne - Perth,23,Metropolitian
+1-Oct-20,MEL,PER,2020,10,"2,706",0,0,0,0,Melbourne - Perth,22,Metropolitian
+1-Nov-20,MEL,PER,2020,11,"2,706",0,0,0,0,Melbourne - Perth,23,Metropolitian
 1-Dec-20,MEL,PER,2020,12,"2,706",55408,428,77.9,43167,Melbourne - Perth,24,Metropolitian
 1-Jan-21,MEL,PER,2021,1,"2,706",44402,265,50.4,22370,Melbourne - Perth,25,Metropolitian
-1-Feb-21,MEL,PER,2021,2,"2,706",,,,,Melbourne - Perth,26,Metropolitian
-1-Mar-21,MEL,PER,2021,3,"2,706",,,,,Melbourne - Perth,27,Metropolitian
+1-Feb-21,MEL,PER,2021,2,"2,706",0,0,0,0,Melbourne - Perth,26,Metropolitian
+1-Mar-21,MEL,PER,2021,3,"2,706",0,0,0,0,Melbourne - Perth,27,Metropolitian
 1-Apr-21,MEL,PER,2021,4,"2,706",107856,649,80.7,87023,Melbourne - Perth,28,Metropolitian
 1-May-21,MEL,PER,2021,5,"2,706",107197,669,60.6,64943,Melbourne - Perth,29,Metropolitian
 1-Jun-21,MEL,PER,2021,6,"2,706",33050,265,26.5,8742,Melbourne - Perth,30,Metropolitian
@@ -1829,36 +1829,36 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Apr-21,MEL,SYD,2021,4,706,652850,3777,71,463253,Melbourne - Sydney,28,Metropolitian
 1-May-21,MEL,SYD,2021,5,706,616959,3613,61.4,378734,Melbourne - Sydney,29,Metropolitian
 1-Jun-21,MEL,SYD,2021,6,706,179126,1204,42.3,75800,Melbourne - Sydney,30,Metropolitian
-1-Jan-19,MEL,TSV,2019,1,"2,055",,,,,Melbourne - Townsville,1,Regional
-1-Feb-19,MEL,TSV,2019,2,"2,055",,,,,Melbourne - Townsville,2,Regional
-1-Mar-19,MEL,TSV,2019,3,"2,055",,,,,Melbourne - Townsville,3,Regional
-1-Apr-19,MEL,TSV,2019,4,"2,055",,,,,Melbourne - Townsville,4,Regional
-1-May-19,MEL,TSV,2019,5,"2,055",,,,,Melbourne - Townsville,5,Regional
-1-Jun-19,MEL,TSV,2019,6,"2,055",,,,,Melbourne - Townsville,6,Regional
-1-Jul-19,MEL,TSV,2019,7,"2,055",,,,,Melbourne - Townsville,7,Regional
-1-Aug-19,MEL,TSV,2019,8,"2,055",,,,,Melbourne - Townsville,8,Regional
-1-Sep-19,MEL,TSV,2019,9,"2,055",,,,,Melbourne - Townsville,9,Regional
-1-Oct-19,MEL,TSV,2019,10,"2,055",,,,,Melbourne - Townsville,10,Regional
-1-Nov-19,MEL,TSV,2019,11,"2,055",,,,,Melbourne - Townsville,11,Regional
-1-Dec-19,MEL,TSV,2019,12,"2,055",,,,,Melbourne - Townsville,12,Regional
-1-Jan-20,MEL,TSV,2020,1,"2,055",,,,,Melbourne - Townsville,13,Regional
-1-Feb-20,MEL,TSV,2020,2,"2,055",,,,,Melbourne - Townsville,14,Regional
-1-Mar-20,MEL,TSV,2020,3,"2,055",,,,,Melbourne - Townsville,15,Regional
-1-Apr-20,MEL,TSV,2020,4,"2,055",,,,,Melbourne - Townsville,16,Regional
-1-May-20,MEL,TSV,2020,5,"2,055",,,,,Melbourne - Townsville,17,Regional
-1-Jun-20,MEL,TSV,2020,6,"2,055",,,,,Melbourne - Townsville,18,Regional
-1-Jul-20,MEL,TSV,2020,7,"2,055",,,,,Melbourne - Townsville,19,Regional
-1-Aug-20,MEL,TSV,2020,8,"2,055",,,,,Melbourne - Townsville,20,Regional
-1-Sep-20,MEL,TSV,2020,9,"2,055",,,,,Melbourne - Townsville,21,Regional
-1-Oct-20,MEL,TSV,2020,10,"2,055",,,,,Melbourne - Townsville,22,Regional
-1-Nov-20,MEL,TSV,2020,11,"2,055",,,,,Melbourne - Townsville,23,Regional
-1-Dec-20,MEL,TSV,2020,12,"2,055",,,,,Melbourne - Townsville,24,Regional
-1-Jan-21,MEL,TSV,2021,1,"2,055",,,,,Melbourne - Townsville,25,Regional
-1-Feb-21,MEL,TSV,2021,2,"2,055",,,,,Melbourne - Townsville,26,Regional
-1-Mar-21,MEL,TSV,2021,3,"2,055",,,,,Melbourne - Townsville,27,Regional
-1-Apr-21,MEL,TSV,2021,4,"2,055",,,,,Melbourne - Townsville,28,Regional
-1-May-21,MEL,TSV,2021,5,"2,055",,,,,Melbourne - Townsville,29,Regional
-1-Jun-21,MEL,TSV,2021,6,"2,055",,,,,Melbourne - Townsville,30,Regional
+1-Jan-19,MEL,TSV,2019,1,"2,055",0,0,0,0,Melbourne - Townsville,1,Regional
+1-Feb-19,MEL,TSV,2019,2,"2,055",0,0,0,0,Melbourne - Townsville,2,Regional
+1-Mar-19,MEL,TSV,2019,3,"2,055",0,0,0,0,Melbourne - Townsville,3,Regional
+1-Apr-19,MEL,TSV,2019,4,"2,055",0,0,0,0,Melbourne - Townsville,4,Regional
+1-May-19,MEL,TSV,2019,5,"2,055",0,0,0,0,Melbourne - Townsville,5,Regional
+1-Jun-19,MEL,TSV,2019,6,"2,055",0,0,0,0,Melbourne - Townsville,6,Regional
+1-Jul-19,MEL,TSV,2019,7,"2,055",0,0,0,0,Melbourne - Townsville,7,Regional
+1-Aug-19,MEL,TSV,2019,8,"2,055",0,0,0,0,Melbourne - Townsville,8,Regional
+1-Sep-19,MEL,TSV,2019,9,"2,055",0,0,0,0,Melbourne - Townsville,9,Regional
+1-Oct-19,MEL,TSV,2019,10,"2,055",0,0,0,0,Melbourne - Townsville,10,Regional
+1-Nov-19,MEL,TSV,2019,11,"2,055",0,0,0,0,Melbourne - Townsville,11,Regional
+1-Dec-19,MEL,TSV,2019,12,"2,055",0,0,0,0,Melbourne - Townsville,12,Regional
+1-Jan-20,MEL,TSV,2020,1,"2,055",0,0,0,0,Melbourne - Townsville,13,Regional
+1-Feb-20,MEL,TSV,2020,2,"2,055",0,0,0,0,Melbourne - Townsville,14,Regional
+1-Mar-20,MEL,TSV,2020,3,"2,055",0,0,0,0,Melbourne - Townsville,15,Regional
+1-Apr-20,MEL,TSV,2020,4,"2,055",0,0,0,0,Melbourne - Townsville,16,Regional
+1-May-20,MEL,TSV,2020,5,"2,055",0,0,0,0,Melbourne - Townsville,17,Regional
+1-Jun-20,MEL,TSV,2020,6,"2,055",0,0,0,0,Melbourne - Townsville,18,Regional
+1-Jul-20,MEL,TSV,2020,7,"2,055",0,0,0,0,Melbourne - Townsville,19,Regional
+1-Aug-20,MEL,TSV,2020,8,"2,055",0,0,0,0,Melbourne - Townsville,20,Regional
+1-Sep-20,MEL,TSV,2020,9,"2,055",0,0,0,0,Melbourne - Townsville,21,Regional
+1-Oct-20,MEL,TSV,2020,10,"2,055",0,0,0,0,Melbourne - Townsville,22,Regional
+1-Nov-20,MEL,TSV,2020,11,"2,055",0,0,0,0,Melbourne - Townsville,23,Regional
+1-Dec-20,MEL,TSV,2020,12,"2,055",0,0,0,0,Melbourne - Townsville,24,Regional
+1-Jan-21,MEL,TSV,2021,1,"2,055",0,0,0,0,Melbourne - Townsville,25,Regional
+1-Feb-21,MEL,TSV,2021,2,"2,055",0,0,0,0,Melbourne - Townsville,26,Regional
+1-Mar-21,MEL,TSV,2021,3,"2,055",0,0,0,0,Melbourne - Townsville,27,Regional
+1-Apr-21,MEL,TSV,2021,4,"2,055",0,0,0,0,Melbourne - Townsville,28,Regional
+1-May-21,MEL,TSV,2021,5,"2,055",0,0,0,0,Melbourne - Townsville,29,Regional
+1-Jun-21,MEL,TSV,2021,6,"2,055",0,0,0,0,Melbourne - Townsville,30,Regional
 1-Jan-19,OOL,SYD,2019,1,680,289050,1609,91.7,264968,Gold Coast - Sydney,1,Metropolitian
 1-Feb-19,OOL,SYD,2019,2,680,223365,1262,90.5,202044,Gold Coast - Sydney,2,Metropolitian
 1-Mar-19,OOL,SYD,2019,3,680,248603,1408,87.5,217522,Gold Coast - Sydney,3,Metropolitian
@@ -1875,15 +1875,15 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Feb-20,OOL,SYD,2020,2,680,233317,1329,84.5,197130,Gold Coast - Sydney,14,Metropolitian
 1-Mar-20,OOL,SYD,2020,3,680,185151,1066,70.7,130820,Gold Coast - Sydney,15,Metropolitian
 1-Apr-20,OOL,SYD,2020,4,680,7695,44,19.7,1518,Gold Coast - Sydney,16,Metropolitian
-1-May-20,OOL,SYD,2020,5,680,,,,,Gold Coast - Sydney,17,Metropolitian
+1-May-20,OOL,SYD,2020,5,680,0,0,0,0,Gold Coast - Sydney,17,Metropolitian
 1-Jun-20,OOL,SYD,2020,6,680,7824,44,65,5089,Gold Coast - Sydney,18,Metropolitian
 1-Jul-20,OOL,SYD,2020,7,680,45069,248,76.2,34335,Gold Coast - Sydney,19,Metropolitian
 1-Aug-20,OOL,SYD,2020,8,680,6298,36,38.1,2398,Gold Coast - Sydney,20,Metropolitian
-1-Sep-20,OOL,SYD,2020,9,680,,,,,Gold Coast - Sydney,21,Metropolitian
-1-Oct-20,OOL,SYD,2020,10,680,,,,,Gold Coast - Sydney,22,Metropolitian
-1-Nov-20,OOL,SYD,2020,11,680,,,,,Gold Coast - Sydney,23,Metropolitian
+1-Sep-20,OOL,SYD,2020,9,680,0,0,0,0,Gold Coast - Sydney,21,Metropolitian
+1-Oct-20,OOL,SYD,2020,10,680,0,0,0,0,Gold Coast - Sydney,22,Metropolitian
+1-Nov-20,OOL,SYD,2020,11,680,0,0,0,0,Gold Coast - Sydney,23,Metropolitian
 1-Dec-20,OOL,SYD,2020,12,680,82088,484,66.9,54892,Gold Coast - Sydney,24,Metropolitian
-1-Jan-21,OOL,SYD,2021,1,680,,,,,Gold Coast - Sydney,25,Metropolitian
+1-Jan-21,OOL,SYD,2021,1,680,0,0,0,0,Gold Coast - Sydney,25,Metropolitian
 1-Feb-21,OOL,SYD,2021,2,680,82362,482,82.7,68124,Gold Coast - Sydney,26,Metropolitian
 1-Mar-21,OOL,SYD,2021,3,680,154258,880,77.9,120133,Gold Coast - Sydney,27,Metropolitian
 1-Apr-21,OOL,SYD,2021,4,680,255825,1446,70.5,180435,Gold Coast - Sydney,28,Metropolitian
@@ -1940,8 +1940,8 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jul-20,PER,SYD,2020,7,"3,284",24673,126,34.8,8591,Perth - Sydney,19,Metropolitian
 1-Aug-20,PER,SYD,2020,8,"3,284",18194,100,21.5,3913,Perth - Sydney,20,Metropolitian
 1-Sep-20,PER,SYD,2020,9,"3,284",17741,95,23.8,4228,Perth - Sydney,21,Metropolitian
-1-Oct-20,PER,SYD,2020,10,"3,284",,,,,Perth - Sydney,22,Metropolitian
-1-Nov-20,PER,SYD,2020,11,"3,284",,,,,Perth - Sydney,23,Metropolitian
+1-Oct-20,PER,SYD,2020,10,"3,284",0,0,0,0,Perth - Sydney,22,Metropolitian
+1-Nov-20,PER,SYD,2020,11,"3,284",0,0,0,0,Perth - Sydney,23,Metropolitian
 1-Dec-20,PER,SYD,2020,12,"3,284",40633,219,45,18286,Perth - Sydney,24,Metropolitian
 1-Jan-21,PER,SYD,2021,1,"3,284",19192,101,42.1,8079,Perth - Sydney,25,Metropolitian
 1-Feb-21,PER,SYD,2021,2,"3,284",26935,157,58.1,15658,Perth - Sydney,26,Metropolitian
@@ -1992,23 +1992,23 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Nov-19,PPP,SYD,2019,11,"1,517",10920,60,89.9,9812,Proserpine - Sydney,11,Regional
 1-Dec-19,PPP,SYD,2019,12,"1,517",11118,61,84.6,9407,Proserpine - Sydney,12,Regional
 1-Jan-20,PPP,SYD,2020,1,"1,517",11652,64,86.6,10090,Proserpine - Sydney,13,Regional
-1-Feb-20,PPP,SYD,2020,2,"1,517",,,,,Proserpine - Sydney,14,Regional
-1-Mar-20,PPP,SYD,2020,3,"1,517",,,,,Proserpine - Sydney,15,Regional
-1-Apr-20,PPP,SYD,2020,4,"1,517",,,,,Proserpine - Sydney,16,Regional
-1-May-20,PPP,SYD,2020,5,"1,517",,,,,Proserpine - Sydney,17,Regional
-1-Jun-20,PPP,SYD,2020,6,"1,517",,,,,Proserpine - Sydney,18,Regional
-1-Jul-20,PPP,SYD,2020,7,"1,517",,,,,Proserpine - Sydney,19,Regional
-1-Aug-20,PPP,SYD,2020,8,"1,517",,,,,Proserpine - Sydney,20,Regional
-1-Sep-20,PPP,SYD,2020,9,"1,517",,,,,Proserpine - Sydney,21,Regional
-1-Oct-20,PPP,SYD,2020,10,"1,517",,,,,Proserpine - Sydney,22,Regional
-1-Nov-20,PPP,SYD,2020,11,"1,517",,,,,Proserpine - Sydney,23,Regional
-1-Dec-20,PPP,SYD,2020,12,"1,517",,,,,Proserpine - Sydney,24,Regional
-1-Jan-21,PPP,SYD,2021,1,"1,517",,,,,Proserpine - Sydney,25,Regional
-1-Feb-21,PPP,SYD,2021,2,"1,517",,,,,Proserpine - Sydney,26,Regional
-1-Mar-21,PPP,SYD,2021,3,"1,517",,,,,Proserpine - Sydney,27,Regional
-1-Apr-21,PPP,SYD,2021,4,"1,517",,,,,Proserpine - Sydney,28,Regional
-1-May-21,PPP,SYD,2021,5,"1,517",,,,,Proserpine - Sydney,29,Regional
-1-Jun-21,PPP,SYD,2021,6,"1,517",,,,,Proserpine - Sydney,30,Regional
+1-Feb-20,PPP,SYD,2020,2,"1,517",0,0,0,0,Proserpine - Sydney,14,Regional
+1-Mar-20,PPP,SYD,2020,3,"1,517",0,0,0,0,Proserpine - Sydney,15,Regional
+1-Apr-20,PPP,SYD,2020,4,"1,517",0,0,0,0,Proserpine - Sydney,16,Regional
+1-May-20,PPP,SYD,2020,5,"1,517",0,0,0,0,Proserpine - Sydney,17,Regional
+1-Jun-20,PPP,SYD,2020,6,"1,517",0,0,0,0,Proserpine - Sydney,18,Regional
+1-Jul-20,PPP,SYD,2020,7,"1,517",0,0,0,0,Proserpine - Sydney,19,Regional
+1-Aug-20,PPP,SYD,2020,8,"1,517",0,0,0,0,Proserpine - Sydney,20,Regional
+1-Sep-20,PPP,SYD,2020,9,"1,517",0,0,0,0,Proserpine - Sydney,21,Regional
+1-Oct-20,PPP,SYD,2020,10,"1,517",0,0,0,0,Proserpine - Sydney,22,Regional
+1-Nov-20,PPP,SYD,2020,11,"1,517",0,0,0,0,Proserpine - Sydney,23,Regional
+1-Dec-20,PPP,SYD,2020,12,"1,517",0,0,0,0,Proserpine - Sydney,24,Regional
+1-Jan-21,PPP,SYD,2021,1,"1,517",0,0,0,0,Proserpine - Sydney,25,Regional
+1-Feb-21,PPP,SYD,2021,2,"1,517",0,0,0,0,Proserpine - Sydney,26,Regional
+1-Mar-21,PPP,SYD,2021,3,"1,517",0,0,0,0,Proserpine - Sydney,27,Regional
+1-Apr-21,PPP,SYD,2021,4,"1,517",0,0,0,0,Proserpine - Sydney,28,Regional
+1-May-21,PPP,SYD,2021,5,"1,517",0,0,0,0,Proserpine - Sydney,29,Regional
+1-Jun-21,PPP,SYD,2021,6,"1,517",0,0,0,0,Proserpine - Sydney,30,Regional
 1-Jan-19,PQQ,SYD,2019,1,321,20471,307,70.1,14342,Port Macquarie - Sydney,1,Regional
 1-Feb-19,PQQ,SYD,2019,2,321,20051,300,70.7,14175,Port Macquarie - Sydney,2,Regional
 1-Mar-19,PQQ,SYD,2019,3,321,22159,332,73.8,16343,Port Macquarie - Sydney,3,Regional
@@ -2024,19 +2024,19 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,PQQ,SYD,2020,1,321,19240,299,76.8,14785,Port Macquarie - Sydney,13,Regional
 1-Feb-20,PQQ,SYD,2020,2,321,18804,296,74.3,13978,Port Macquarie - Sydney,14,Regional
 1-Mar-20,PQQ,SYD,2020,3,321,17744,317,58.2,10334,Port Macquarie - Sydney,15,Regional
-1-Apr-20,PQQ,SYD,2020,4,321,,,,,Port Macquarie - Sydney,16,Regional
-1-May-20,PQQ,SYD,2020,5,321,,,,,Port Macquarie - Sydney,17,Regional
-1-Jun-20,PQQ,SYD,2020,6,321,,,,,Port Macquarie - Sydney,18,Regional
-1-Jul-20,PQQ,SYD,2020,7,321,,,,,Port Macquarie - Sydney,19,Regional
-1-Aug-20,PQQ,SYD,2020,8,321,,,,,Port Macquarie - Sydney,20,Regional
-1-Sep-20,PQQ,SYD,2020,9,321,,,,,Port Macquarie - Sydney,21,Regional
-1-Oct-20,PQQ,SYD,2020,10,321,,,,,Port Macquarie - Sydney,22,Regional
-1-Nov-20,PQQ,SYD,2020,11,321,,,,,Port Macquarie - Sydney,23,Regional
-1-Dec-20,PQQ,SYD,2020,12,321,,,,,Port Macquarie - Sydney,24,Regional
-1-Jan-21,PQQ,SYD,2021,1,321,,,,,Port Macquarie - Sydney,25,Regional
-1-Feb-21,PQQ,SYD,2021,2,321,,,,,Port Macquarie - Sydney,26,Regional
-1-Mar-21,PQQ,SYD,2021,3,321,,,,,Port Macquarie - Sydney,27,Regional
-1-Apr-21,PQQ,SYD,2021,4,321,,,,,Port Macquarie - Sydney,28,Regional
+1-Apr-20,PQQ,SYD,2020,4,321,0,0,0,0,Port Macquarie - Sydney,16,Regional
+1-May-20,PQQ,SYD,2020,5,321,0,0,0,0,Port Macquarie - Sydney,17,Regional
+1-Jun-20,PQQ,SYD,2020,6,321,0,0,0,0,Port Macquarie - Sydney,18,Regional
+1-Jul-20,PQQ,SYD,2020,7,321,0,0,0,0,Port Macquarie - Sydney,19,Regional
+1-Aug-20,PQQ,SYD,2020,8,321,0,0,0,0,Port Macquarie - Sydney,20,Regional
+1-Sep-20,PQQ,SYD,2020,9,321,0,0,0,0,Port Macquarie - Sydney,21,Regional
+1-Oct-20,PQQ,SYD,2020,10,321,0,0,0,0,Port Macquarie - Sydney,22,Regional
+1-Nov-20,PQQ,SYD,2020,11,321,0,0,0,0,Port Macquarie - Sydney,23,Regional
+1-Dec-20,PQQ,SYD,2020,12,321,0,0,0,0,Port Macquarie - Sydney,24,Regional
+1-Jan-21,PQQ,SYD,2021,1,321,0,0,0,0,Port Macquarie - Sydney,25,Regional
+1-Feb-21,PQQ,SYD,2021,2,321,0,0,0,0,Port Macquarie - Sydney,26,Regional
+1-Mar-21,PQQ,SYD,2021,3,321,0,0,0,0,Port Macquarie - Sydney,27,Regional
+1-Apr-21,PQQ,SYD,2021,4,321,0,0,0,0,Port Macquarie - Sydney,28,Regional
 1-May-21,PQQ,SYD,2021,5,321,21393,418,46.4,9937,Port Macquarie - Sydney,29,Regional
 1-Jun-21,PQQ,SYD,2021,6,321,19610,391,41.3,8100,Port Macquarie - Sydney,30,Regional
 1-Jan-19,QNA,SYD,2019,1,612,53450,304,85.7,45817,Ballina - Sydney,1,Regional
@@ -2054,7 +2054,7 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,QNA,SYD,2020,1,612,55366,311,84.9,46982,Ballina - Sydney,13,Regional
 1-Feb-20,QNA,SYD,2020,2,612,38922,248,83.8,32604,Ballina - Sydney,14,Regional
 1-Mar-20,QNA,SYD,2020,3,612,33310,218,67.7,22563,Ballina - Sydney,15,Regional
-1-Apr-20,QNA,SYD,2020,4,612,,,,,Ballina - Sydney,16,Regional
+1-Apr-20,QNA,SYD,2020,4,612,0,0,0,0,Ballina - Sydney,16,Regional
 1-May-20,QNA,SYD,2020,5,612,3814,32,62.1,2367,Ballina - Sydney,17,Regional
 1-Jun-20,QNA,SYD,2020,6,612,6503,72,85.9,5583,Ballina - Sydney,18,Regional
 1-Jul-20,QNA,SYD,2020,7,612,34705,258,77.3,26844,Ballina - Sydney,19,Regional
@@ -2084,21 +2084,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,SYD,TMW,2020,1,320,21608,349,62,13401,Sydney - Tamworth,13,Regional
 1-Feb-20,SYD,TMW,2020,2,320,21622,353,61.2,13240,Sydney - Tamworth,14,Regional
 1-Mar-20,SYD,TMW,2020,3,320,18910,315,47.7,9023,Sydney - Tamworth,15,Regional
-1-Apr-20,SYD,TMW,2020,4,320,,,,,Sydney - Tamworth,16,Regional
-1-May-20,SYD,TMW,2020,5,320,,,,,Sydney - Tamworth,17,Regional
-1-Jun-20,SYD,TMW,2020,6,320,,,,,Sydney - Tamworth,18,Regional
-1-Jul-20,SYD,TMW,2020,7,320,,,,,Sydney - Tamworth,19,Regional
-1-Aug-20,SYD,TMW,2020,8,320,,,,,Sydney - Tamworth,20,Regional
-1-Sep-20,SYD,TMW,2020,9,320,,,,,Sydney - Tamworth,21,Regional
-1-Oct-20,SYD,TMW,2020,10,320,,,,,Sydney - Tamworth,22,Regional
-1-Nov-20,SYD,TMW,2020,11,320,,,,,Sydney - Tamworth,23,Regional
-1-Dec-20,SYD,TMW,2020,12,320,,,,,Sydney - Tamworth,24,Regional
-1-Jan-21,SYD,TMW,2021,1,320,,,,,Sydney - Tamworth,25,Regional
-1-Feb-21,SYD,TMW,2021,2,320,,,,,Sydney - Tamworth,26,Regional
-1-Mar-21,SYD,TMW,2021,3,320,,,,,Sydney - Tamworth,27,Regional
-1-Apr-21,SYD,TMW,2021,4,320,,,,,Sydney - Tamworth,28,Regional
-1-May-21,SYD,TMW,2021,5,320,,,,,Sydney - Tamworth,29,Regional
-1-Jun-21,SYD,TMW,2021,6,320,,,,,Sydney - Tamworth,30,Regional
+1-Apr-20,SYD,TMW,2020,4,320,0,0,0,0,Sydney - Tamworth,16,Regional
+1-May-20,SYD,TMW,2020,5,320,0,0,0,0,Sydney - Tamworth,17,Regional
+1-Jun-20,SYD,TMW,2020,6,320,0,0,0,0,Sydney - Tamworth,18,Regional
+1-Jul-20,SYD,TMW,2020,7,320,0,0,0,0,Sydney - Tamworth,19,Regional
+1-Aug-20,SYD,TMW,2020,8,320,0,0,0,0,Sydney - Tamworth,20,Regional
+1-Sep-20,SYD,TMW,2020,9,320,0,0,0,0,Sydney - Tamworth,21,Regional
+1-Oct-20,SYD,TMW,2020,10,320,0,0,0,0,Sydney - Tamworth,22,Regional
+1-Nov-20,SYD,TMW,2020,11,320,0,0,0,0,Sydney - Tamworth,23,Regional
+1-Dec-20,SYD,TMW,2020,12,320,0,0,0,0,Sydney - Tamworth,24,Regional
+1-Jan-21,SYD,TMW,2021,1,320,0,0,0,0,Sydney - Tamworth,25,Regional
+1-Feb-21,SYD,TMW,2021,2,320,0,0,0,0,Sydney - Tamworth,26,Regional
+1-Mar-21,SYD,TMW,2021,3,320,0,0,0,0,Sydney - Tamworth,27,Regional
+1-Apr-21,SYD,TMW,2021,4,320,0,0,0,0,Sydney - Tamworth,28,Regional
+1-May-21,SYD,TMW,2021,5,320,0,0,0,0,Sydney - Tamworth,29,Regional
+1-Jun-21,SYD,TMW,2021,6,320,0,0,0,0,Sydney - Tamworth,30,Regional
 1-Jan-19,SYD,TSV,2019,1,"1,690",19328,108,78.4,15146,Sydney - Townsville,1,Regional
 1-Feb-19,SYD,TSV,2019,2,"1,690",12838,74,66.3,8515,Sydney - Townsville,2,Regional
 1-Mar-19,SYD,TSV,2019,3,"1,690",14388,82,78.6,11307,Sydney - Townsville,3,Regional
@@ -2114,21 +2114,21 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Jan-20,SYD,TSV,2020,1,"1,690",17998,104,79.8,14360,Sydney - Townsville,13,Regional
 1-Feb-20,SYD,TSV,2020,2,"1,690",10938,64,74,8097,Sydney - Townsville,14,Regional
 1-Mar-20,SYD,TSV,2020,3,"1,690",9956,58,66.1,6579,Sydney - Townsville,15,Regional
-1-Apr-20,SYD,TSV,2020,4,"1,690",,,,,Sydney - Townsville,16,Regional
-1-May-20,SYD,TSV,2020,5,"1,690",,,,,Sydney - Townsville,17,Regional
-1-Jun-20,SYD,TSV,2020,6,"1,690",,,,,Sydney - Townsville,18,Regional
-1-Jul-20,SYD,TSV,2020,7,"1,690",,,,,Sydney - Townsville,19,Regional
-1-Aug-20,SYD,TSV,2020,8,"1,690",,,,,Sydney - Townsville,20,Regional
-1-Sep-20,SYD,TSV,2020,9,"1,690",,,,,Sydney - Townsville,21,Regional
-1-Oct-20,SYD,TSV,2020,10,"1,690",,,,,Sydney - Townsville,22,Regional
-1-Nov-20,SYD,TSV,2020,11,"1,690",,,,,Sydney - Townsville,23,Regional
-1-Dec-20,SYD,TSV,2020,12,"1,690",,,,,Sydney - Townsville,24,Regional
-1-Jan-21,SYD,TSV,2021,1,"1,690",,,,,Sydney - Townsville,25,Regional
-1-Feb-21,SYD,TSV,2021,2,"1,690",,,,,Sydney - Townsville,26,Regional
-1-Mar-21,SYD,TSV,2021,3,"1,690",,,,,Sydney - Townsville,27,Regional
-1-Apr-21,SYD,TSV,2021,4,"1,690",,,,,Sydney - Townsville,28,Regional
-1-May-21,SYD,TSV,2021,5,"1,690",,,,,Sydney - Townsville,29,Regional
-1-Jun-21,SYD,TSV,2021,6,"1,690",,,,,Sydney - Townsville,30,Regional
+1-Apr-20,SYD,TSV,2020,4,"1,690",0,0,0,0,Sydney - Townsville,16,Regional
+1-May-20,SYD,TSV,2020,5,"1,690",0,0,0,0,Sydney - Townsville,17,Regional
+1-Jun-20,SYD,TSV,2020,6,"1,690",0,0,0,0,Sydney - Townsville,18,Regional
+1-Jul-20,SYD,TSV,2020,7,"1,690",0,0,0,0,Sydney - Townsville,19,Regional
+1-Aug-20,SYD,TSV,2020,8,"1,690",0,0,0,0,Sydney - Townsville,20,Regional
+1-Sep-20,SYD,TSV,2020,9,"1,690",0,0,0,0,Sydney - Townsville,21,Regional
+1-Oct-20,SYD,TSV,2020,10,"1,690",0,0,0,0,Sydney - Townsville,22,Regional
+1-Nov-20,SYD,TSV,2020,11,"1,690",0,0,0,0,Sydney - Townsville,23,Regional
+1-Dec-20,SYD,TSV,2020,12,"1,690",0,0,0,0,Sydney - Townsville,24,Regional
+1-Jan-21,SYD,TSV,2021,1,"1,690",0,0,0,0,Sydney - Townsville,25,Regional
+1-Feb-21,SYD,TSV,2021,2,"1,690",0,0,0,0,Sydney - Townsville,26,Regional
+1-Mar-21,SYD,TSV,2021,3,"1,690",0,0,0,0,Sydney - Townsville,27,Regional
+1-Apr-21,SYD,TSV,2021,4,"1,690",0,0,0,0,Sydney - Townsville,28,Regional
+1-May-21,SYD,TSV,2021,5,"1,690",0,0,0,0,Sydney - Townsville,29,Regional
+1-Jun-21,SYD,TSV,2021,6,"1,690",0,0,0,0,Sydney - Townsville,30,Regional
 1-Jan-19,SYD,WGA,2019,1,367,16364,280,66.2,10837,Sydney - Wagga Wagga,1,Regional
 1-Feb-19,SYD,WGA,2019,2,367,20117,390,62.8,12637,Sydney - Wagga Wagga,2,Regional
 1-Mar-19,SYD,WGA,2019,3,367,23644,470,65.2,15406,Sydney - Wagga Wagga,3,Regional
@@ -2146,15 +2146,15 @@ Date,Stop_1,Stop_2,Year,Month,Distance,Seats,Flights,Revenue_Percent,Passengers,
 1-Mar-20,SYD,WGA,2020,3,367,18871,385,49.5,9344,Sydney - Wagga Wagga,15,Regional
 1-Apr-20,SYD,WGA,2020,4,367,2285,48,11.8,269,Sydney - Wagga Wagga,16,Regional
 1-May-20,SYD,WGA,2020,5,367,1972,37,27.8,549,Sydney - Wagga Wagga,17,Regional
-1-Jun-20,SYD,WGA,2020,6,367,,,,,Sydney - Wagga Wagga,18,Regional
-1-Jul-20,SYD,WGA,2020,7,367,,,,,Sydney - Wagga Wagga,19,Regional
-1-Aug-20,SYD,WGA,2020,8,367,,,,,Sydney - Wagga Wagga,20,Regional
-1-Sep-20,SYD,WGA,2020,9,367,,,,,Sydney - Wagga Wagga,21,Regional
-1-Oct-20,SYD,WGA,2020,10,367,,,,,Sydney - Wagga Wagga,22,Regional
-1-Nov-20,SYD,WGA,2020,11,367,,,,,Sydney - Wagga Wagga,23,Regional
-1-Dec-20,SYD,WGA,2020,12,367,,,,,Sydney - Wagga Wagga,24,Regional
-1-Jan-21,SYD,WGA,2021,1,367,,,,,Sydney - Wagga Wagga,25,Regional
-1-Feb-21,SYD,WGA,2021,2,367,,,,,Sydney - Wagga Wagga,26,Regional
+1-Jun-20,SYD,WGA,2020,6,367,0,0,0,0,Sydney - Wagga Wagga,18,Regional
+1-Jul-20,SYD,WGA,2020,7,367,0,0,0,0,Sydney - Wagga Wagga,19,Regional
+1-Aug-20,SYD,WGA,2020,8,367,0,0,0,0,Sydney - Wagga Wagga,20,Regional
+1-Sep-20,SYD,WGA,2020,9,367,0,0,0,0,Sydney - Wagga Wagga,21,Regional
+1-Oct-20,SYD,WGA,2020,10,367,0,0,0,0,Sydney - Wagga Wagga,22,Regional
+1-Nov-20,SYD,WGA,2020,11,367,0,0,0,0,Sydney - Wagga Wagga,23,Regional
+1-Dec-20,SYD,WGA,2020,12,367,0,0,0,0,Sydney - Wagga Wagga,24,Regional
+1-Jan-21,SYD,WGA,2021,1,367,0,0,0,0,Sydney - Wagga Wagga,25,Regional
+1-Feb-21,SYD,WGA,2021,2,367,0,0,0,0,Sydney - Wagga Wagga,26,Regional
 1-Mar-21,SYD,WGA,2021,3,367,15852,268,53.7,8510,Sydney - Wagga Wagga,27,Regional
 1-Apr-21,SYD,WGA,2021,4,367,19054,315,51.3,9773,Sydney - Wagga Wagga,28,Regional
 1-May-21,SYD,WGA,2021,5,367,20078,335,54.2,10886,Sydney - Wagga Wagga,29,Regional
