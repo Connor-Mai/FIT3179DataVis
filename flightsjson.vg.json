@@ -1,26 +1,37 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "hconcat":[{ "width": 800,
-    "height": 600,
-    "title": "Commericial Flight Connections between Australian Airports from 2014 July-December",
+   "width": 800,
+    "height": 500,
+    "title": "Commericial Flight Connections between Australian Airports from 2019 to mid-2021",
+    "params":[{
+      "name": "Crutch_selection", "bind" :{"input": "range",
+        "min":1,
+        "max":30,
+        "step": 1,
+      "name": "Month: "}
+    }],
     "layer": [
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/main/aus_states.topojson",
-          "format": {"type": "topojson", "feature": "STE_2016_AUST"}
-        },
+      {"data": {
+          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/australia_states_us.topojson",
+          "selection": {
+            "grid": {"type": "interval", "bind": "scales"},"zoom": "wheel![event.shiftKey]"},
+            "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}},
         "mark": {"type": "geoshape", "fill": "#c0c0c0", "stroke": "white"}
-      },
+      }
+      ,
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/e20563e41e5a6b5270d8d90f0b49a2980e513995/major-airports-aus.csv"
+          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
         },
         "mark": {"type": "circle"},
+        "transform": [
+          {"filter":"datum.iata_code == 'MEL' || datum.iata_code == 'SYD' || datum.iata_code == 'BNE' || datum.iata_code == 'OOL' || datum.iata_code == 'CBR'"}        ],
         "encoding": {
-          "longitude": {"field": "longitude_deg", "type": "quantitative"},
-          "latitude": {"field": "latitude_deg", "type": "quantitative"},
-          "size": {"value": 50},
-          "color": {"value": "black"},
+          "longitude": {"field": "longitude", "type": "quantitative"},
+          "latitude": {"field": "latitude", "type": "quantitative"},
+          "aggregate": [{"op": "Flights", "as": "routes"}], "groupby": ["Stop_1"],
+          "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
+          "scale": {"rangeMax": 500}, "legend":null },
           "tooltip": [
             {"field": "name", "type": "nominal", "title":"Name"},
             {"field": "iata_code", "type": "nominal","title":"Code"}
@@ -30,29 +41,35 @@
       
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/main/domestic-transit-2014.csv"
+          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
         },
         "transform": [
-            {"lookup": "City1",
+          {"filter":"datum.Stop_1 !== 'QNA' || datum.Stop_2 !== 'QNA'"},
+          {"filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"},
+
+          
+
+
+            {"lookup": "Stop_1",
                 "from": {
-                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/e20563e41e5a6b5270d8d90f0b49a2980e513995/major-airports-aus.csv"
+                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
                 },
             "key": "iata_code",
-            "fields": ["longitude_deg","latitude_deg"]}
+            "fields": ["longitude","latitude"]}
             },
-            {"lookup": "City2",
+            {"lookup": "Stop_2",
                 "from": {
-                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/e20563e41e5a6b5270d8d90f0b49a2980e513995/major-airports-aus.csv"
+                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
                 },
             "key": "iata_code",
-            "fields": ["longitude_deg","latitude_deg"]}
+            "fields": ["longitude","latitude"]}
             }
         ],
         "mark": {"type": "line"},
         "encoding": {
-          "longitude": {"field": "longitude_deg", "type": "quantitative"},
-          "latitude": {"field": "latitude_deg", "type": "quantitative"},
-          "color": { "field": "Aircraft_Trips", "type": "quantitative", "scale": {"scheme": "reds"} },
+          "longitude": {"field": "longitude", "type": "quantitative"},
+          "latitude": {"field": "latitude", "type": "quantitative"},
+          
           "tooltip": [
             {"field": "City Pair Route", "type": "nominal", "title":"Route"},
             {"field": "Aircraft_Trips", "type": "quantitative","title":"No. of Trips"}
@@ -60,126 +77,7 @@
         }
       }
 
-    ]},{
-  "vconcat":[
-  {
-  "width": 800,
-  "height": 500,
-  "title": "Number of Flights between East Coast Cities from 2019 to mid-2021",
-  "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Week-10-Homework/2019-2021%20East%20Coast%20Flight%20Numbers.csv"},
-  "layer": [
-    {
-        "selection": {
-          "route_highlight": { 
-            "type": "multi", 
-            "fields": ["Route"], 
-            "bind": "legend" 
-            } 
-          },
-        "mark": { 
-          "type": "line", "point": true},
-  
-        "encoding": {
-          "x":{"timeUnit":"yearmonth","field":"Date","title":"Date"},
-          "y": {"aggregate":"mean","field": "Flights", "type": "quantitative", "title":"Number of Flights"},
-          "color": {"field": "Route", "type": "nominal"},
-          "opacity": { 
-            "condition": {"selection": "route_highlight", "value": 1}, 
-              "value": 0.2 },
-          "tooltip": [
-            {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
-            {"field": "Route", "type": "nominal", "title":"Route"},
-            {"field": "Flights", "type": "nominal","title":"Number of Flights"},
-            {"field": "Passengers", "type": "nominal","title":"Passengers"}
-          ]
-        }
-    }
-    ,
-    {
-
-      "encoding": {
-        "x":{ "aggregate": "max", "timeUnit":"yearmonth","field":"Date"},
-        "y": {"aggregate": {"argmax": "Date"}, "field": "Flights","type": "quantitative"},
-        "color": {"field": "Route", "type": "nominal"},
-        "opacity": { "condition": {"selection": "route_highlight", "value": 1}, "value": 0.2 }
-      },
-      "layer":[
-          {"mark": {"type": "text","align": "left","baseline": "middle", "dx":20,"fontSize": 11.5,"fontStyle": "italic"},
-          "encoding":{"text": {"field": "Route", "type": "nominal"}}}
-        
-        ],
-
-
-        "tooltip": [
-          {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
-          {"field": "Route", "type": "nominal", "title":"Route"},
-          {"field": "Flights", "type": "nominal","title":"Number of Flights"},
-          {"field": "Passengers", "type": "nominal","title":"Passengers"}
-        ]
-      }
-    
-  ]
-},
-{
-  "width": 800,
-  "height": 100,
-  "title": "Number of Passengers between East Coast Cities from 2019 to mid-2021",
-  "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Week-10-Homework/2019-2021%20East%20Coast%20Flight%20Numbers.csv"},
-  "layer": [
-    {
-        "selection": {
-          "route_highlight": { 
-            "type": "multi", 
-            "fields": ["Route"], 
-            "bind": "legend" 
-            } 
-          },
-        "mark": { 
-          "type": "line", "point": true},
-  
-        "encoding": {
-          "x":{"timeUnit":"yearmonth","field":"Date","title":"Date"},
-          "y": {"aggregate":"mean","field": "Passengers", "type": "quantitative", "title":"Number of Flights"},
-          "color": {"field": "Route", "type": "nominal"},
-          "opacity": { 
-            "condition": {"selection": "route_highlight", "value": 1}, 
-              "value": 0.2 },
-          "tooltip": [
-            {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
-            {"field": "Route", "type": "nominal", "title":"Route"},
-            {"field": "Flights", "type": "nominal","title":"Number of Flights"},
-            {"field": "Passengers", "type": "nominal","title":"Passengers"}
-          ]
-        }
-    },
-    {
-
-      "encoding": {
-        "x":{ "aggregate": "max", "timeUnit":"yearmonth","field":"Date"},
-        "y": {"aggregate": {"argmax": "Date"}, "field": "Passengers","type": "quantitative"},
-        "color": {"field": "Route", "type": "nominal"},
-        "opacity": { "condition": {"selection": "route_highlight", "value": 1}, "value": 0.2 }
-      },
-      "layer":[
-          {"mark": {"type": "text","align": "left","baseline": "middle", "dx":20,"fontSize": 11.5,"fontStyle": "italic"},
-          "encoding":{"text": {"field": "Route", "type": "nominal"}}}
-        
-        ],
-
-
-        "tooltip": [
-          {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
-          {"field": "Route", "type": "nominal", "title":"Route"},
-          {"field": "Flights", "type": "nominal","title":"Number of Flights"},
-          {"field": "Passengers", "type": "nominal","title":"Passengers"}
-        ]
-      }
-    
-  ]
-}
-]
-}
-] 
+    ]
 }
  
       

@@ -1,0 +1,246 @@
+/* Global Styles */
+* {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  margin: 0px 0px;
+  font-size: 24px;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Smooth Scrolling */
+}
+
+body {
+    width: 100%;
+  background-color: rgba(0,0,0,0);
+}
+
+
+
+/* Intro Styles */
+#intro {
+    max-width: inherit;
+    position: relative;
+    padding: 0px 150px;
+    margin: auto auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/8e/Tullamarine_International_terminal_Vabre-1.jpg);
+}
+
+#intro div {
+    margin: auto auto;
+    margin: 0px 0px 50px 0px;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
+#intro-text {
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#intro p {
+    padding: 20px;
+    font-size: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+/* Section Styles */
+#main-body {
+  margin: auto auto;
+  overflow: hidden;
+}
+
+#main-body div {
+  position: relative;
+  
+
+}
+
+.content {
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.content h2{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.content h4{
+  font-size: 26px;
+}
+
+.content p{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+
+.content table {
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.content table tr th {
+  width: 400px;
+  height: 200px;
+  margin: auto;
+
+}
+
+.highlights {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  margin: 0px 30px 50px 30px;
+  user-select: none;
+  background-color: gray;
+  border-radius: 100px;
+}
+
+.highlights h4{
+  padding-top: 45px;
+  font-size: 26px;
+  margin: auto;
+}
+
+.highlights p{
+  font-size: 20px;
+  font-weight: 500;
+  margin: auto;
+}
+
+
+.content figcaption h4{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+
+
+/* Parralax Background */
+.parralax {
+    height: 100%;
+    background-image: url(https://cdn.businesstraveller.com/wp-content/uploads/fly-images/764676/Qantas-Fleet_A380-Sydney-916x516.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#one,
+#two,
+#three {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 10px;
+
+}
+
+#vis1,
+#vis2 {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    display: table-cell;
+    padding: 20px 20px;
+    width: 40%;
+
+    display: table-cell;
+
+}
+
+#vis_text {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 10px;
+    font-size: 16px;
+    font-style: italic;
+
+}
+
+#intro_pa {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 30px;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+/* Back to Top Button */
+#backtotop {
+    position: fixed;
+    padding: 20px 40px;
+    padding-right: 100px;
+    bottom: 100px;
+    right: 0px;
+
+    text-decoration: none;
+    font-size: 125%;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+
+    background-color: rgba(109, 162, 188, .6);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 5px 0px 0px 5px;
+
+    z-index: 99;
+
+}
+
+#backtotop:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgb(226, 114, 57);
+    transition: 0.5s;
+}
+
+/* Footer Styles */
+footer {
+  background-image: linear-gradient(rgba(5, 13, 20, 0.7), rgba(5, 13, 20, 0.6)), url(background.jpg);
+  background-blend-mode: overlay, normal;
+  padding: 50px 50px 150px 150px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+footer div {
+  position: relative;
+}
+
+footer h6,
+footer p {
+  margin-bottom: 20px;
+}
+
+footer h6 {
+  font-weight: normal;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+}
+
+footer p,
+footer a {
+  font-weight: 100;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  font-style: italic;
+}

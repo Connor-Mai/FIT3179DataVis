@@ -1,0 +1,949 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "view": {
+       "stroke": "transparent"
+    }
+  },
+  "background":"rgba(255,255,255,0)",
+  "padding": {"left": 0, "top": 0, "right": 10, "bottom": 0},
+"vconcat":[{
+  "width": 1350,
+"height": 400,
+
+"title": "Passenger Revenue Percentage",
+"data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"},
+"layer": [
+  {"params": [{
+    "name": "brush",
+    "select": {"type": "interval", "encodings": ["x"]}
+  }],
+      "mark": { 
+        "type": "line", "point": true},
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'SYD'"
+        }]
+        
+  },
+  {
+    "mark": { 
+      "type": "line", "point": true},
+      "transform": [{
+        "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'OOL'"
+      }]
+},
+{
+  "mark": { 
+    "type": "line", "point": true},
+    "transform": [{
+      "filter": "datum.Stop_1 == 'BNE' && datum.Stop_2 == 'MEL'"
+    }]
+},
+{
+"mark": { 
+  "type": "line", "point": true},
+  "transform": [{
+    "filter": "datum.Stop_1 == 'ADL' && datum.Stop_2 == 'MEL'"
+  }]
+},
+{
+  "mark": { 
+    "type": "line", "point": true},
+    "transform": [{
+      "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'PER'"
+    }]
+  }
+  
+],
+"encoding": {
+  "x":{"timeUnit":"yearmonth","field":"Date","title":"Date"},
+  "y": {"aggregate":"mean","field": "Revenue_Percent", "type": "quantitative", "title":"Flight Revenue Percentage per Month (%)"},
+  "opacity": {
+    "condition": {
+      "param": "brush", "value": 1
+    },
+    "value": 0.7
+  },
+  "color": {"field": "Route", "type": "nominal","legend":{"orient": "top"}},
+  "tooltip": [
+    {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
+    {"field": "Route", "type": "nominal", "title":"Route"},
+    {"field": "Flights", "type": "nominal","title":"No. of Flights"}
+  ]
+}},{
+  "data": {
+    "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
+  },
+  "hconcat": [{
+      "vconcat": [{
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'SYD'"
+        },{
+          "filter": "datum.Flights > 0"
+        },{
+          "filter": {"param": "brush"}
+        }],
+        "layer": [{
+            "title": "Passeneger Revenue (MEL - SYD)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear",
+                  "domain": [1 , 100]
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]}],
+            "encoding": {
+
+              "y": {
+                "field": "mean",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              }
+              
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]},
+              {
+                "calculate": "'Mean Revenue: '+ format(datum.mean, '.2f') + '%'",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }, {
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'SYD'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passenger Capacity (MEL - SYD)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Seats",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "encoding": {
+
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "aggregate":"mean",
+                "title": "Passengers"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "title": "Passengers"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Passengers", "as": "mean2"},
+              {"op": "stdev", "field": "Passengers", "as": "stdev2"}
+            ]},
+              {
+                "calculate": "'Mean Passengers: '+ format(datum.mean2, '.0f')",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }]
+    },{
+      "vconcat": [{
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'ADL' && datum.Stop_2 == 'MEL'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passeneger Revenue (MEL - ADL)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear",
+                  "domain": [1 , 100]
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]}],
+            "encoding": {
+
+              "y": {
+                "field": "mean",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]},
+              {
+                "calculate": "'Mean Revenue: '+ format(datum.mean, '.2f') + '%'",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }, {
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'ADL' && datum.Stop_2 == 'MEL'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passenger Capacity (MEL - ADL)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Seats",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "encoding": {
+
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "aggregate":"mean",
+                "title": "Passengers"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "title": "Passengers"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Passengers", "as": "mean2"},
+              {"op": "stdev", "field": "Passengers", "as": "stdev2"}
+            ]},
+              {
+                "calculate": "'Mean Passengers: '+ format(datum.mean2, '.0f')",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }]
+    },
+    {
+      "vconcat": [{
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'BNE' && datum.Stop_2 == 'MEL'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passeneger Revenue (MEL - BNE)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear",
+                  "domain": [1 , 100]
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]}],
+            "encoding": {
+
+              "y": {
+                "field": "mean",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]},
+              {
+                "calculate": "'Mean Revenue: '+ format(datum.mean, '.2f') + '%'",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }, {
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'BNE' && datum.Stop_2 == 'MEL'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passenger Capacity (MEL - BNE)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Seats",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "encoding": {
+
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "aggregate":"mean",
+                "title": "Passengers"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "title": "Passengers"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Passengers", "as": "mean2"},
+              {"op": "stdev", "field": "Passengers", "as": "stdev2"}
+            ]},
+              {
+                "calculate": "'Mean Passengers: '+ format(datum.mean2, '.0f')",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }]
+
+
+    },{
+      "vconcat": [{
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'OOL'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passeneger Revenue (MEL - OOL)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear",
+                  "domain": [1 , 100]
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]}],
+            "encoding": {
+
+              "y": {
+                "field": "mean",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]},
+              {
+                "calculate": "'Mean Revenue: '+ format(datum.mean, '.2f') + '%'",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }, {
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'OOL'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passenger Capacity (MEL - OOL)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Seats",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "encoding": {
+
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "aggregate":"mean",
+                "title": "Passengers"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "title": "Passengers"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Passengers", "as": "mean2"},
+              {"op": "stdev", "field": "Passengers", "as": "stdev2"}
+            ]},
+              {
+                "calculate": "'Mean Passengers: '+ format(datum.mean2, '.0f')",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }]
+
+
+    },
+    {
+      "vconcat": [{
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'PER'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passeneger Revenue (MEL - PER)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear",
+                  "domain": [1 , 100]
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]}],
+            "encoding": {
+
+              "y": {
+                "field": "mean",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Revenue_Percent",
+                "type": "quantitative",
+                "title": "Passenger Revenue"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Revenue_Percent", "as": "mean"},
+              {"op": "stdev", "field": "Revenue_Percent", "as": "stdev"}
+            ]},
+              {
+                "calculate": "'Mean Revenue: '+ format(datum.mean, '.2f') + '%'",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }, {
+        "width": 200,
+        "height": 200,
+        "transform": [{
+          "filter": "datum.Stop_1 == 'MEL' && datum.Stop_2 == 'PER'"
+        },{
+          "filter": {"param": "brush"}
+        },{
+          "filter": "datum.Flights > 0"
+        }],
+        "layer": [{
+            "title": "Passenger Capacity (MEL - PER)",
+            "mark": "point",
+            "encoding": {
+              "x": {
+                "field": "Flights",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              },
+              "y": {
+                "field": "Seats",
+                "type": "quantitative",
+                "scale": {
+                  "type": "linear"
+                }
+              }
+            }
+          },
+          {
+            "mark": {
+              "type": "rule",
+              "color": "firebrick"
+            },
+            "encoding": {
+
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "aggregate":"mean",
+                "title": "Passengers"
+              }
+            }
+          }
+          ,
+          {
+            "mark": {"type": "errorband", "extent": "stdev", "opacity": 0.2},
+            "encoding": {
+              
+              "y": {
+                "field": "Passengers",
+                "type": "quantitative",
+                "title": "Passengers"
+              },
+              "tooltip": null
+            }
+          },
+          {
+            "transform": [{"aggregate": [
+              {"op": "mean", "field": "Passengers", "as": "mean2"},
+              {"op": "stdev", "field": "Passengers", "as": "stdev2"}
+            ]},
+              {
+                "calculate": "'Mean Passengers: '+ format(datum.mean2, '.0f')",
+                "as": "R2"
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "color": "firebrick",
+              "x": "width",
+              "align": "right",
+              "y": -5
+            },
+            "encoding": {
+              "text": {
+                "type": "nominal",
+                "field": "R2"
+              }
+            }
+          }
+        ]
+      }]
+
+
+    }
+  ]
+  }]
+}

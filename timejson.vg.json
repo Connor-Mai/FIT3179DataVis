@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "title": "Passenger Revenue Percentage from 2019 to mid-2021",
+  "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"},
+  
+  "layer": [
+    {
+        "mark": { 
+          "type": "line", "point": true},
+          "transform": [{
+            "filter": "datum.Stop_1 == 'MEL' || datum.Stop_2 == 'MEL'"
+          }]
+    }
+    
+  ],
+  "encoding": {
+    "x":{"timeUnit":"yearmonth","field":"Date","title":"Date"},
+    "y": {"aggregate":"mean","field": "Revenue_Percent", "type": "quantitative", "title":"Flight Revenue Percentage per Month (%)"},
+    "color": {"field": "Route", "type": "nominal"},
+    "tooltip": [
+      {"timeUnit":"yearmonth", "field":"Date", "title":"Date"},
+      {"field": "Route", "type": "nominal", "title":"Route"},
+      {"field": "Flights", "type": "nominal","title":"No. of Flights"}
+    ]
+  }
+}
+  
+  
