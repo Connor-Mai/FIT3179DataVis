@@ -1,87 +1,147 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-   "width": 800,
-    "height": 500,
-    "title": "Commericial Flight Connections between Australian Airports from 2019 to mid-2021",
-    "params":[{
-      "name": "Crutch_selection", "bind" :{"input": "range",
-        "min":1,
-        "max":30,
-        "step": 1,
-      "name": "Month: "}
-    }],
-    "layer": [
-      {"data": {
-          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/australia_states_us.topojson",
-          "selection": {
-            "grid": {"type": "interval", "bind": "scales"},"zoom": "wheel![event.shiftKey]"},
-            "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}},
-        "mark": {"type": "geoshape", "fill": "#c0c0c0", "stroke": "white"}
-      }
-      ,
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+  "width": 800,
+  "height": 500,
+  "title": "Commericial Flight Connections between Australian Airports from 2019 to mid-2021",
+  "params": [{
+    "name": "Crutch_selection",
+    "bind": {
+      "input": "range",
+      "min": 1,
+      "max": 30,
+      "step": 1,
+      "name": "Month: "
+    }
+  }],
+  "layer": [{
+      "data": {
+        "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/australia_states_us.topojson",
+        "selection": {
+          "grid": {
+            "type": "interval",
+            "bind": "scales"
+          },
+          "zoom": "wheel![event.shiftKey]"
         },
-        "mark": {"type": "circle"},
-        "transform": [
-          {"filter":"datum.iata_code == 'MEL' || datum.iata_code == 'SYD' || datum.iata_code == 'BNE' || datum.iata_code == 'OOL' || datum.iata_code == 'CBR'"}        ],
-        "encoding": {
-          "longitude": {"field": "longitude", "type": "quantitative"},
-          "latitude": {"field": "latitude", "type": "quantitative"},
-          "aggregate": [{"op": "Flights", "as": "routes"}], "groupby": ["Stop_1"],
-          "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
-          "scale": {"rangeMax": 500}, "legend":null },
-          "tooltip": [
-            {"field": "name", "type": "nominal", "title":"Name"},
-            {"field": "iata_code", "type": "nominal","title":"Code"}
-          ]
+        "format": {
+          "type": "topojson",
+          "feature": "ne_50m_admin_1_states_provinces"
         }
       },
-      
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
-        },
-        "transform": [
-          {"filter":"datum.Stop_1 !== 'QNA' || datum.Stop_2 !== 'QNA'"},
-          {"filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"},
-
-          
-
-
-            {"lookup": "Stop_1",
-                "from": {
-                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
-                },
-            "key": "iata_code",
-            "fields": ["longitude","latitude"]}
-            },
-            {"lookup": "Stop_2",
-                "from": {
-                    "data":{"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
-                },
-            "key": "iata_code",
-            "fields": ["longitude","latitude"]}
-            }
-        ],
-        "mark": {"type": "line"},
-        "encoding": {
-          "longitude": {"field": "longitude", "type": "quantitative"},
-          "latitude": {"field": "latitude", "type": "quantitative"},
-          
-          "tooltip": [
-            {"field": "City Pair Route", "type": "nominal", "title":"Route"},
-            {"field": "Aircraft_Trips", "type": "quantitative","title":"No. of Trips"}
-          ]
-        }
+      "mark": {
+        "type": "geoshape",
+        "fill": "#c0c0c0",
+        "stroke": "white"
       }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+      },
+      "mark": {
+        "type": "circle"
+      },
+      "transform": [{
+        "filter": "datum.iata_code == 'MEL' || datum.iata_code == 'SYD' || datum.iata_code == 'BNE' || datum.iata_code == 'OOL' || datum.iata_code == 'CBR'"
+      }],
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "aggregate": [{
+          "op": "Flights",
+          "as": "routes"
+        }],
+        "groupby": ["Stop_1"],
+        "size": {
+          "field": "routes",
+          "type": "quantitative",
+          "title": "Number of Unique Routes",
+          "scale": {
+            "rangeMax": 500
+          },
+          "legend": null
+        },
+        "tooltip": [{
+            "field": "name",
+            "type": "nominal",
+            "title": "Name"
+          },
+          {
+            "field": "iata_code",
+            "type": "nominal",
+            "title": "Code"
+          }
+        ]
+      }
+    },
 
-    ]
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
+      },
+      "transform": [{
+          "filter": "datum.Stop_1 !== 'QNA' || datum.Stop_2 !== 'QNA'"
+        },
+        {
+          "filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"
+        },
+
+
+
+
+        {
+          "lookup": "Stop_1",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+            },
+            "key": "iata_code",
+            "fields": ["longitude", "latitude"]
+          }
+        },
+        {
+          "lookup": "Stop_2",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+            },
+            "key": "iata_code",
+            "fields": ["longitude", "latitude"]
+          }
+        }
+      ],
+      "mark": {
+        "type": "line"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+
+        "tooltip": [{
+            "field": "City Pair Route",
+            "type": "nominal",
+            "title": "Route"
+          },
+          {
+            "field": "Aircraft_Trips",
+            "type": "quantitative",
+            "title": "No. of Trips"
+          }
+        ]
+      }
+    }
+
+  ]
 }
- 
-      
-      
-      
-
-  

@@ -1,141 +1,319 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "projection": {"type": "equirectangular"},
+  "projection": {
+    "type": "equirectangular"
+  },
   "width": 800,
   "height": 500,
   "title": "Commericial Flight Connections between Australian Airports from 2019 to mid-2021",
-  "params":[{
-    "name": "Crutch_selection","value":1, "bind" :{"input": "range",
-      "min":1,
-      "max":30,
-      "step": 1,
-    "name": "Month: "}
-  },
-  {
-    "name": "Region_Select", "bind" :{"input": "select",
-      "options":[null,"Regional","Metropolitian"],
-      "labels": ["Show All","Regional","Metropolitian"],
-    "name": "Connection Type: "}
-  },
-  {
-    "name": "State_Select", "bind" :{"input": "select",
-      "options":[null,"VIC","NSW","SA","TAS","WA","QLD","ACT","NT"],
-      "labels": ["Show All","Victoria","New South Wales","South Australia","Tasmania","Western Australia","Queensland","Australian Capital Territory","Northern Territory"],
-    "name": "State Connections: "}
-  }]
-  ,
-
-  "layer": [
-    {"data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/australia_states_us.topojson",
-      "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}},
-      "mark": {"type": "geoshape", "fill": "#c0c0c0", "stroke": "white"}
+  "params": [{
+      "name": "Crutch_selection",
+      "value": 1,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 30,
+        "step": 1,
+        "name": "Month: "
+      }
+    },
+    {
+      "name": "Region_Select",
+      "bind": {
+        "input": "select",
+        "options": [null, "Regional", "Metropolitian"],
+        "labels": ["Show All", "Regional", "Metropolitian"],
+        "name": "Connection Type: "
+      }
+    },
+    {
+      "name": "State_Select",
+      "bind": {
+        "input": "select",
+        "options": [null, "VIC", "NSW", "SA", "TAS", "WA", "QLD", "ACT", "NT"],
+        "labels": ["Show All", "Victoria", "New South Wales", "South Australia", "Tasmania", "Western Australia", "Queensland", "Australian Capital Territory", "Northern Territory"],
+        "name": "State Connections: "
+      }
     }
-    ,
+  ],
+
+  "layer": [{
+      "data": {
+        "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/australia_states_us.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_50m_admin_1_states_provinces"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#c0c0c0",
+        "stroke": "white"
+      }
+    },
     {
       "data": {
         "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
       },
-      "selection": {"route_highlight": 
-        { "type": "multi", "fields": ["Route"], "bind": "legend"} 
-        },
-      "transform": [
-        {"filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"},
-        {"filter": "Region_Select == null || datum.Type == Region_Select"},
-        {"filter": "State_Select == null || datum.State == State_Select"},
-        {"filter": "datum.Flights > 0"},
-        {"lookup": "Stop_1","from": {
-        "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"},
-         "key": "iata_code","fields": ["latitude", "longitude"]},
-          "as": ["stop1_latitude", "stop1_longitude"]
+      "selection": {
+        "route_highlight": {
+          "type": "multi",
+          "fields": ["Route"],
+          "bind": "legend"
         }
-        ,
-        {"lookup": "Stop_2","from": {
-        "data": { "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"},
-          "key": "iata_code","fields": ["latitude", "longitude"]},
+      },
+      "transform": [{
+          "filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"
+        },
+        {
+          "filter": "Region_Select == null || datum.Type == Region_Select"
+        },
+        {
+          "filter": "State_Select == null || datum.State == State_Select"
+        },
+        {
+          "filter": "datum.Flights > 0"
+        },
+        {
+          "lookup": "Stop_1",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+            },
+            "key": "iata_code",
+            "fields": ["latitude", "longitude"]
+          },
+          "as": ["stop1_latitude", "stop1_longitude"]
+        },
+        {
+          "lookup": "Stop_2",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+            },
+            "key": "iata_code",
+            "fields": ["latitude", "longitude"]
+          },
           "as": ["stop2_latitude", "stop2_longitude"]
         }
       ],
       "mark": "rule",
       "encoding": {
-        "longitude": {"field": "stop1_longitude","type": "quantitative"},
-        "latitude": {"field": "stop1_latitude","type": "quantitative"},
-        "longitude2": {"field": "stop2_longitude","type": "quantitative"},
-        "latitude2": {"field": "stop2_latitude","type": "quantitative"},
-        "color": {"field": "Route", "type": "nominal"},
-        "opacity": { "condition": 
-          {"selection": "route_highlight", "value": 1}, "value": 0 }
-      }
-    }
-    ,
-    {
-      "mark": {"type": "circle"},
-      "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"},
-      "transform": [
-        {"filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"},
-        {"filter": "Region_Select == null || datum.Type == Region_Select"},
-        {"filter": "State_Select == null || datum.State == State_Select"},
-        {"filter": "datum.Flights > 0"},
-        {"aggregate": [{"op": "count", "as": "routes"}], "groupby": ["Stop_1"]},
-        {"lookup": "Stop_1","from": 
-          {"data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"},
-          "key": "iata_code",
-          "fields": ["name","latitude", "longitude","iata_code","municipality"]}
+        "longitude": {
+          "field": "stop1_longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "stop1_latitude",
+          "type": "quantitative"
+        },
+        "longitude2": {
+          "field": "stop2_longitude",
+          "type": "quantitative"
+        },
+        "latitude2": {
+          "field": "stop2_latitude",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "Route",
+          "type": "nominal"
+        },
+        "opacity": {
+          "condition": {
+            "selection": "route_highlight",
+            "value": 1
+          },
+          "value": 0
         }
-      ],
-      "params": [{"name": "org","select": 
-        {"type": "point","on": "mouseover","nearest": true,"fields": ["Stop_1"]}
-      }],
-      "encoding": {
-        "longitude": {"field": "longitude", "type": "quantitative"},
-        "latitude": {"field": "latitude", "type": "quantitative"},
-        "tooltip": [
-          {"field": "name", "type": "nominal", "title":"Name"},
-          {"field": "iata_code", "type": "nominal","title":"Code"},
-          {"field": "municipality", "type": "nominal","title":"City"},
-          {"field": "routes", "type":"quantitative", "title":"Number of Routes"}
-        ],
-        "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
-          "scale": {"rangeMax": 1000}, "legend":null },
-        "order": {"field": "routes", "sort": "descending"}
-        
       }
     },
     {
-      "mark": {"type": "circle"},
-      "data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"},
-      "transform": [
-        {"filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"},
-        {"filter": "Region_Select == null || datum.Type == Region_Select"},
-        {"filter": "State_Select == null || datum.State == State_Select"},
-        {"filter": "datum.Flights > 0"},
-        {"aggregate": [{"op": "count", "as": "routes"}], "groupby": ["Stop_2"]},
-        {"lookup": "Stop_2","from": 
-          {"data": {"url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"},
-          "key": "iata_code",
-          "fields": ["name","latitude", "longitude","iata_code","municipality"]}
+      "mark": {
+        "type": "circle"
+      },
+      "data": {
+        "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
+      },
+      "transform": [{
+          "filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"
+        },
+        {
+          "filter": "Region_Select == null || datum.Type == Region_Select"
+        },
+        {
+          "filter": "State_Select == null || datum.State == State_Select"
+        },
+        {
+          "filter": "datum.Flights > 0"
+        },
+        {
+          "aggregate": [{
+            "op": "count",
+            "as": "routes"
+          }],
+          "groupby": ["Stop_1"]
+        },
+        {
+          "lookup": "Stop_1",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+            },
+            "key": "iata_code",
+            "fields": ["name", "latitude", "longitude", "iata_code", "municipality"]
+          }
         }
       ],
-      "params": [{"name": "org2","select": 
-        {"type": "point","on": "mouseover","nearest": true,"fields": ["Stop_2"]}
+      "params": [{
+        "name": "org",
+        "select": {
+          "type": "point",
+          "on": "mouseover",
+          "nearest": true,
+          "fields": ["Stop_1"]
+        }
       }],
       "encoding": {
-        "longitude": {"field": "longitude", "type": "quantitative"},
-        "latitude": {"field": "latitude", "type": "quantitative"},
-        "tooltip": [
-          {"field": "name", "type": "nominal", "title":"Name"},
-          {"field": "iata_code", "type": "nominal","title":"Code"},
-          {"field": "municipality", "type": "nominal","title":"City"},
-          {"field": "routes", "type":"quantitative", "title":"Number of Routes"}
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "tooltip": [{
+            "field": "name",
+            "type": "nominal",
+            "title": "Name"
+          },
+          {
+            "field": "iata_code",
+            "type": "nominal",
+            "title": "Code"
+          },
+          {
+            "field": "municipality",
+            "type": "nominal",
+            "title": "City"
+          },
+          {
+            "field": "routes",
+            "type": "quantitative",
+            "title": "Number of Routes"
+          }
         ],
-        "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
-          "scale": {"rangeMax": 1000}, "legend":null },
-        "order": {"field": "routes", "sort": "descending"}
-        
+        "size": {
+          "field": "routes",
+          "type": "quantitative",
+          "title": "Number of Unique Routes",
+          "scale": {
+            "rangeMax": 1000
+          },
+          "legend": null
+        },
+        "order": {
+          "field": "routes",
+          "sort": "descending"
+        }
+
+      }
+    },
+    {
+      "mark": {
+        "type": "circle"
+      },
+      "data": {
+        "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/domestic_flights_2019_21.csv"
+      },
+      "transform": [{
+          "filter": "Crutch_selection == null || datum.Crutch == Crutch_selection"
+        },
+        {
+          "filter": "Region_Select == null || datum.Type == Region_Select"
+        },
+        {
+          "filter": "State_Select == null || datum.State == State_Select"
+        },
+        {
+          "filter": "datum.Flights > 0"
+        },
+        {
+          "aggregate": [{
+            "op": "count",
+            "as": "routes"
+          }],
+          "groupby": ["Stop_2"]
+        },
+        {
+          "lookup": "Stop_2",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/Connor-Mai/FIT3179DataVis/Assignment2/airport_data.csv"
+            },
+            "key": "iata_code",
+            "fields": ["name", "latitude", "longitude", "iata_code", "municipality"]
+          }
+        }
+      ],
+      "params": [{
+        "name": "org2",
+        "select": {
+          "type": "point",
+          "on": "mouseover",
+          "nearest": true,
+          "fields": ["Stop_2"]
+        }
+      }],
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "tooltip": [{
+            "field": "name",
+            "type": "nominal",
+            "title": "Name"
+          },
+          {
+            "field": "iata_code",
+            "type": "nominal",
+            "title": "Code"
+          },
+          {
+            "field": "municipality",
+            "type": "nominal",
+            "title": "City"
+          },
+          {
+            "field": "routes",
+            "type": "quantitative",
+            "title": "Number of Routes"
+          }
+        ],
+        "size": {
+          "field": "routes",
+          "type": "quantitative",
+          "title": "Number of Unique Routes",
+          "scale": {
+            "rangeMax": 1000
+          },
+          "legend": null
+        },
+        "order": {
+          "field": "routes",
+          "sort": "descending"
+        }
+
       }
     }
-    
+
   ]
 
-  
-}
 
+}
