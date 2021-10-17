@@ -115,8 +115,8 @@
           {"field": "iso_country", "type":"nominal", "title":"Country"},
           {"field": "routes", "type":"quantitative", "title":"Routes"}
         ],
-        "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
-          "scale": {"rangeMax": 500}, "legend":null },
+        "size": {"field": "routes", "type": "quantitative", "legend":{"orient":"bottom"},"title": "Number of Unique Routes",
+          "scale": {"rangeMax": 500}},
         "order": {"field": "routes", "sort": "descending"}
         
       }
@@ -196,8 +196,8 @@
           {"field": "municipality", "type": "nominal","title":"City"},
           {"field": "routes", "type":"quantitative", "title":"Routes"}
         ],
-        "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
-          "scale": {"rangeMax": 1000}, "legend":null },
+        "size": {"field": "routes", "type": "quantitative", "legend":{"orient":"bottom"},"title": "Number of Unique Routes",
+          "scale": {"rangeMax": 500} },
         "order": {"field": "routes", "sort": "descending"}
         
       }
@@ -228,8 +228,8 @@
           {"field": "municipality", "type": "nominal","title":"City"},
           {"field": "routes", "type":"quantitative", "title":"Routes"}
         ],
-        "size": {"field": "routes", "type": "quantitative", "title": "Number of Unique Routes",
-          "scale": {"rangeMax": 1000}, "legend":null },
+        "size": {"field": "routes", "type": "quantitative", "legend":{"orient":"bottom"},"title": "Number of Unique Routes",
+          "scale": {"rangeMax": 500} },
         "order": {"field": "routes", "sort": "descending"}
         
       }
